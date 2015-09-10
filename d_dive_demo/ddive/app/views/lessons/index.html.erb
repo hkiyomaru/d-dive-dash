@@ -1,0 +1,23 @@
+<h1>検索結果</h1>
+<table>
+  <tr>
+    <th>講義名</th>
+    <th>教授</th>
+    <th>学期</th>
+    <th>校地</th>
+    <th>時間</th>
+    <th>教室</th>
+  </tr>
+  <% @lessons.each do |lesson|  %>
+  <tr>
+    <td><%= link_to lesson.title, lesson_path(lesson.id) %></td>
+    <td><%= lesson.teacher %></td>
+    <td><%= lesson.season  %></td>
+    <td><%= lesson.place  %></td>
+    <td><%= lesson.time  %></td>
+    <td><%= lesson.room %></td>
+  </tr>
+  <% end %>
+</table>
+
+
