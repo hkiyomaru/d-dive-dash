@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class LessonsController < ApplicationController
 
   def index
@@ -21,9 +22,25 @@ class LessonsController < ApplicationController
     end
   end
 
+  # GET /lessons
+  # GET /lessons.json
+  def welcome
+    @search = Lesson.search(params[:q])
+    @lessons = @search.result
+
+    respond_to do |format|
+      format.html
+      format.json { render json: @lessons }
+    end
+  end
+
+  def find
+    @lesson = Lesson.all
+  end
+
   private
     def lesson_params
-      params[:lesson].permit(:time, :room)
+      params[:lesson].permit(:title, :teacher, :season,:time, :room)
     end
 
 end

@@ -1,0 +1,9 @@
+<h1>Welcome to D-Dive</h1>
+
+<%= search_form_for @search, url: "lessons#find" do |f| %>
+  <%= f.label :title_cont, '講義名' %>
+  <%= f.search_field :title_cont %>
+  <div>
+    <%= f.submit '検索' %>
+  </div>
+<% end %>
