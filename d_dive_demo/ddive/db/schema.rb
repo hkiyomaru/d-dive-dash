@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150910040323) do
+ActiveRecord::Schema.define(version: 20150910160118) do
 
   create_table "lessons", force: true do |t|
     t.integer  "year"
@@ -23,6 +23,13 @@ ActiveRecord::Schema.define(version: 20150910040323) do
     t.string   "place"
     t.string   "time"
     t.string   "room"
+    t.datetime "created_at"
+    t.datetime "updated_at"
+  end
+
+  create_table "notes", force: true do |t|
+    t.string   "filename"
+    t.binary   "file"
     t.datetime "created_at"
     t.datetime "updated_at"
   end

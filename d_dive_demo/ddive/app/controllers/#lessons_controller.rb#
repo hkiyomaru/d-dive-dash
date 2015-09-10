@@ -23,8 +23,6 @@ class LessonsController < ApplicationController
     end
   end
 
-  # GET /lessons
-  # GET /lessons.json
   def welcome
     @search = Lesson.search(params[:q])
   end

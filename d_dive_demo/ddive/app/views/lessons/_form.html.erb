@@ -1,0 +1,5 @@
+<%= form_for(@lesson) do |f| %>
+    <%= f.label :title %><br />
+    """<%= f.select :user_id, User.all.map { |u| [u.name, u.id] } %>"""
+    <%= f.submit %>
+<% end %>
