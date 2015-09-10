@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150910160118) do
+ActiveRecord::Schema.define(version: 20150910162824) do
 
   create_table "lessons", force: true do |t|
     t.integer  "year"
@@ -30,8 +30,11 @@ ActiveRecord::Schema.define(version: 20150910160118) do
   create_table "notes", force: true do |t|
     t.string   "filename"
     t.binary   "file"
+    t.integer  "lesson_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
+
+  add_index "notes", ["lesson_id"], name: "index_notes_on_lesson_id"
 
 end

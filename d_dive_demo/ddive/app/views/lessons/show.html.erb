@@ -20,3 +20,19 @@
 <p>
 <%= link_to "時間・教室の編集", edit_lesson_path(@lesson.id) %>
 </p>
+
+<ul>
+  <% if @lesson.notes.any? %>
+    <%= @lesson.notes.each do |note|  %>
+      <li><%= note.filename %></li>
+    <% end %>
+  <% else %>
+    <p>講義ノートはアップロードされていません</p>
+  <% end %>
+      <li>
+    <%= form_for [@lesson, @lesson.notes.build] do |f| %>
+      <%= f.file_field :file %>
+      <%= f.submit %>
+    <% end %>
+  </li>
+</ul>

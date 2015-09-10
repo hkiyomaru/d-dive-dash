@@ -1,3 +1,4 @@
+# -*- coding: undecided -*-
 class CreateLessons < ActiveRecord::Migration
   def change
     create_table :lessons do |t|
@@ -8,8 +9,8 @@ class CreateLessons < ActiveRecord::Migration
       t.string :teacher
       t.string :season
       t.string :place
-      t.string :time
-      t.string :room
+      t.string :time, default: "未"
+      t.string :room, default: "未"
 
       t.timestamps
     end
