@@ -1,40 +1,63 @@
-<h1>検索結果</h1>
-<table>
-  <tr>
-    <th>講義名</th>
-    <th>教授</th>
-    <th>学期</th>
-    <th>校地</th>
-    <th>時間</th>
-    <th>教室</th>
-  </tr>
-  <% if @lessons.any? %>
-    <% @lessons.each do |lesson|  %>
-    <tr>
-        <% if lesson.title.length < 10 %>
-	 <td><%= link_to lesson.title, lesson_path(lesson.id) %></td>
-	<% else %>
-	 <td><%= link_to lesson.title[0,10], lesson_path(lesson.id) %>..</td>
-	<% end %>
-      </td>
-        <% if lesson.teacher.length < 10 %>
-	 <td><%= lesson.teacher %></td>
-	<% else %>
-	 <td><%= lesson.teacher[0,10] %>..</td>
-	<% end %>
-      <td><%= lesson.season  %></td>
-      <td><%= lesson.place  %></td>
-      <td><%= lesson.time  %></td>
-      <td><%= lesson.room %></td>
-    </tr>
-    <% end %>
-  <% else %>
-    <tr>
-      <td colspan="6">
-	お探しの情報に合う講義は見つかりませんでした
-      </td>
-    </tr>
-  <% end %>
-</table>
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>D-Dive</title>
+    <link rel="stylesheet" href="./DDiveStyle.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+
+  </head>
 
 
+  <body>
+   <div class="wrapper">
+   <div class="main">
+      <h1>D-Dive</h1>
+      <table class="table">
+        <thread>
+        <tr>
+         <th>講義名</th><th>教授</th><th>春/秋</th><th>校地</th><th>時間</th><th>教室</th>
+        </tr>
+        </thread>
+        <tbody>
+	  <% if @lessons.any? %>
+	  <% @lessons.each do |lesson|  %>
+            <tr>
+	     <% if lesson.title.length < 10 %>
+		<th><%= link_to lesson.title, lesson_path(lesson.id) %></th>
+		<% else %>
+		<th><%= link_to lesson.title[0,10], lesson_path(lesson.id) %>..</th>
+		<% end %>
+	     <% if lesson.teacher.length < 10 %>
+		<th><%= lesson.teacher %></th>
+		<% else %>
+		<th><%= lesson.teacher[0,10] %>..</th>
+		<% end %>
+	     <th><%= lesson.season  %></th>
+	     <th><%= lesson.place  %></th>
+	     <th><%= lesson.time  %></th>
+	     <th><%= lesson.room %></th>
+            </tr>
+	<% end %>
+	<% else %>
+	    <tr>
+	      <th colspan="6">
+		お探しの情報に合う講義は見つかりませんでした
+	      </th>
+	    </tr>
+	<% end %>
+          </tbody>
+      </table>
+
+   </div> 
+
+  </div>
+
+  </body>
+</html>

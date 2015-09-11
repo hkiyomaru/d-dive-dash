@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>D-Dive</title>
+    <link rel="stylesheet" href="./DDiveStyle.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+
+  </head>
+
+
+  <body>
+   <div class="wrapper">
+
+     <div class="header">
+       <h1>D-Dive</h1>
+      <form class="form-horizontal">
+       <div class="form-group">
+         <div class="col-sm-10 col-sm-offset-1">
+          <input type="class" class="form-control" id="InputClass" placeholder="講義名">
+          <input type="teacher" class="form-control" id="inputTeacher" placeholder="教授名">
+          <select class="form-control">
+           <option>学部</option>
+           <option>理工学部</option> 
+          </select>
+          <select class="form-control">
+            <option>春</option>
+            <option>秋</option>
+          </select>
+          <select class="form-control">
+            <option>曜日</option>
+            <option>月</option>
+            <option>火</option>
+            <option>水</option>
+            <option>木</option>
+            <option>金</option>
+            <option>土</option>
+          </select>
+          <select class="form-control">
+            <option>時限</option>
+            <option>1</option>
+            <option>2</option>
+            <option>3</option>
+            <option>4</option>
+            <option>5</option>
+            <option>6</option>
+          </select>
+        </div>
+       </div>
+       <div class="form-group2">
+        <div class="col-sm-12">
+          <button type="search" class="btn btn-default form-control"><i class=" glyphicon glyphicon-search"></i>検索</button>
+        </div>
+      </div>
+　　    </form>
+   </div>
+
+   <div class="main">
+      <table class="table">
+        <thread>
+        <tr>
+         <th>講義名</th><th>教授</th><th>春/秋</th><th>時間</th><th>校地</th><th>教室</th><th>潜りやすさ</th>
+            </tr>
+          </thread>
+          <tbody>
+            <tr>
+             <th>プログラミングjava1</th><th>小板太郎</th><th>春</th><th>金2</th><th>京田辺</th><th>JM404</th><th>B</th>
+            </tr>
+          </tbody>
+      </table>
+
+   </div> 
+
+  </div>
+
+  </body>
+</html>

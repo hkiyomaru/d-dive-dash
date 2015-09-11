@@ -4,7 +4,10 @@ Ddive::Application.routes.draw do
     resources :notes, only: [:create, :destroy]
   end
 
-  root 'lessons#welcome'
+  root 'lessons#welcome2'
+
+  get '/welcome2' => 'lessons#welcome2'
+  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

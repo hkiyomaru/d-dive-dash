@@ -2,11 +2,11 @@
 class NotesController < ApplicationController
   def create
     @lesson = Lesson.find(params[:lesson_id])
-    if params[:note_file].blank?
-      # redirect_to :back
+    if params[:lesson_id].blank?
+        redirect_to :back
       return
     else
-      upload_file = params[:note_file]
+      upload_file = params[:note][:file]
       content = {}
       content[:file] = upload_file.read
       content[:filename] = upload_file.original_filename

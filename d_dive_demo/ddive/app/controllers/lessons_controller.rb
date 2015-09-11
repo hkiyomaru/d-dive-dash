@@ -23,11 +23,19 @@ class LessonsController < ApplicationController
     end
   end
 
+  def bubble
+  end
+
   # GET /lessons
   # GET /lessons.json
   def welcome
     @search = Lesson.search(params[:q])
   end
+  
+  def welcome2
+    @search = Lesson.search(params[:q])
+  end
+  
 
   def find
     @search = Lesson.search(params[:q])
