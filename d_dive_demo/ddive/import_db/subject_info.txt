@@ -1,0 +1,1766 @@
+1,2015,60001-004,https://syllabus.doshisha.ac.jp/html/2015/60/160001004.html,解析学Ⅰ,向平 敦史,秋,京田辺,未,未,1
+2,2015,60003-001,https://syllabus.doshisha.ac.jp/html/2015/60/160003001.html,線形代数学Ⅰ－1,今井 仁司,秋,京田辺,未,未,1
+3,2015,60003-002,https://syllabus.doshisha.ac.jp/html/2015/60/160003002.html,線形代数学Ⅰ－2,向平 敦史,秋,京田辺,未,未,1
+4,2015,60003-003,https://syllabus.doshisha.ac.jp/html/2015/60/160003003.html,線形代数学Ⅰ－3,渡邊 芳英,秋,京田辺,未,未,1
+5,2015,60004-001,https://syllabus.doshisha.ac.jp/html/2015/60/160004001.html,線形代数学Ⅱ－1,今井 仁司,秋,京田辺,未,未,1
+6,2015,60004-002,https://syllabus.doshisha.ac.jp/html/2015/60/160004002.html,線形代数学Ⅱ－2,向平 敦史,秋,京田辺,未,未,1
+7,2015,60004-003,https://syllabus.doshisha.ac.jp/html/2015/60/160004003.html,線形代数学Ⅱ－3,渡邊 芳英,秋,京田辺,未,未,1
+8,2015,60006-002,https://syllabus.doshisha.ac.jp/html/2015/60/160006002.html,力学,和田 元,秋,京田辺,未,未,1
+9,2015,60011-004,https://syllabus.doshisha.ac.jp/html/2015/60/160011004.html,解析学Ⅱ,向平 敦史,秋,京田辺,未,未,1
+10,2015,60012-001,https://syllabus.doshisha.ac.jp/html/2015/60/160012001.html,基礎物理学－1,粕谷 俊郎,秋,京田辺,未,未,1
+11,2015,60012-002,https://syllabus.doshisha.ac.jp/html/2015/60/160012002.html,基礎物理学－2,和田 元,秋,京田辺,未,未,1
+12,2015,60013-004,https://syllabus.doshisha.ac.jp/html/2015/60/160013004.html,電気磁気学Ⅰ－4,馬場 吉弘,秋,京田辺,未,未,1
+13,2015,60014-004,https://syllabus.doshisha.ac.jp/html/2015/60/160014004.html,電気回路学Ⅰ－4,江本 顕雄,秋,京田辺,未,未,1
+14,2015,60015-001,https://syllabus.doshisha.ac.jp/html/2015/60/160015001.html,電気計測Ⅰ－1,松川 真美,秋,京田辺,未,未,1
+15,2015,60015-002,https://syllabus.doshisha.ac.jp/html/2015/60/160015002.html,電気計測Ⅰ－2,小山 大介,秋,京田辺,未,未,1
+16,2015,60016,https://syllabus.doshisha.ac.jp/html/2015/60/160016000.html,基礎演習実験,松川 真美長岡 直人福本 秀裕長谷川 謙一三隅 春雄望月 正明丹羽 弘奥田 雅史佐伯 髙晴寺田 元治横山 明夫,秋,京田辺,未,未,1
+17,2015,60017,https://syllabus.doshisha.ac.jp/html/2015/60/160017000.html,電気基礎実験Ⅰ,大谷 直毅福本 秀裕長谷川 謙一平嶋 利洋三隅 春雄望月 正明奥田 雅史佐伯 髙晴坂井 公一山本 惠俊横山 明夫,秋,京田辺,未,未,1
+18,2015,60020-001,https://syllabus.doshisha.ac.jp/html/2015/60/160020001.html,複素解析－1,辻本 諭,秋,京田辺,未,未,1
+19,2015,60020-002,https://syllabus.doshisha.ac.jp/html/2015/60/160020002.html,複素解析－2,辻本 諭,秋,京田辺,未,未,1
+20,2015,60028-001,https://syllabus.doshisha.ac.jp/html/2015/60/160028001.html,フーリエ・ラプラス解析－1,渡邊 芳英,秋,京田辺,未,未,1
+21,2015,60028-002,https://syllabus.doshisha.ac.jp/html/2015/60/160028002.html,フーリエ・ラプラス解析－2,片山 良一,秋,京田辺,未,未,1
+22,2015,60028-003,https://syllabus.doshisha.ac.jp/html/2015/60/160028003.html,フーリエ・ラプラス解析－3,岩井 敏洋,秋,京田辺,未,未,1
+23,2015,60029-004,https://syllabus.doshisha.ac.jp/html/2015/60/160029004.html,電気磁気学Ⅱ－4,佐々木 和可緒,秋,京田辺,未,未,1
+24,2015,60030-005,https://syllabus.doshisha.ac.jp/html/2015/60/160030005.html,電気回路学Ⅱ－5,戸田 裕之,秋,京田辺,未,未,1
+25,2015,60031-001,https://syllabus.doshisha.ac.jp/html/2015/60/160031001.html,電子回路－1,大谷 直毅,秋,京田辺,未,未,1
+26,2015,60031-002,https://syllabus.doshisha.ac.jp/html/2015/60/160031002.html,電子回路－2,戸田 裕之,秋,京田辺,未,未,1
+27,2015,60033,https://syllabus.doshisha.ac.jp/html/2015/60/160033000.html,電気基礎実験Ⅱ,粕谷 俊郎藤本 眞内藤 均丹羽 弘佐伯 髙晴佐野 義和須原 成史田中 裕治谷川 寛寺田 元治牛田 和彦,秋,京田辺,未,未,1
+28,2015,60034,https://syllabus.doshisha.ac.jp/html/2015/60/160034000.html,電気基礎実験Ⅲ,吉門 進三小山 大介藤本 眞平嶋 利洋丹羽 弘佐伯 髙晴佐野 義和須原 成史田中 裕治谷川 寛寺田 元治牛田 和彦,秋,京田辺,未,未,1
+29,2015,60040,https://syllabus.doshisha.ac.jp/html/2015/60/160040000.html,過渡現象論,馬場 吉弘,秋,京田辺,未,未,1
+30,2015,60041-001,https://syllabus.doshisha.ac.jp/html/2015/60/160041001.html,分布定数回路論－1,長岡 直人,秋,京田辺,未,未,1
+31,2015,60041-002,https://syllabus.doshisha.ac.jp/html/2015/60/160041002.html,分布定数回路論－2,出口 博之,秋,京田辺,未,未,1
+32,2015,60042,https://syllabus.doshisha.ac.jp/html/2015/60/160042000.html,電気工学実験Ⅰ,馬場 吉弘井上 馨加藤 利次髙橋 康人春名 洋海北橋 幸和田中 正明田中 裕治寺田 元治牛田 和彦山本 惠俊,秋,京田辺,未,未,1
+33,2015,60043,https://syllabus.doshisha.ac.jp/html/2015/60/160043000.html,制御工学,井上 馨,秋,京田辺,未,未,1
+34,2015,60051,https://syllabus.doshisha.ac.jp/html/2015/60/160051000.html,卒業論文Ⅰ,馬場 吉弘出口 博之藤原 耕二井上 馨岩井 誠人粕谷 俊郎加藤 利次松川 真美長岡 直人大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男和田 元吉門 進三江本 顕雄近藤 弘一小山 大介佐藤 祐喜三木 啓司髙橋 康人,秋,京田辺,未,未,1
+35,2015,60051-023,https://syllabus.doshisha.ac.jp/html/2015/60/160051023.html,電気回路研究室－23,加藤 利次井上 馨,秋,京田辺,未,未,1
+36,2015,60051-035,https://syllabus.doshisha.ac.jp/html/2015/60/160051035.html,プラズマ物理研究室－35,和田 元粕谷 俊郎,秋,京田辺,未,未,1
+37,2015,60051-040,https://syllabus.doshisha.ac.jp/html/2015/60/160051040.html,光・電子回路システム研究室－40,佐々木 和可緒戸田 裕之,秋,京田辺,未,未,1
+38,2015,60051-047,https://syllabus.doshisha.ac.jp/html/2015/60/160051047.html,通信方式研究室－47,笹岡 秀一岩井 誠人,秋,京田辺,未,未,1
+39,2015,60051-057,https://syllabus.doshisha.ac.jp/html/2015/60/160051057.html,電気電子材料研究室－57,吉門 進三佐藤 祐喜,秋,京田辺,未,未,1
+40,2015,60051-063,https://syllabus.doshisha.ac.jp/html/2015/60/160051063.html,電気機器研究室－63,藤原 耕二髙橋 康人,秋,京田辺,未,未,1
+41,2015,60051-064,https://syllabus.doshisha.ac.jp/html/2015/60/160051064.html,超音波エレクトロニクス・応用計測研究室－64,松川 真美小山 大介,秋,京田辺,未,未,1
+42,2015,60051-065,https://syllabus.doshisha.ac.jp/html/2015/60/160051065.html,応用数学研究室－65,近藤 弘一三木 啓司,秋,京田辺,未,未,1
+43,2015,60051-066,https://syllabus.doshisha.ac.jp/html/2015/60/160051066.html,電力系統解析研究室－66,馬場 吉弘長岡 直人,秋,京田辺,未,未,1
+44,2015,60051-067,https://syllabus.doshisha.ac.jp/html/2015/60/160051067.html,光デバイス研究室－67,大谷 直毅江本 顕雄,秋,京田辺,未,未,1
+45,2015,60051-068,https://syllabus.doshisha.ac.jp/html/2015/60/160051068.html,超高周波工学研究室－68,辻 幹男出口 博之,秋,京田辺,未,未,1
+46,2015,60052,https://syllabus.doshisha.ac.jp/html/2015/60/160052000.html,卒業論文Ⅱ,馬場 吉弘出口 博之藤原 耕二井上 馨岩井 誠人粕谷 俊郎加藤 利次松川 真美長岡 直人大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男和田 元吉門 進三江本 顕雄近藤 弘一小山 大介佐藤 祐喜三木 啓司髙橋 康人,秋,京田辺,未,未,1
+47,2015,60052-023,https://syllabus.doshisha.ac.jp/html/2015/60/160052023.html,電気回路研究室－23,加藤 利次井上 馨,秋,京田辺,未,未,1
+48,2015,60052-035,https://syllabus.doshisha.ac.jp/html/2015/60/160052035.html,プラズマ物理研究室－35,和田 元粕谷 俊郎,秋,京田辺,未,未,1
+49,2015,60052-040,https://syllabus.doshisha.ac.jp/html/2015/60/160052040.html,光・電子回路システム研究室－40,佐々木 和可緒戸田 裕之,秋,京田辺,未,未,1
+50,2015,60052-047,https://syllabus.doshisha.ac.jp/html/2015/60/160052047.html,通信方式研究室－47,笹岡 秀一岩井 誠人,秋,京田辺,未,未,1
+51,2015,60052-057,https://syllabus.doshisha.ac.jp/html/2015/60/160052057.html,電気電子材料研究室－57,吉門 進三佐藤 祐喜,秋,京田辺,未,未,1
+52,2015,60052-063,https://syllabus.doshisha.ac.jp/html/2015/60/160052063.html,電気機器研究室－63,藤原 耕二髙橋 康人,秋,京田辺,未,未,1
+53,2015,60052-064,https://syllabus.doshisha.ac.jp/html/2015/60/160052064.html,超音波エレクトロニクス・応用計測研究室－64,松川 真美小山 大介,秋,京田辺,未,未,1
+54,2015,60052-065,https://syllabus.doshisha.ac.jp/html/2015/60/160052065.html,応用数学研究室－65,近藤 弘一三木 啓司,秋,京田辺,未,未,1
+55,2015,60052-066,https://syllabus.doshisha.ac.jp/html/2015/60/160052066.html,電力系統解析研究室－66,馬場 吉弘長岡 直人,秋,京田辺,未,未,1
+56,2015,60052-067,https://syllabus.doshisha.ac.jp/html/2015/60/160052067.html,光デバイス研究室－67,大谷 直毅江本 顕雄,秋,京田辺,未,未,1
+57,2015,60052-068,https://syllabus.doshisha.ac.jp/html/2015/60/160052068.html,超高周波工学研究室－68,辻 幹男出口 博之,秋,京田辺,未,未,1
+58,2015,60060,https://syllabus.doshisha.ac.jp/html/2015/60/160060000.html,電気エネルギー工学Ⅰ,合田 忠弘,秋,京田辺,未,未,1
+59,2015,60061,https://syllabus.doshisha.ac.jp/html/2015/60/160061000.html,高電圧工学,加藤 利次,秋,京田辺,未,未,1
+60,2015,60062,https://syllabus.doshisha.ac.jp/html/2015/60/160062000.html,電気機器学Ⅰ,藤原 耕二,秋,京田辺,未,未,1
+61,2015,60070,https://syllabus.doshisha.ac.jp/html/2015/60/160070000.html,電気工学実験Ⅱ,馬場 吉弘井上 馨加藤 利次松川 真美長岡 直人小山 大介髙橋 康人三木 啓司春名 洋海田中 裕治寺田 元治牛田 和彦,秋,京田辺,未,未,1
+62,2015,60085,https://syllabus.doshisha.ac.jp/html/2015/60/160085000.html,コンピュータシステム入門,長岡 直人,秋,京田辺,未,未,1
+63,2015,60094,https://syllabus.doshisha.ac.jp/html/2015/60/160094000.html,電気計測Ⅱ,松川 真美,秋,京田辺,未,未,1
+64,2015,60098,https://syllabus.doshisha.ac.jp/html/2015/60/160098000.html,電気電子材料Ⅰ,吉門 進三,秋,京田辺,未,未,1
+65,2015,60099-001,https://syllabus.doshisha.ac.jp/html/2015/60/160099001.html,微分方程式－1,三木 啓司,秋,京田辺,未,未,1
+66,2015,60099-002,https://syllabus.doshisha.ac.jp/html/2015/60/160099002.html,微分方程式－2,渡邊 芳英,秋,京田辺,未,未,1
+67,2015,60099-003,https://syllabus.doshisha.ac.jp/html/2015/60/160099003.html,微分方程式－3,今井 仁司,秋,京田辺,未,未,1
+68,2015,60100-001,https://syllabus.doshisha.ac.jp/html/2015/60/160100001.html,電子デバイス概論－1,大谷 直毅,秋,京田辺,未,未,1
+69,2015,60100-002,https://syllabus.doshisha.ac.jp/html/2015/60/160100002.html,電子デバイス概論－2,吉門 進三,秋,京田辺,未,未,1
+70,2015,60101,https://syllabus.doshisha.ac.jp/html/2015/60/160101000.html,熱統計力学,粕谷 俊郎,秋,京田辺,未,未,1
+71,2015,60102,https://syllabus.doshisha.ac.jp/html/2015/60/160102000.html,連続体力学,粕谷 俊郎,秋,京田辺,未,未,1
+72,2015,60103-001,https://syllabus.doshisha.ac.jp/html/2015/60/160103001.html,アナログ電子回路－1,佐々木 和可緒,秋,京田辺,未,未,1
+73,2015,60103-002,https://syllabus.doshisha.ac.jp/html/2015/60/160103002.html,アナログ電子回路－2,戸田 裕之,秋,京田辺,未,未,1
+74,2015,60111,https://syllabus.doshisha.ac.jp/html/2015/60/160111000.html,計算数学,岩﨑 雅史,秋,京田辺,未,未,1
+75,2015,60118,https://syllabus.doshisha.ac.jp/html/2015/60/160118000.html,コンピュータ応用解析,加藤 利次,秋,京田辺,未,未,1
+76,2015,60119,https://syllabus.doshisha.ac.jp/html/2015/60/160119000.html,ディジタル信号処理,渡辺 好章,秋,京田辺,未,未,1
+77,2015,60120,https://syllabus.doshisha.ac.jp/html/2015/60/160120000.html,電気エネルギー工学Ⅱ,山本 修,秋,京田辺,未,未,1
+78,2015,60121,https://syllabus.doshisha.ac.jp/html/2015/60/160121000.html,電気エネルギー工学Ⅲ,馬場 吉弘,秋,京田辺,未,未,1
+79,2015,60129,https://syllabus.doshisha.ac.jp/html/2015/60/160129000.html,電気機器学Ⅱ,髙橋 康人,秋,京田辺,未,未,1
+80,2015,60131,https://syllabus.doshisha.ac.jp/html/2015/60/160131000.html,ディジタル電子回路,佐々木 和可緒,秋,京田辺,未,未,1
+81,2015,60134,https://syllabus.doshisha.ac.jp/html/2015/60/160134000.html,特別講義Ｂ,大谷 直毅荒井 亨那須 竜太郎釣谷 剛宏山邊 信彦山本 修安田 成留吉田 秀穂,秋,京田辺,未,未,1
+82,2015,60135,https://syllabus.doshisha.ac.jp/html/2015/60/160135000.html,学外実習,馬場 吉弘,秋,京田辺,未,未,1
+83,2015,60136-003,https://syllabus.doshisha.ac.jp/html/2015/60/160136003.html,応用解析－3,岩井 敏洋,秋,京田辺,未,未,1
+84,2015,60137,https://syllabus.doshisha.ac.jp/html/2015/60/160137000.html,数理統計学,長瀬 昭子,秋,京田辺,未,未,1
+85,2015,60138,https://syllabus.doshisha.ac.jp/html/2015/60/160138000.html,解析力学,粕谷 俊郎,秋,京田辺,未,未,1
+86,2015,60139,https://syllabus.doshisha.ac.jp/html/2015/60/160139000.html,量子力学,和田 元,秋,京田辺,未,未,1
+87,2015,60140,https://syllabus.doshisha.ac.jp/html/2015/60/160140000.html,電気電子材料Ⅱ,吉門 進三,秋,京田辺,未,未,1
+88,2015,60141-004,https://syllabus.doshisha.ac.jp/html/2015/60/160141004.html,コンピュータプログラミングＣⅠ－4,髙柳 真司,秋,京田辺,未,未,1
+89,2015,60142-001,https://syllabus.doshisha.ac.jp/html/2015/60/160142001.html,コンピュータプログラミングＣⅡ－1,小山 大介,秋,京田辺,未,未,1
+90,2015,60142-002,https://syllabus.doshisha.ac.jp/html/2015/60/160142002.html,コンピュータプログラミングＣⅡ－2,岩井 誠人,秋,京田辺,未,未,1
+91,2015,60143,https://syllabus.doshisha.ac.jp/html/2015/60/160143000.html,ディジタル制御,井上 馨,秋,京田辺,未,未,1
+92,2015,60144,https://syllabus.doshisha.ac.jp/html/2015/60/160144000.html,電気設備・法規,深井 学本多 敦向井 文悟,秋,京田辺,未,未,1
+93,2015,60145,https://syllabus.doshisha.ac.jp/html/2015/60/160145000.html,プラズマ工学,和田 元,秋,京田辺,未,未,1
+94,2015,60151,https://syllabus.doshisha.ac.jp/html/2015/60/160151000.html,電磁波論,辻 幹男,秋,京田辺,未,未,1
+95,2015,60169,https://syllabus.doshisha.ac.jp/html/2015/60/160169000.html,アンテナ工学,出口 博之,秋,京田辺,未,未,1
+96,2015,60170,https://syllabus.doshisha.ac.jp/html/2015/60/160170000.html,マイクロ波工学,辻 幹男,秋,京田辺,未,未,1
+97,2015,60171,https://syllabus.doshisha.ac.jp/html/2015/60/160171000.html,超音波エレクトロニクスⅡ,松川 真美,秋,京田辺,未,未,1
+98,2015,60182,https://syllabus.doshisha.ac.jp/html/2015/60/160182000.html,電子工学実験Ⅰ,出口 博之岩井 誠人佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男江本 顕雄佐藤 祐喜平嶋 利洋坂井 公一杉左近 隆須原 成史,秋,京田辺,未,未,1
+99,2015,60183,https://syllabus.doshisha.ac.jp/html/2015/60/160183000.html,電子工学実験Ⅱ,出口 博之岩井 誠人粕谷 俊郎大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之和田 元江本 顕雄佐藤 祐喜平嶋 利洋須原 成史山本 惠俊,秋,京田辺,未,未,1
+100,2015,60185,https://syllabus.doshisha.ac.jp/html/2015/60/160185000.html,情報理論,笹岡 秀一,秋,京田辺,未,未,1
+101,2015,60186,https://syllabus.doshisha.ac.jp/html/2015/60/160186000.html,ディジタル通信方式,笹岡 秀一,秋,京田辺,未,未,1
+102,2015,60188,https://syllabus.doshisha.ac.jp/html/2015/60/160188000.html,光通信工学,大谷 直毅,秋,京田辺,未,未,1
+103,2015,60189,https://syllabus.doshisha.ac.jp/html/2015/60/160189000.html,光エレクトロニクス,佐々木 和可緒,秋,京田辺,未,未,1
+104,2015,60190,https://syllabus.doshisha.ac.jp/html/2015/60/160190000.html,ディジタル集積回路,佐藤 祐喜,秋,京田辺,未,未,1
+105,2015,60191,https://syllabus.doshisha.ac.jp/html/2015/60/160191000.html,集積回路,佐藤 祐喜,秋,京田辺,未,未,1
+106,2015,60272,https://syllabus.doshisha.ac.jp/html/2015/60/160272000.html,電気機器設計法,野川 修一,秋,京田辺,未,未,1
+107,2015,60273,https://syllabus.doshisha.ac.jp/html/2015/60/160273000.html,応用幾何学Ⅰ,向平 敦史,秋,京田辺,未,未,1
+108,2015,60274,https://syllabus.doshisha.ac.jp/html/2015/60/160274000.html,応用幾何学Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+109,2015,60275,https://syllabus.doshisha.ac.jp/html/2015/60/160275000.html,応用代数学Ⅰ,長瀬 昭子,秋,京田辺,未,未,1
+110,2015,60276,https://syllabus.doshisha.ac.jp/html/2015/60/160276000.html,応用代数学Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+111,2015,60280,https://syllabus.doshisha.ac.jp/html/2015/60/160280000.html,電気電子工学概論,松川 真美澤村 晋次不定,秋,京田辺,未,未,1
+112,2015,60281,https://syllabus.doshisha.ac.jp/html/2015/60/160281000.html,パワーエレクトロニクス,藤原 耕二,秋,京田辺,未,未,1
+113,2015,60282,https://syllabus.doshisha.ac.jp/html/2015/60/160282000.html,応用抽象代数学,渡邊 芳英,秋,京田辺,未,未,1
+114,2015,60301,https://syllabus.doshisha.ac.jp/html/2015/60/160301000.html,幾何学Ⅰ,菅原 邦雄,秋,京田辺,未,未,1
+115,2015,60302,https://syllabus.doshisha.ac.jp/html/2015/60/160302000.html,幾何学Ⅱ,菅原 邦雄,秋,京田辺,未,未,1
+116,2015,60311,https://syllabus.doshisha.ac.jp/html/2015/60/160311000.html,教科教育法Ａ（工業）,川瀬 勝也,秋,京田辺,未,未,1
+117,2015,60312,https://syllabus.doshisha.ac.jp/html/2015/60/160312000.html,教科教育法Ｂ（工業）,川瀬 勝也,秋,京田辺,未,未,1
+118,2015,62006-001,https://syllabus.doshisha.ac.jp/html/2015/62/162006001.html,力学Ⅰ－1,水野 吉規,秋,京田辺,未,未,1
+119,2015,62006-002,https://syllabus.doshisha.ac.jp/html/2015/62/162006002.html,力学Ⅰ－2,吉永 隆夫,秋,京田辺,未,未,1
+120,2015,62006-003,https://syllabus.doshisha.ac.jp/html/2015/62/162006003.html,力学Ⅰ－3,水野 吉規,秋,京田辺,未,未,1
+121,2015,62006-004,https://syllabus.doshisha.ac.jp/html/2015/62/162006004.html,力学Ⅰ－4,吉永 隆夫,秋,京田辺,未,未,1
+122,2015,62007-001,https://syllabus.doshisha.ac.jp/html/2015/62/162007001.html,力学Ⅱ－1,木田 重雄,秋,京田辺,未,未,1
+123,2015,62007-002,https://syllabus.doshisha.ac.jp/html/2015/62/162007002.html,力学Ⅱ－2,水野 吉規,秋,京田辺,未,未,1
+124,2015,62007-003,https://syllabus.doshisha.ac.jp/html/2015/62/162007003.html,力学Ⅱ－3,木田 重雄,秋,京田辺,未,未,1
+125,2015,62007-004,https://syllabus.doshisha.ac.jp/html/2015/62/162007004.html,力学Ⅱ－4,水野 吉規,秋,京田辺,未,未,1
+126,2015,62008-001,https://syllabus.doshisha.ac.jp/html/2015/62/162008001.html,製図学－1,稲岡 恭二萩原 四郎菱田 典明越智 昭夫大見 康生関野 恭平高巣 周平清川 豊,秋,京田辺,未,未,1
+127,2015,62008-002,https://syllabus.doshisha.ac.jp/html/2015/62/162008002.html,製図学－2,稲岡 恭二萩原 四郎菱田 典明越智 昭夫大見 康生関野 恭平高巣 周平清川 豊,秋,京田辺,未,未,1
+128,2015,62008-003,https://syllabus.doshisha.ac.jp/html/2015/62/162008003.html,製図学－3,平山 朋子萩原 四郎菱田 典明岸 泰生鍋倉 正和副島 宗矩清川 豊,秋,京田辺,未,未,1
+129,2015,62008-004,https://syllabus.doshisha.ac.jp/html/2015/62/162008004.html,製図学－4,平山 朋子萩原 四郎菱田 典明岸 泰生鍋倉 正和副島 宗矩清川 豊,秋,京田辺,未,未,1
+130,2015,62020-001,https://syllabus.doshisha.ac.jp/html/2015/62/162020001.html,応用数学Ⅰ－1,押目 頼昌,秋,京田辺,未,未,1
+131,2015,62020-002,https://syllabus.doshisha.ac.jp/html/2015/62/162020002.html,応用数学Ⅰ－2,竹内 二郎,秋,京田辺,未,未,1
+132,2015,62021-001,https://syllabus.doshisha.ac.jp/html/2015/62/162021001.html,材料力学Ⅰ－1,藤井 透,秋,京田辺,未,未,1
+133,2015,62021-002,https://syllabus.doshisha.ac.jp/html/2015/62/162021002.html,材料力学Ⅰ－2,大窪 和也,秋,京田辺,未,未,1
+134,2015,62021-003,https://syllabus.doshisha.ac.jp/html/2015/62/162021003.html,材料力学Ⅰ－3,田中 達也,秋,京田辺,未,未,1
+135,2015,62022-001,https://syllabus.doshisha.ac.jp/html/2015/62/162022001.html,材料力学Ⅱ－1,藤井 透,秋,京田辺,未,未,1
+136,2015,62022-002,https://syllabus.doshisha.ac.jp/html/2015/62/162022002.html,材料力学Ⅱ－2,田中 達也,秋,京田辺,未,未,1
+137,2015,62028-001,https://syllabus.doshisha.ac.jp/html/2015/62/162028001.html,機械設計法Ⅰ－1,松岡 敬,秋,京田辺,未,未,1
+138,2015,62028-002,https://syllabus.doshisha.ac.jp/html/2015/62/162028002.html,機械設計法Ⅰ－2,平山 朋子,秋,京田辺,未,未,1
+139,2015,62040-001,https://syllabus.doshisha.ac.jp/html/2015/62/162040001.html,機械設計製図－1,岸 泰生宮 純史村山 弘岡村 貴句男瀧本 恭三,秋,京田辺,未,未,1
+140,2015,62040-002,https://syllabus.doshisha.ac.jp/html/2015/62/162040002.html,機械設計製図－2,岸 泰生宮 純史村山 弘岡村 貴句男瀧本 恭三,秋,京田辺,未,未,1
+141,2015,62040-003,https://syllabus.doshisha.ac.jp/html/2015/62/162040003.html,機械設計製図－3,岩渕 正幸岸 泰生副島 宗矩瀧本 恭三岡村 貴句男,秋,京田辺,未,未,1
+142,2015,62040-004,https://syllabus.doshisha.ac.jp/html/2015/62/162040004.html,機械設計製図－4,岩渕 正幸岸 泰生副島 宗矩瀧本 恭三岡村 貴句男,秋,京田辺,未,未,1
+143,2015,62050,https://syllabus.doshisha.ac.jp/html/2015/62/162050000.html,英書講読,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+144,2015,62052,https://syllabus.doshisha.ac.jp/html/2015/62/162052000.html,卒業論文Ⅰ,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+145,2015,62052-033,https://syllabus.doshisha.ac.jp/html/2015/62/162052033.html,千田衞・稲岡恭二研究室－33,千田 衞,秋,京田辺,未,未,1
+146,2015,62052-034,https://syllabus.doshisha.ac.jp/html/2015/62/162052034.html,藤井透・大窪和也研究室－34,藤井 透,秋,京田辺,未,未,1
+147,2015,62052-040,https://syllabus.doshisha.ac.jp/html/2015/62/162052040.html,青山栄一・廣垣俊樹研究室－40,青山 栄一,秋,京田辺,未,未,1
+148,2015,62052-042,https://syllabus.doshisha.ac.jp/html/2015/62/162052042.html,千田二郎・松村恵理子研究室－42,千田 二郎,秋,京田辺,未,未,1
+149,2015,62052-045,https://syllabus.doshisha.ac.jp/html/2015/62/162052045.html,水島二郎・多久和英樹研究室－45,水島 二郎,秋,京田辺,未,未,1
+150,2015,62052-048,https://syllabus.doshisha.ac.jp/html/2015/62/162052048.html,松岡敬・平山朋子研究室－48,松岡 敬,秋,京田辺,未,未,1
+151,2015,62052-049,https://syllabus.doshisha.ac.jp/html/2015/62/162052049.html,山口博司・平田勝哉研究室－49,平田 勝哉,秋,京田辺,未,未,1
+152,2015,62052-050,https://syllabus.doshisha.ac.jp/html/2015/62/162052050.html,辻内伸好・伊藤彰人研究室－50,辻内 伸好,秋,京田辺,未,未,1
+153,2015,62052-054,https://syllabus.doshisha.ac.jp/html/2015/62/162052054.html,千田衞・稲岡恭二研究室－54,稲岡 恭二,秋,京田辺,未,未,1
+154,2015,62052-055,https://syllabus.doshisha.ac.jp/html/2015/62/162052055.html,藤井透・大窪和也研究室－55,大窪 和也,秋,京田辺,未,未,1
+155,2015,62052-056,https://syllabus.doshisha.ac.jp/html/2015/62/162052056.html,宮本博之・藤原弘研究室－56,宮本 博之,秋,京田辺,未,未,1
+156,2015,62052-057,https://syllabus.doshisha.ac.jp/html/2015/62/162052057.html,高岡正憲・水野吉規研究室－57,高岡 正憲,秋,京田辺,未,未,1
+157,2015,62052-059,https://syllabus.doshisha.ac.jp/html/2015/62/162052059.html,青山栄一・廣垣俊樹研究室－59,廣垣 俊樹,秋,京田辺,未,未,1
+158,2015,62052-064,https://syllabus.doshisha.ac.jp/html/2015/62/162052064.html,田中達也研究室－64,田中 達也,秋,京田辺,未,未,1
+159,2015,62052-073,https://syllabus.doshisha.ac.jp/html/2015/62/162052073.html,宮本博之・藤原弘研究室－73,藤原 弘,秋,京田辺,未,未,1
+160,2015,62052-074,https://syllabus.doshisha.ac.jp/html/2015/62/162052074.html,高岡正憲・水野吉規研究室－74,水野 吉規,秋,京田辺,未,未,1
+161,2015,62052-075,https://syllabus.doshisha.ac.jp/html/2015/62/162052075.html,千田二郎・松村恵理子研究室－75,松村 恵理子,秋,京田辺,未,未,1
+162,2015,62052-076,https://syllabus.doshisha.ac.jp/html/2015/62/162052076.html,辻内伸好・伊藤彰人研究室－76,伊藤 彰人,秋,京田辺,未,未,1
+163,2015,62053,https://syllabus.doshisha.ac.jp/html/2015/62/162053000.html,卒業論文Ⅱ,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+164,2015,62053-033,https://syllabus.doshisha.ac.jp/html/2015/62/162053033.html,千田衞・稲岡恭二研究室－33,千田 衞,秋,京田辺,未,未,1
+165,2015,62053-034,https://syllabus.doshisha.ac.jp/html/2015/62/162053034.html,藤井透・大窪和也研究室－34,藤井 透,秋,京田辺,未,未,1
+166,2015,62053-040,https://syllabus.doshisha.ac.jp/html/2015/62/162053040.html,青山栄一・廣垣俊樹研究室－40,青山 栄一,秋,京田辺,未,未,1
+167,2015,62053-042,https://syllabus.doshisha.ac.jp/html/2015/62/162053042.html,千田二郎・松村恵理子研究室－42,千田 二郎,秋,京田辺,未,未,1
+168,2015,62053-045,https://syllabus.doshisha.ac.jp/html/2015/62/162053045.html,水島二郎・多久和英樹研究室－45,水島 二郎,秋,京田辺,未,未,1
+169,2015,62053-048,https://syllabus.doshisha.ac.jp/html/2015/62/162053048.html,松岡敬・平山朋子研究室－48,松岡 敬,秋,京田辺,未,未,1
+170,2015,62053-049,https://syllabus.doshisha.ac.jp/html/2015/62/162053049.html,山口博司・平田勝哉研究室－49,平田 勝哉,秋,京田辺,未,未,1
+171,2015,62053-050,https://syllabus.doshisha.ac.jp/html/2015/62/162053050.html,辻内伸好・伊藤彰人研究室－50,辻内 伸好,秋,京田辺,未,未,1
+172,2015,62053-054,https://syllabus.doshisha.ac.jp/html/2015/62/162053054.html,千田衞・稲岡恭二研究室－54,稲岡 恭二,秋,京田辺,未,未,1
+173,2015,62053-055,https://syllabus.doshisha.ac.jp/html/2015/62/162053055.html,藤井透・大窪和也研究室－55,大窪 和也,秋,京田辺,未,未,1
+174,2015,62053-056,https://syllabus.doshisha.ac.jp/html/2015/62/162053056.html,宮本博之・藤原弘研究室－56,宮本 博之,秋,京田辺,未,未,1
+175,2015,62053-057,https://syllabus.doshisha.ac.jp/html/2015/62/162053057.html,高岡正憲・水野吉規研究室－57,高岡 正憲,秋,京田辺,未,未,1
+176,2015,62053-059,https://syllabus.doshisha.ac.jp/html/2015/62/162053059.html,青山栄一・廣垣俊樹研究室－59,青山 栄一,秋,京田辺,未,未,1
+177,2015,62053-063,https://syllabus.doshisha.ac.jp/html/2015/62/162053063.html,松岡敬・平山朋子研究室－63,平山 朋子,秋,京田辺,未,未,1
+178,2015,62053-064,https://syllabus.doshisha.ac.jp/html/2015/62/162053064.html,田中達也研究室－64,田中 達也,秋,京田辺,未,未,1
+179,2015,62053-073,https://syllabus.doshisha.ac.jp/html/2015/62/162053073.html,宮本博之・藤原弘研究室－73,藤原 弘,秋,京田辺,未,未,1
+180,2015,62053-074,https://syllabus.doshisha.ac.jp/html/2015/62/162053074.html,高岡正憲・水野吉規研究室－74,水野 吉規,秋,京田辺,未,未,1
+181,2015,62053-075,https://syllabus.doshisha.ac.jp/html/2015/62/162053075.html,千田二郎・松村恵理子研究室－75,松村 恵理子,秋,京田辺,未,未,1
+182,2015,62053-076,https://syllabus.doshisha.ac.jp/html/2015/62/162053076.html,辻内伸好・伊藤彰人研究室－76,伊藤 彰人,秋,京田辺,未,未,1
+183,2015,62080-001,https://syllabus.doshisha.ac.jp/html/2015/62/162080001.html,応用数学Ⅱ－1,押目 頼昌,秋,京田辺,未,未,1
+184,2015,62080-002,https://syllabus.doshisha.ac.jp/html/2015/62/162080002.html,応用数学Ⅱ－2,竹内 二郎,秋,京田辺,未,未,1
+185,2015,62082-001,https://syllabus.doshisha.ac.jp/html/2015/62/162082001.html,連続体力学－1,田中 達也,秋,京田辺,未,未,1
+186,2015,62082-002,https://syllabus.doshisha.ac.jp/html/2015/62/162082002.html,連続体力学－2,平田 勝哉,秋,京田辺,未,未,1
+187,2015,62101-001,https://syllabus.doshisha.ac.jp/html/2015/62/162101001.html,解析力学－1,高岡 正憲,秋,京田辺,未,未,1
+188,2015,62101-002,https://syllabus.doshisha.ac.jp/html/2015/62/162101002.html,解析力学－2,高岡 正憲,秋,京田辺,未,未,1
+189,2015,62104-001,https://syllabus.doshisha.ac.jp/html/2015/62/162104001.html,機械設計法Ⅱ－1,松岡 敬,秋,京田辺,未,未,1
+190,2015,62104-002,https://syllabus.doshisha.ac.jp/html/2015/62/162104002.html,機械設計法Ⅱ－2,平山 朋子,秋,京田辺,未,未,1
+191,2015,62110,https://syllabus.doshisha.ac.jp/html/2015/62/162110000.html,弾性力学,大窪 和也,秋,京田辺,未,未,1
+192,2015,62111,https://syllabus.doshisha.ac.jp/html/2015/62/162111000.html,塑性力学,田中 達也,秋,京田辺,未,未,1
+193,2015,62113,https://syllabus.doshisha.ac.jp/html/2015/62/162113000.html,破壊力学,大窪 和也,秋,京田辺,未,未,1
+194,2015,62157,https://syllabus.doshisha.ac.jp/html/2015/62/162157000.html,学外実習,青山 栄一,秋,京田辺,未,未,1
+195,2015,62170-001,https://syllabus.doshisha.ac.jp/html/2015/62/162170001.html,物理学Ⅰ－1,高岡 正憲,秋,京田辺,未,未,1
+196,2015,62170-002,https://syllabus.doshisha.ac.jp/html/2015/62/162170002.html,物理学Ⅰ－2,水野 吉規,秋,京田辺,未,未,1
+197,2015,62170-003,https://syllabus.doshisha.ac.jp/html/2015/62/162170003.html,物理学Ⅰ－3,高岡 正憲,秋,京田辺,未,未,1
+198,2015,62170-004,https://syllabus.doshisha.ac.jp/html/2015/62/162170004.html,物理学Ⅰ－4,水野 吉規,秋,京田辺,未,未,1
+199,2015,62171-001,https://syllabus.doshisha.ac.jp/html/2015/62/162171001.html,物理学Ⅱ－1,水野 吉規,秋,京田辺,未,未,1
+200,2015,62171-002,https://syllabus.doshisha.ac.jp/html/2015/62/162171002.html,物理学Ⅱ－2,高岡 正憲,秋,京田辺,未,未,1
+201,2015,62171-003,https://syllabus.doshisha.ac.jp/html/2015/62/162171003.html,物理学Ⅱ－3,水野 吉規,秋,京田辺,未,未,1
+202,2015,62171-004,https://syllabus.doshisha.ac.jp/html/2015/62/162171004.html,物理学Ⅱ－4,高岡 正憲,秋,京田辺,未,未,1
+203,2015,62172-001,https://syllabus.doshisha.ac.jp/html/2015/62/162172001.html,統計力学－1,高岡 正憲,秋,京田辺,未,未,1
+204,2015,62172-002,https://syllabus.doshisha.ac.jp/html/2015/62/162172002.html,統計力学－2,高岡 正憲,秋,京田辺,未,未,1
+205,2015,62176,https://syllabus.doshisha.ac.jp/html/2015/62/162176000.html,燃焼工学,千田 二郎,秋,京田辺,未,未,1
+206,2015,62178,https://syllabus.doshisha.ac.jp/html/2015/62/162178000.html,流体力学Ⅰ,山口 博司,秋,京田辺,未,未,1
+207,2015,62179,https://syllabus.doshisha.ac.jp/html/2015/62/162179000.html,流体力学Ⅱ,水島 二郎,秋,京田辺,未,未,1
+208,2015,62180,https://syllabus.doshisha.ac.jp/html/2015/62/162180000.html,流体工学,舟木 治郎,秋,京田辺,未,未,1
+209,2015,62201-001,https://syllabus.doshisha.ac.jp/html/2015/62/162201001.html,解析学Ⅰ－1,藤井 慎一,秋,京田辺,未,未,1
+210,2015,62201-002,https://syllabus.doshisha.ac.jp/html/2015/62/162201002.html,解析学Ⅰ－2,押目 頼昌,秋,京田辺,未,未,1
+211,2015,62201-003,https://syllabus.doshisha.ac.jp/html/2015/62/162201003.html,解析学Ⅰ－3,藤井 慎一,秋,京田辺,未,未,1
+212,2015,62201-004,https://syllabus.doshisha.ac.jp/html/2015/62/162201004.html,解析学Ⅰ－4,押目 頼昌,秋,京田辺,未,未,1
+213,2015,62202-001,https://syllabus.doshisha.ac.jp/html/2015/62/162202001.html,解析学Ⅱ－1,河野 明押目 頼昌,秋,京田辺,未,未,1
+214,2015,62202-002,https://syllabus.doshisha.ac.jp/html/2015/62/162202002.html,解析学Ⅱ－2,藤井 慎一,秋,京田辺,未,未,1
+215,2015,62202-003,https://syllabus.doshisha.ac.jp/html/2015/62/162202003.html,解析学Ⅱ－3,河野 明押目 頼昌,秋,京田辺,未,未,1
+216,2015,62202-004,https://syllabus.doshisha.ac.jp/html/2015/62/162202004.html,解析学Ⅱ－4,藤井 慎一,秋,京田辺,未,未,1
+217,2015,62203-001,https://syllabus.doshisha.ac.jp/html/2015/62/162203001.html,線形代数学Ⅰ－1,多久和 英樹,秋,京田辺,未,未,1
+218,2015,62203-002,https://syllabus.doshisha.ac.jp/html/2015/62/162203002.html,線形代数学Ⅰ－2,松田 真実,秋,京田辺,未,未,1
+219,2015,62203-003,https://syllabus.doshisha.ac.jp/html/2015/62/162203003.html,線形代数学Ⅰ－3,多久和 英樹,秋,京田辺,未,未,1
+220,2015,62203-004,https://syllabus.doshisha.ac.jp/html/2015/62/162203004.html,線形代数学Ⅰ－4,松田 真実,秋,京田辺,未,未,1
+221,2015,62204-001,https://syllabus.doshisha.ac.jp/html/2015/62/162204001.html,線形代数学Ⅱ－1,松田 真実,秋,京田辺,未,未,1
+222,2015,62204-002,https://syllabus.doshisha.ac.jp/html/2015/62/162204002.html,線形代数学Ⅱ－2,多久和 英樹,秋,京田辺,未,未,1
+223,2015,62204-003,https://syllabus.doshisha.ac.jp/html/2015/62/162204003.html,線形代数学Ⅱ－3,松田 真実,秋,京田辺,未,未,1
+224,2015,62204-004,https://syllabus.doshisha.ac.jp/html/2015/62/162204004.html,線形代数学Ⅱ－4,多久和 英樹,秋,京田辺,未,未,1
+225,2015,62205-001,https://syllabus.doshisha.ac.jp/html/2015/62/162205001.html,工業材料Ⅰ－1,宮本 博之,秋,京田辺,未,未,1
+226,2015,62205-002,https://syllabus.doshisha.ac.jp/html/2015/62/162205002.html,工業材料Ⅰ－2,藤原 弘,秋,京田辺,未,未,1
+227,2015,62207-001,https://syllabus.doshisha.ac.jp/html/2015/62/162207001.html,機械実習・製作法－1,青山 栄一,秋,京田辺,未,未,1
+228,2015,62207-002,https://syllabus.doshisha.ac.jp/html/2015/62/162207002.html,機械実習・製作法－2,宮本 博之,秋,京田辺,未,未,1
+229,2015,62208-001,https://syllabus.doshisha.ac.jp/html/2015/62/162208001.html,確率・統計Ⅰ－1,田村 英男,秋,京田辺,未,未,1
+230,2015,62208-002,https://syllabus.doshisha.ac.jp/html/2015/62/162208002.html,確率・統計Ⅰ－2,水島 二郎,秋,京田辺,未,未,1
+231,2015,62209-001,https://syllabus.doshisha.ac.jp/html/2015/62/162209001.html,熱力学Ⅰ・同演習－1,松村 恵理子,秋,京田辺,未,未,1
+232,2015,62209-002,https://syllabus.doshisha.ac.jp/html/2015/62/162209002.html,熱力学Ⅰ・同演習－2,千田 衞,秋,京田辺,未,未,1
+233,2015,62209-003,https://syllabus.doshisha.ac.jp/html/2015/62/162209003.html,熱力学Ⅰ・同演習－3,稲岡 恭二,秋,京田辺,未,未,1
+234,2015,62210-001,https://syllabus.doshisha.ac.jp/html/2015/62/162210001.html,流れ学Ⅰ・同演習－1,平田 勝哉,秋,京田辺,未,未,1
+235,2015,62210-002,https://syllabus.doshisha.ac.jp/html/2015/62/162210002.html,流れ学Ⅰ・同演習－2,山口 博司,秋,京田辺,未,未,1
+236,2015,62210-003,https://syllabus.doshisha.ac.jp/html/2015/62/162210003.html,流れ学Ⅰ・同演習－3,水島 二郎,秋,京田辺,未,未,1
+237,2015,62211-001,https://syllabus.doshisha.ac.jp/html/2015/62/162211001.html,機械物理実験－1,山口 博司藤原 弘城戸 隆一大島 裕子戸倉 毅吉川 克之,秋,京田辺,未,未,1
+238,2015,62211-002,https://syllabus.doshisha.ac.jp/html/2015/62/162211002.html,機械物理実験－2,山口 博司藤原 弘城戸 隆一大島 裕子戸倉 毅吉川 克之,秋,京田辺,未,未,1
+239,2015,62211-003,https://syllabus.doshisha.ac.jp/html/2015/62/162211003.html,機械物理実験－3,大窪 和也松村 恵理子川上 洋司木村 照夫戸倉 毅吉川 克之,秋,京田辺,未,未,1
+240,2015,62211-004,https://syllabus.doshisha.ac.jp/html/2015/62/162211004.html,機械物理実験－4,大窪 和也松村 恵理子川上 洋司木村 照夫戸倉 毅吉川 克之,秋,京田辺,未,未,1
+241,2015,62212-001,https://syllabus.doshisha.ac.jp/html/2015/62/162212001.html,機械製図学－1,稲岡 恭二萩原 四郎菱田 典明越智 昭夫岡村 貴句男大見 康生関野 恭平,秋,京田辺,未,未,1
+242,2015,62212-002,https://syllabus.doshisha.ac.jp/html/2015/62/162212002.html,機械製図学－2,松岡 敬萩原 四郎菱田 典明越智 昭夫岡村 貴句男大見 康生関野 恭平,秋,京田辺,未,未,1
+243,2015,62212-003,https://syllabus.doshisha.ac.jp/html/2015/62/162212003.html,機械製図学－3,田中 達也萩原 四郎菱田 典明鍋倉 正和越智 昭夫,秋,京田辺,未,未,1
+244,2015,62212-004,https://syllabus.doshisha.ac.jp/html/2015/62/162212004.html,機械製図学－4,田中 達也萩原 四郎菱田 典明鍋倉 正和越智 昭夫,秋,京田辺,未,未,1
+245,2015,62213-001,https://syllabus.doshisha.ac.jp/html/2015/62/162213001.html,材料加工Ⅰ－1,廣垣 俊樹,秋,京田辺,未,未,1
+246,2015,62213-002,https://syllabus.doshisha.ac.jp/html/2015/62/162213002.html,材料加工Ⅰ－2,青山 栄一,秋,京田辺,未,未,1
+247,2015,62214-001,https://syllabus.doshisha.ac.jp/html/2015/62/162214001.html,制御工学Ⅰ・同演習－1,伊藤 彰人,秋,京田辺,未,未,1
+248,2015,62214-002,https://syllabus.doshisha.ac.jp/html/2015/62/162214002.html,制御工学Ⅰ・同演習－2,平山 朋子,秋,京田辺,未,未,1
+249,2015,62215-001,https://syllabus.doshisha.ac.jp/html/2015/62/162215001.html,機械力学Ⅰ・同演習－1,伊藤 彰人,秋,京田辺,未,未,1
+250,2015,62215-002,https://syllabus.doshisha.ac.jp/html/2015/62/162215002.html,機械力学Ⅰ・同演習－2,青山 栄一,秋,京田辺,未,未,1
+251,2015,62216-001,https://syllabus.doshisha.ac.jp/html/2015/62/162216001.html,機械工学実験－1,藤井 透平田 勝哉廣垣 俊樹宮本 博之千田 衞伊藤 彰人,秋,京田辺,未,未,1
+252,2015,62216-002,https://syllabus.doshisha.ac.jp/html/2015/62/162216002.html,機械工学実験－2,藤井 透平田 勝哉廣垣 俊樹宮本 博之千田 衞伊藤 彰人,秋,京田辺,未,未,1
+253,2015,62216-003,https://syllabus.doshisha.ac.jp/html/2015/62/162216003.html,機械工学実験－3,青山 栄一松岡 敬千田 二郎辻内 伸好舟木 治郎吉川 克之,秋,京田辺,未,未,1
+254,2015,62216-004,https://syllabus.doshisha.ac.jp/html/2015/62/162216004.html,機械工学実験－4,青山 栄一松岡 敬千田 二郎辻内 伸好舟木 治郎吉川 克之,秋,京田辺,未,未,1
+255,2015,62217-001,https://syllabus.doshisha.ac.jp/html/2015/62/162217001.html,機械設計製作－1,稲岡 恭二千田 二郎大島 裕子,秋,京田辺,未,未,1
+256,2015,62217-002,https://syllabus.doshisha.ac.jp/html/2015/62/162217002.html,機械設計製作－2,稲岡 恭二千田 二郎大島 裕子,秋,京田辺,未,未,1
+257,2015,62217-003,https://syllabus.doshisha.ac.jp/html/2015/62/162217003.html,機械設計製作－3,青山 栄一藤原 弘,秋,京田辺,未,未,1
+258,2015,62217-004,https://syllabus.doshisha.ac.jp/html/2015/62/162217004.html,機械設計製作－4,青山 栄一藤原 弘,秋,京田辺,未,未,1
+259,2015,62217-005,https://syllabus.doshisha.ac.jp/html/2015/62/162217005.html,機械設計製作－5,宮本 博之松村 恵理子岩本 悠宏,秋,京田辺,未,未,1
+260,2015,62217-006,https://syllabus.doshisha.ac.jp/html/2015/62/162217006.html,機械設計製作－6,宮本 博之松村 恵理子,秋,京田辺,未,未,1
+261,2015,62217-007,https://syllabus.doshisha.ac.jp/html/2015/62/162217007.html,機械設計製作－7,田中 達也山口 博司,秋,京田辺,未,未,1
+262,2015,62217-008,https://syllabus.doshisha.ac.jp/html/2015/62/162217008.html,機械設計製作－8,山口 博司松村 恵理子,秋,京田辺,未,未,1
+263,2015,62219-001,https://syllabus.doshisha.ac.jp/html/2015/62/162219001.html,制御工学Ⅱ・同演習－1,辻内 伸好,秋,京田辺,未,未,1
+264,2015,62219-002,https://syllabus.doshisha.ac.jp/html/2015/62/162219002.html,制御工学Ⅱ・同演習－2,伊藤 彰人,秋,京田辺,未,未,1
+265,2015,62220-001,https://syllabus.doshisha.ac.jp/html/2015/62/162220001.html,機械力学Ⅱ・同演習－1,辻内 伸好,秋,京田辺,未,未,1
+266,2015,62220-002,https://syllabus.doshisha.ac.jp/html/2015/62/162220002.html,機械力学Ⅱ・同演習－2,伊藤 彰人,秋,京田辺,未,未,1
+267,2015,62221-001,https://syllabus.doshisha.ac.jp/html/2015/62/162221001.html,熱力学Ⅱ・同演習－1,千田 二郎,秋,京田辺,未,未,1
+268,2015,62221-002,https://syllabus.doshisha.ac.jp/html/2015/62/162221002.html,熱力学Ⅱ・同演習－2,千田 衞,秋,京田辺,未,未,1
+269,2015,62222-001,https://syllabus.doshisha.ac.jp/html/2015/62/162222001.html,流れ学Ⅱ・同演習－1,平田 勝哉,秋,京田辺,未,未,1
+270,2015,62222-002,https://syllabus.doshisha.ac.jp/html/2015/62/162222002.html,流れ学Ⅱ・同演習－2,舟木 治郎,秋,京田辺,未,未,1
+271,2015,62223-001,https://syllabus.doshisha.ac.jp/html/2015/62/162223001.html,電気回路基礎－1,髙萩 和男,秋,京田辺,未,未,1
+272,2015,62223-002,https://syllabus.doshisha.ac.jp/html/2015/62/162223002.html,電気回路基礎－2,髙萩 和男,秋,京田辺,未,未,1
+273,2015,62224-001,https://syllabus.doshisha.ac.jp/html/2015/62/162224001.html,電子回路基礎－1,髙萩 和男,秋,京田辺,未,未,1
+274,2015,62224-002,https://syllabus.doshisha.ac.jp/html/2015/62/162224002.html,電子回路基礎－2,髙萩 和男,秋,京田辺,未,未,1
+275,2015,62225-001,https://syllabus.doshisha.ac.jp/html/2015/62/162225001.html,数値計算・同演習－1,髙間 道秋,秋,京田辺,未,未,1
+276,2015,62225-002,https://syllabus.doshisha.ac.jp/html/2015/62/162225002.html,数値計算・同演習－2,水島 二郎,秋,京田辺,未,未,1
+277,2015,62226,https://syllabus.doshisha.ac.jp/html/2015/62/162226000.html,管理工学,廣垣 俊樹,秋,京田辺,未,未,1
+278,2015,62227-001,https://syllabus.doshisha.ac.jp/html/2015/62/162227001.html,機械設計法演習－1,松岡 敬,秋,京田辺,未,未,1
+279,2015,62227-002,https://syllabus.doshisha.ac.jp/html/2015/62/162227002.html,機械設計法演習－2,平山 朋子,秋,京田辺,未,未,1
+280,2015,62228,https://syllabus.doshisha.ac.jp/html/2015/62/162228000.html,計測工学,廣垣 俊樹,秋,京田辺,未,未,1
+281,2015,62229,https://syllabus.doshisha.ac.jp/html/2015/62/162229000.html,特別機械工学実験,廣垣 俊樹,秋,京田辺,未,未,1
+282,2015,62230-001,https://syllabus.doshisha.ac.jp/html/2015/62/162230001.html,コンピュータ支援設計－1,水島 二郎清川 豊,秋,京田辺,未,未,1
+283,2015,62230-002,https://syllabus.doshisha.ac.jp/html/2015/62/162230002.html,コンピュータ支援設計－2,大窪 和也清川 豊,秋,京田辺,未,未,1
+284,2015,62230-003,https://syllabus.doshisha.ac.jp/html/2015/62/162230003.html,コンピュータ支援設計－3,大窪 和也清川 豊,秋,京田辺,未,未,1
+285,2015,62231,https://syllabus.doshisha.ac.jp/html/2015/62/162231000.html,数値シミュレーション,谷口 慶祐,秋,京田辺,未,未,1
+286,2015,62232-001,https://syllabus.doshisha.ac.jp/html/2015/62/162232001.html,確率・統計Ⅱ－1,大島 裕子,秋,京田辺,未,未,1
+287,2015,62232-002,https://syllabus.doshisha.ac.jp/html/2015/62/162232002.html,確率・統計Ⅱ－2,大島 裕子,秋,京田辺,未,未,1
+288,2015,62233-001,https://syllabus.doshisha.ac.jp/html/2015/62/162233001.html,フーリエ・ラプラス解析－1,水島 二郎,秋,京田辺,未,未,1
+289,2015,62233-002,https://syllabus.doshisha.ac.jp/html/2015/62/162233002.html,フーリエ・ラプラス解析－2,水島 二郎,秋,京田辺,未,未,1
+290,2015,62234,https://syllabus.doshisha.ac.jp/html/2015/62/162234000.html,ディジタル制御・同演習,廣垣 俊樹,秋,京田辺,未,未,1
+291,2015,62235-001,https://syllabus.doshisha.ac.jp/html/2015/62/162235001.html,材料力学Ⅰ演習－1,藤井 透,秋,京田辺,未,未,1
+292,2015,62235-002,https://syllabus.doshisha.ac.jp/html/2015/62/162235002.html,材料力学Ⅰ演習－2,大窪 和也,秋,京田辺,未,未,1
+293,2015,62235-003,https://syllabus.doshisha.ac.jp/html/2015/62/162235003.html,材料力学Ⅰ演習－3,田中 達也,秋,京田辺,未,未,1
+294,2015,62236-001,https://syllabus.doshisha.ac.jp/html/2015/62/162236001.html,材料力学Ⅱ演習－1,藤井 透,秋,京田辺,未,未,1
+295,2015,62236-002,https://syllabus.doshisha.ac.jp/html/2015/62/162236002.html,材料力学Ⅱ演習－2,田中 達也,秋,京田辺,未,未,1
+296,2015,62237-001,https://syllabus.doshisha.ac.jp/html/2015/62/162237001.html,工業材料Ⅱ－1,宮本 博之,秋,京田辺,未,未,1
+297,2015,62237-002,https://syllabus.doshisha.ac.jp/html/2015/62/162237002.html,工業材料Ⅱ－2,吉川 克之,秋,京田辺,未,未,1
+298,2015,62238-001,https://syllabus.doshisha.ac.jp/html/2015/62/162238001.html,材料加工Ⅱ－1,田中 達也,秋,京田辺,未,未,1
+299,2015,62238-002,https://syllabus.doshisha.ac.jp/html/2015/62/162238002.html,材料加工Ⅱ－2,藤原 弘,秋,京田辺,未,未,1
+300,2015,62239,https://syllabus.doshisha.ac.jp/html/2015/62/162239000.html,材料力学Ⅲ,大窪 和也,秋,京田辺,未,未,1
+301,2015,62240,https://syllabus.doshisha.ac.jp/html/2015/62/162240000.html,流れ学Ⅲ,山口 博司,秋,京田辺,未,未,1
+302,2015,62241,https://syllabus.doshisha.ac.jp/html/2015/62/162241000.html,熱力学Ⅲ,千田 衞,秋,京田辺,未,未,1
+303,2015,62242,https://syllabus.doshisha.ac.jp/html/2015/62/162242000.html,機械力学Ⅲ,辻内 伸好,秋,京田辺,未,未,1
+304,2015,62243,https://syllabus.doshisha.ac.jp/html/2015/62/162243000.html,制御工学Ⅲ,伊藤 彰人,秋,京田辺,未,未,1
+305,2015,62244,https://syllabus.doshisha.ac.jp/html/2015/62/162244000.html,複素解析,森谷 駿二,秋,京田辺,未,未,1
+306,2015,62245,https://syllabus.doshisha.ac.jp/html/2015/62/162245000.html,伝熱工学,稲岡 恭二,秋,京田辺,未,未,1
+307,2015,62246,https://syllabus.doshisha.ac.jp/html/2015/62/162246000.html,エネルギー変換工学,千田 二郎,秋,京田辺,未,未,1
+308,2015,62247,https://syllabus.doshisha.ac.jp/html/2015/62/162247000.html,移動現象論,千田 衞,秋,京田辺,未,未,1
+309,2015,62248-001,https://syllabus.doshisha.ac.jp/html/2015/62/162248001.html,機械工学概論－1,青山 栄一藤井 透平田 勝哉廣垣 俊樹稲岡 恭二宮本 博之千田 二郎辻内 伸好伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+310,2015,62248-002,https://syllabus.doshisha.ac.jp/html/2015/62/162248002.html,機械工学概論－2,平山 朋子松岡 敬水島 二郎大窪 和也千田 衞高岡 正憲田中 達也多久和 英樹山口 博司藤原 弘,秋,京田辺,未,未,1
+311,2015,62249-001,https://syllabus.doshisha.ac.jp/html/2015/62/162249001.html,コンピュータプログラミング－1,平田 勝哉岩本 悠宏,秋,京田辺,未,未,1
+312,2015,62249-002,https://syllabus.doshisha.ac.jp/html/2015/62/162249002.html,コンピュータプログラミング－2,大久保 雅章髙間 道秋,秋,京田辺,未,未,1
+313,2015,62249-003,https://syllabus.doshisha.ac.jp/html/2015/62/162249003.html,コンピュータプログラミング－3,水島 二郎岩本 悠宏,秋,京田辺,未,未,1
+314,2015,62249-004,https://syllabus.doshisha.ac.jp/html/2015/62/162249004.html,コンピュータプログラミング－4,藤田 成隆髙間 道秋,秋,京田辺,未,未,1
+315,2015,62261-001,https://syllabus.doshisha.ac.jp/html/2015/62/162261001.html,数学基礎１－1,竹内 二郎,秋,京田辺,未,未,1
+316,2015,62261-002,https://syllabus.doshisha.ac.jp/html/2015/62/162261002.html,数学基礎１－2,竹内 二郎,秋,京田辺,未,未,1
+317,2015,62261-003,https://syllabus.doshisha.ac.jp/html/2015/62/162261003.html,数学基礎１－3,宮下 鋭也,秋,京田辺,未,未,1
+318,2015,62261-004,https://syllabus.doshisha.ac.jp/html/2015/62/162261004.html,数学基礎１－4,宮下 鋭也,秋,京田辺,未,未,1
+319,2015,62262-001,https://syllabus.doshisha.ac.jp/html/2015/62/162262001.html,数学基礎２－1,多久和 英樹,秋,京田辺,未,未,1
+320,2015,62262-002,https://syllabus.doshisha.ac.jp/html/2015/62/162262002.html,数学基礎２－2,多久和 英樹,秋,京田辺,未,未,1
+321,2015,62262-003,https://syllabus.doshisha.ac.jp/html/2015/62/162262003.html,数学基礎２－3,長瀬 昭子,秋,京田辺,未,未,1
+322,2015,62262-004,https://syllabus.doshisha.ac.jp/html/2015/62/162262004.html,数学基礎２－4,長瀬 昭子,秋,京田辺,未,未,1
+323,2015,62263-001,https://syllabus.doshisha.ac.jp/html/2015/62/162263001.html,物理基礎１－1,吉永 隆夫,秋,京田辺,未,未,1
+324,2015,62263-002,https://syllabus.doshisha.ac.jp/html/2015/62/162263002.html,物理基礎１－2,浅野 大雅,秋,京田辺,未,未,1
+325,2015,62263-003,https://syllabus.doshisha.ac.jp/html/2015/62/162263003.html,物理基礎１－3,吉永 隆夫,秋,京田辺,未,未,1
+326,2015,62263-004,https://syllabus.doshisha.ac.jp/html/2015/62/162263004.html,物理基礎１－4,浅野 大雅,秋,京田辺,未,未,1
+327,2015,62264-001,https://syllabus.doshisha.ac.jp/html/2015/62/162264001.html,物理基礎２－1,浅野 大雅,秋,京田辺,未,未,1
+328,2015,62264-002,https://syllabus.doshisha.ac.jp/html/2015/62/162264002.html,物理基礎２－2,吉永 隆夫,秋,京田辺,未,未,1
+329,2015,62264-003,https://syllabus.doshisha.ac.jp/html/2015/62/162264003.html,物理基礎２－3,浅野 大雅,秋,京田辺,未,未,1
+330,2015,62264-004,https://syllabus.doshisha.ac.jp/html/2015/62/162264004.html,物理基礎２－4,吉永 隆夫,秋,京田辺,未,未,1
+331,2015,62272,https://syllabus.doshisha.ac.jp/html/2015/62/162272000.html,コンピュータと数学,水島 二郎,秋,京田辺,未,未,1
+332,2015,62279,https://syllabus.doshisha.ac.jp/html/2015/62/162279000.html,化学実験,小寺 政人土井 貴之北岸 宏亮保坂 晴美髙橋 謙一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+333,2015,62281,https://syllabus.doshisha.ac.jp/html/2015/62/162281000.html,地学実験,増田 富士雄福間 浩司山根 省三横尾 頼子三上 禎次玉井 雅人,秋,京田辺,未,未,1
+334,2015,62301,https://syllabus.doshisha.ac.jp/html/2015/62/162301000.html,地学概論Ⅰ,桑原 希世子,秋,京田辺,未,未,1
+335,2015,62302,https://syllabus.doshisha.ac.jp/html/2015/62/162302000.html,地学概論Ⅱ,桑原 希世子,秋,京田辺,未,未,1
+336,2015,62312-003,https://syllabus.doshisha.ac.jp/html/2015/62/162312003.html,教科教育法Ｂ（数学）－3,竹内 二郎,秋,京田辺,未,未,1
+337,2015,62312-004,https://syllabus.doshisha.ac.jp/html/2015/62/162312004.html,教科教育法Ｂ（数学）－4,竹内 二郎,秋,京田辺,未,未,1
+338,2015,62313-001,https://syllabus.doshisha.ac.jp/html/2015/62/162313001.html,教科教育法Ｃ（数学）－1,大西 俊弘,秋,京田辺,未,未,1
+339,2015,62313-002,https://syllabus.doshisha.ac.jp/html/2015/62/162313002.html,教科教育法Ｃ（数学）－2,吉田 信也,秋,京田辺,未,未,1
+340,2015,62331-001,https://syllabus.doshisha.ac.jp/html/2015/62/162331001.html,教科教育法Ａ１（数学）－1,竹内 二郎,秋,京田辺,未,未,1
+341,2015,62331-002,https://syllabus.doshisha.ac.jp/html/2015/62/162331002.html,教科教育法Ａ１（数学）－2,長瀬 昭子,秋,京田辺,未,未,1
+342,2015,62331-003,https://syllabus.doshisha.ac.jp/html/2015/62/162331003.html,教科教育法Ａ１（数学）－3,溝畑 潔,秋,京田辺,未,未,1
+343,2015,62331-004,https://syllabus.doshisha.ac.jp/html/2015/62/162331004.html,教科教育法Ａ１（数学）－4,竹内 二郎,秋,京田辺,未,未,1
+344,2015,62332,https://syllabus.doshisha.ac.jp/html/2015/62/162332000.html,教科教育法Ａ２（数学）,宮下 鋭也,秋,京田辺,未,未,1
+345,2015,64003-001,https://syllabus.doshisha.ac.jp/html/2015/64/164003001.html,物理学Ⅰ－1,廣田 健,秋,京田辺,未,未,1
+346,2015,64003-002,https://syllabus.doshisha.ac.jp/html/2015/64/164003002.html,物理学Ⅰ－2,白川 善幸,秋,京田辺,未,未,1
+347,2015,64004-001,https://syllabus.doshisha.ac.jp/html/2015/64/164004001.html,物理学Ⅱ－1,廣田 健,秋,京田辺,未,未,1
+348,2015,64004-002,https://syllabus.doshisha.ac.jp/html/2015/64/164004002.html,物理学Ⅱ－2,白川 善幸,秋,京田辺,未,未,1
+349,2015,64005-001,https://syllabus.doshisha.ac.jp/html/2015/64/164005001.html,無機化学Ⅰ－1,稲葉 稔橋之口 道宏,秋,京田辺,未,未,1
+350,2015,64005-002,https://syllabus.doshisha.ac.jp/html/2015/64/164005002.html,無機化学Ⅰ－2,塚越 一彦,秋,京田辺,未,未,1
+351,2015,64006-002,https://syllabus.doshisha.ac.jp/html/2015/64/164006002.html,無機化学Ⅱ－2,塚越 一彦,秋,京田辺,未,未,1
+352,2015,64006-003,https://syllabus.doshisha.ac.jp/html/2015/64/164006003.html,無機化学Ⅱ－3,吉村 一良,秋,京田辺,未,未,1
+353,2015,64007-001,https://syllabus.doshisha.ac.jp/html/2015/64/164007001.html,分析化学Ⅰ－1,土井 貴之,秋,京田辺,未,未,1
+354,2015,64007-002,https://syllabus.doshisha.ac.jp/html/2015/64/164007002.html,分析化学Ⅰ－2,橋本 雅彦,秋,京田辺,未,未,1
+355,2015,64008-001,https://syllabus.doshisha.ac.jp/html/2015/64/164008001.html,分析化学Ⅱ－1,土井 貴之,秋,京田辺,未,未,1
+356,2015,64008-002,https://syllabus.doshisha.ac.jp/html/2015/64/164008002.html,分析化学Ⅱ－2,塚越 一彦,秋,京田辺,未,未,1
+357,2015,64009,https://syllabus.doshisha.ac.jp/html/2015/64/164009000.html,化学工学量論演習Ⅰ,松本 道明,秋,京田辺,未,未,1
+358,2015,64010,https://syllabus.doshisha.ac.jp/html/2015/64/164010000.html,化学工学量論演習Ⅱ,松本 道明,秋,京田辺,未,未,1
+359,2015,64020-001,https://syllabus.doshisha.ac.jp/html/2015/64/164020001.html,物理化学Ⅰ－1,上野 正勝,秋,京田辺,未,未,1
+360,2015,64021-001,https://syllabus.doshisha.ac.jp/html/2015/64/164021001.html,物理化学Ⅱ－1,上野 正勝,秋,京田辺,未,未,1
+361,2015,64025,https://syllabus.doshisha.ac.jp/html/2015/64/164025000.html,解析学Ⅰ,溝畑 潔,秋,京田辺,未,未,1
+362,2015,64026,https://syllabus.doshisha.ac.jp/html/2015/64/164026000.html,解析学Ⅱ,溝畑 潔,秋,京田辺,未,未,1
+363,2015,64027,https://syllabus.doshisha.ac.jp/html/2015/64/164027000.html,線形代数学Ⅰ,溝畑 潔,秋,京田辺,未,未,1
+364,2015,64028,https://syllabus.doshisha.ac.jp/html/2015/64/164028000.html,線形代数学Ⅱ,溝畑 潔,秋,京田辺,未,未,1
+365,2015,64030,https://syllabus.doshisha.ac.jp/html/2015/64/164030000.html,物理化学Ⅲ,木村 佳文,秋,京田辺,未,未,1
+366,2015,64031,https://syllabus.doshisha.ac.jp/html/2015/64/164031000.html,物理化学Ⅳ,木村 佳文,秋,京田辺,未,未,1
+367,2015,64032-001,https://syllabus.doshisha.ac.jp/html/2015/64/164032001.html,基礎化学実験Ⅰ－1,小寺 政人土井 貴之北岸 宏亮保坂 晴美髙橋 謙一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+368,2015,64032-002,https://syllabus.doshisha.ac.jp/html/2015/64/164032002.html,基礎化学実験Ⅰ－2,塚越 一彦橋本 雅彦保坂 晴美髙野 頌上田 修史松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+369,2015,64033-001,https://syllabus.doshisha.ac.jp/html/2015/64/164033001.html,基礎化学実験Ⅱ－1,人見 穣木村 佳文古賀 智之保坂 晴美松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+370,2015,64033-002,https://syllabus.doshisha.ac.jp/html/2015/64/164033002.html,基礎化学実験Ⅱ－2,松本 道明塩井 章久保坂 晴美小寺 宣一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+371,2015,64036,https://syllabus.doshisha.ac.jp/html/2015/64/164036000.html,機能分子工学実験Ⅰ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+372,2015,64037,https://syllabus.doshisha.ac.jp/html/2015/64/164037000.html,機能分子工学実験Ⅱ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+373,2015,64041-036,https://syllabus.doshisha.ac.jp/html/2015/64/164041036.html,生物化学工学研究室－36,近藤 和生松本 道明,秋,京田辺,未,未,1
+374,2015,64041-048,https://syllabus.doshisha.ac.jp/html/2015/64/164041048.html,移動現象研究室－48,森 康維土屋 活美,秋,京田辺,未,未,1
+375,2015,64041-051,https://syllabus.doshisha.ac.jp/html/2015/64/164041051.html,高分子化学研究室－51,東 信行古賀 智之,秋,京田辺,未,未,1
+376,2015,64041-052,https://syllabus.doshisha.ac.jp/html/2015/64/164041052.html,無機合成化学研究室－52,廣田 健,秋,京田辺,未,未,1
+377,2015,64041-058,https://syllabus.doshisha.ac.jp/html/2015/64/164041058.html,分子生命化学研究室－58,小寺 政人人見 穣,秋,京田辺,未,未,1
+378,2015,64041-060,https://syllabus.doshisha.ac.jp/html/2015/64/164041060.html,計測分離工学研究室－60,塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+379,2015,64041-062,https://syllabus.doshisha.ac.jp/html/2015/64/164041062.html,分子化学工学研究室－62,塩井 章久山本 大吾,秋,京田辺,未,未,1
+380,2015,64041-065,https://syllabus.doshisha.ac.jp/html/2015/64/164041065.html,生体機能化学研究室－65,水谷 義,秋,京田辺,未,未,1
+381,2015,64041-066,https://syllabus.doshisha.ac.jp/html/2015/64/164041066.html,物理化学研究室－66,木村 佳文八坂 能郎,秋,京田辺,未,未,1
+382,2015,64041-067,https://syllabus.doshisha.ac.jp/html/2015/64/164041067.html,電気化学研究室－67,稲葉 稔土井 貴之,秋,京田辺,未,未,1
+383,2015,64041-069,https://syllabus.doshisha.ac.jp/html/2015/64/164041069.html,粉体工学研究室－69,白川 善幸,秋,京田辺,未,未,1
+384,2015,64041-998,https://syllabus.doshisha.ac.jp/html/2015/64/164041998.html,卒業論文Ⅰ（物質化学工学科）－998,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾,秋,京田辺,未,未,1
+385,2015,64041-999,https://syllabus.doshisha.ac.jp/html/2015/64/164041999.html,卒業論文Ⅰ（機能分子工学科）－999,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎,秋,京田辺,未,未,1
+386,2015,64042,https://syllabus.doshisha.ac.jp/html/2015/64/164042000.html,卒業論文Ⅱ(機能分子工学科，物質化学工学科),近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾,秋,京田辺,未,未,1
+387,2015,64042-036,https://syllabus.doshisha.ac.jp/html/2015/64/164042036.html,生物化学工学研究室－36,近藤 和生松本 道明,秋,京田辺,未,未,1
+388,2015,64042-048,https://syllabus.doshisha.ac.jp/html/2015/64/164042048.html,移動現象研究室－48,森 康維土屋 活美,秋,京田辺,未,未,1
+389,2015,64042-051,https://syllabus.doshisha.ac.jp/html/2015/64/164042051.html,高分子化学研究室－51,東 信行古賀 智之,秋,京田辺,未,未,1
+390,2015,64042-052,https://syllabus.doshisha.ac.jp/html/2015/64/164042052.html,無機合成化学研究室－52,廣田 健,秋,京田辺,未,未,1
+391,2015,64042-058,https://syllabus.doshisha.ac.jp/html/2015/64/164042058.html,分子生命化学研究室－58,小寺 政人人見 穣,秋,京田辺,未,未,1
+392,2015,64042-060,https://syllabus.doshisha.ac.jp/html/2015/64/164042060.html,計測分離工学研究室－60,塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+393,2015,64042-062,https://syllabus.doshisha.ac.jp/html/2015/64/164042062.html,分子化学工学研究室－62,塩井 章久山本 大吾,秋,京田辺,未,未,1
+394,2015,64042-065,https://syllabus.doshisha.ac.jp/html/2015/64/164042065.html,生体機能化学研究室－65,水谷 義,秋,京田辺,未,未,1
+395,2015,64042-066,https://syllabus.doshisha.ac.jp/html/2015/64/164042066.html,物理化学研究室－66,木村 佳文八坂 能郎,秋,京田辺,未,未,1
+396,2015,64042-067,https://syllabus.doshisha.ac.jp/html/2015/64/164042067.html,電気化学研究室－67,稲葉 稔土井 貴之,秋,京田辺,未,未,1
+397,2015,64042-069,https://syllabus.doshisha.ac.jp/html/2015/64/164042069.html,粉体工学研究室－69,白川 善幸,秋,京田辺,未,未,1
+398,2015,64042-998,https://syllabus.doshisha.ac.jp/html/2015/64/164042998.html,卒業論文Ⅱ(物質化学工学科)－998,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾,秋,京田辺,未,未,1
+399,2015,64042-999,https://syllabus.doshisha.ac.jp/html/2015/64/164042999.html,卒業論文Ⅱ(機能分子工学科)－999,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎,秋,京田辺,未,未,1
+400,2015,64050,https://syllabus.doshisha.ac.jp/html/2015/64/164050000.html,有機化学演習Ⅰ,水谷 義,秋,京田辺,未,未,1
+401,2015,64051,https://syllabus.doshisha.ac.jp/html/2015/64/164051000.html,物理化学演習Ⅰ,上野 正勝,秋,京田辺,未,未,1
+402,2015,64060,https://syllabus.doshisha.ac.jp/html/2015/64/164060000.html,有機反応論Ⅰ,北岸 宏亮,秋,京田辺,未,未,1
+403,2015,64061,https://syllabus.doshisha.ac.jp/html/2015/64/164061000.html,有機化学演習Ⅱ,人見 穣水谷 義,秋,京田辺,未,未,1
+404,2015,64065,https://syllabus.doshisha.ac.jp/html/2015/64/164065000.html,物理化学演習Ⅱ,木村 佳文,秋,京田辺,未,未,1
+405,2015,64070,https://syllabus.doshisha.ac.jp/html/2015/64/164070000.html,無機機能物質化学Ⅰ,土井 貴之,秋,京田辺,未,未,1
+406,2015,64072,https://syllabus.doshisha.ac.jp/html/2015/64/164072000.html,無機応用化学Ⅰ,稲葉 稔,秋,京田辺,未,未,1
+407,2015,64073,https://syllabus.doshisha.ac.jp/html/2015/64/164073000.html,無機応用化学Ⅱ,稲葉 稔,秋,京田辺,未,未,1
+408,2015,64074,https://syllabus.doshisha.ac.jp/html/2015/64/164074000.html,機能分子計測学,稲葉 稔,秋,京田辺,未,未,1
+409,2015,64077,https://syllabus.doshisha.ac.jp/html/2015/64/164077000.html,有機反応論Ⅱ,北岸 宏亮,秋,京田辺,未,未,1
+410,2015,64078,https://syllabus.doshisha.ac.jp/html/2015/64/164078000.html,有機機能物質化学Ⅰ,水谷 義,秋,京田辺,未,未,1
+411,2015,64082,https://syllabus.doshisha.ac.jp/html/2015/64/164082000.html,高分子反応論,古賀 智之,秋,京田辺,未,未,1
+412,2015,64084,https://syllabus.doshisha.ac.jp/html/2015/64/164084000.html,生物有機化学,東 信行,秋,京田辺,未,未,1
+413,2015,64085,https://syllabus.doshisha.ac.jp/html/2015/64/164085000.html,生物無機化学,小寺 政人,秋,京田辺,未,未,1
+414,2015,64090-001,https://syllabus.doshisha.ac.jp/html/2015/64/164090001.html,統計力学－1,木村 佳文,秋,京田辺,未,未,1
+415,2015,64091,https://syllabus.doshisha.ac.jp/html/2015/64/164091000.html,有機応用化学,人見 穣,秋,京田辺,未,未,1
+416,2015,64093,https://syllabus.doshisha.ac.jp/html/2015/64/164093000.html,生体機能高分子,古賀 智之,秋,京田辺,未,未,1
+417,2015,64095,https://syllabus.doshisha.ac.jp/html/2015/64/164095000.html,有機量子化学,水谷 義,秋,京田辺,未,未,1
+418,2015,64112,https://syllabus.doshisha.ac.jp/html/2015/64/164112000.html,高分子化学Ⅰ,東 信行,秋,京田辺,未,未,1
+419,2015,64113,https://syllabus.doshisha.ac.jp/html/2015/64/164113000.html,分子分光学Ⅰ,小寺 政人,秋,京田辺,未,未,1
+420,2015,64114,https://syllabus.doshisha.ac.jp/html/2015/64/164114000.html,生化学Ⅰ,東 信行,秋,京田辺,未,未,1
+421,2015,64115,https://syllabus.doshisha.ac.jp/html/2015/64/164115000.html,生化学Ⅱ,古賀 智之,秋,京田辺,未,未,1
+422,2015,64118,https://syllabus.doshisha.ac.jp/html/2015/64/164118000.html,化学工学Ⅰ,森 康維,秋,京田辺,未,未,1
+423,2015,64119,https://syllabus.doshisha.ac.jp/html/2015/64/164119000.html,化学工学Ⅱ,松本 道明,秋,京田辺,未,未,1
+424,2015,64120,https://syllabus.doshisha.ac.jp/html/2015/64/164120000.html,外国書講読（独）,三ツ木 道夫,秋,京田辺,未,未,1
+425,2015,64121-001,https://syllabus.doshisha.ac.jp/html/2015/64/164121001.html,物理実験－1,廣田 健水谷 義濵口 洋保坂 晴美伊藤 博髙橋 謙一松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+426,2015,64121-002,https://syllabus.doshisha.ac.jp/html/2015/64/164121002.html,物理実験－2,土屋 活美山本 大吾保坂 晴美野村 登下坂 厚子田村 隆,秋,京田辺,未,未,1
+427,2015,64130,https://syllabus.doshisha.ac.jp/html/2015/64/164130000.html,無機構造論,吉村 一良,秋,京田辺,未,未,1
+428,2015,64131,https://syllabus.doshisha.ac.jp/html/2015/64/164131000.html,無機反応論,廣田 健,秋,京田辺,未,未,1
+429,2015,64132,https://syllabus.doshisha.ac.jp/html/2015/64/164132000.html,高分子化学Ⅱ,東 信行,秋,京田辺,未,未,1
+430,2015,64133,https://syllabus.doshisha.ac.jp/html/2015/64/164133000.html,分子分光学Ⅱ,小寺 政人,秋,京田辺,未,未,1
+431,2015,64134,https://syllabus.doshisha.ac.jp/html/2015/64/164134000.html,特別講義Ⅰ,東城 哲朗,秋,京田辺,未,未,1
+432,2015,64135,https://syllabus.doshisha.ac.jp/html/2015/64/164135000.html,特別講義Ⅱ,小原 仁実麻生 祐司,秋,京田辺,未,未,1
+433,2015,64137-001,https://syllabus.doshisha.ac.jp/html/2015/64/164137001.html,応用数学Ⅰ－1,服部 純典,秋,京田辺,未,未,1
+434,2015,64138-001,https://syllabus.doshisha.ac.jp/html/2015/64/164138001.html,応用数学Ⅱ－1,服部 純典,秋,京田辺,未,未,1
+435,2015,64141,https://syllabus.doshisha.ac.jp/html/2015/64/164141000.html,物理学演習,廣田 健,秋,京田辺,未,未,1
+436,2015,64142,https://syllabus.doshisha.ac.jp/html/2015/64/164142000.html,計算機演習,木村 佳文,秋,京田辺,未,未,1
+437,2015,64143,https://syllabus.doshisha.ac.jp/html/2015/64/164143000.html,プログラミング演習,木村 佳文八坂 能郎熊﨑 茂一,秋,京田辺,未,未,1
+438,2015,64144,https://syllabus.doshisha.ac.jp/html/2015/64/164144000.html,一般化学,八坂 能郎,秋,京田辺,未,未,1
+439,2015,64145,https://syllabus.doshisha.ac.jp/html/2015/64/164145000.html,錯体化学,小寺 政人,秋,京田辺,未,未,1
+440,2015,64146,https://syllabus.doshisha.ac.jp/html/2015/64/164146000.html,特別講義Ⅲ,廣田 健鴻池 健弘野村 登武信 弘一山崎 博樹,秋,京田辺,未,未,1
+441,2015,64201-001,https://syllabus.doshisha.ac.jp/html/2015/64/164201001.html,工学概論－1,廣田 健髙橋 謙二,秋,京田辺,未,未,1
+442,2015,64202-001,https://syllabus.doshisha.ac.jp/html/2015/64/164202001.html,有機化学Ⅰ－1,水谷 義,秋,京田辺,未,未,1
+443,2015,64203-001,https://syllabus.doshisha.ac.jp/html/2015/64/164203001.html,有機化学Ⅱ－1,水谷 義,秋,京田辺,未,未,1
+444,2015,64204-001,https://syllabus.doshisha.ac.jp/html/2015/64/164204001.html,有機化学Ⅲ－1,人見 穣,秋,京田辺,未,未,1
+445,2015,64205-001,https://syllabus.doshisha.ac.jp/html/2015/64/164205001.html,有機化学Ⅳ－1,人見 穣,秋,京田辺,未,未,1
+446,2015,64206,https://syllabus.doshisha.ac.jp/html/2015/64/164206000.html,環境化学,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+447,2015,64208,https://syllabus.doshisha.ac.jp/html/2015/64/164208000.html,環境科学,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+448,2015,64210-001,https://syllabus.doshisha.ac.jp/html/2015/64/164210001.html,工学倫理－1,廣田 健髙橋 謙二,秋,京田辺,未,未,1
+449,2015,64301,https://syllabus.doshisha.ac.jp/html/2015/64/164301000.html,生物学概論Ⅰ,光田 重幸,秋,京田辺,未,未,1
+450,2015,64302,https://syllabus.doshisha.ac.jp/html/2015/64/164302000.html,生物学概論Ⅱ,光田 重幸,秋,京田辺,未,未,1
+451,2015,64303-001,https://syllabus.doshisha.ac.jp/html/2015/64/164303001.html,基礎物理－1,野村 登,秋,京田辺,未,未,1
+452,2015,64307,https://syllabus.doshisha.ac.jp/html/2015/64/164307000.html,学外実習,廣田 健,秋,京田辺,未,未,1
+453,2015,64312-001,https://syllabus.doshisha.ac.jp/html/2015/64/164312001.html,教科教育法Ｂ（理科）－1,田邊 則彦,秋,京田辺,未,未,1
+454,2015,64312-002,https://syllabus.doshisha.ac.jp/html/2015/64/164312002.html,教科教育法Ｂ（理科）－2,内村 浩,秋,京田辺,未,未,1
+455,2015,64313,https://syllabus.doshisha.ac.jp/html/2015/64/164313000.html,教科教育法Ｃ（理科）,古本 大,秋,京田辺,未,未,1
+456,2015,64315,https://syllabus.doshisha.ac.jp/html/2015/64/164315000.html,育実習Ａ,渡邊 芳英,秋,京田辺,未,未,1
+457,2015,64316-001,https://syllabus.doshisha.ac.jp/html/2015/64/164316001.html,育実習Ｂ－1,渡邊 芳英,秋,京田辺,未,未,1
+458,2015,64316-002,https://syllabus.doshisha.ac.jp/html/2015/64/164316002.html,育実習Ｂ－2,齋藤 誠慈,秋,京田辺,未,未,1
+459,2015,64316-003,https://syllabus.doshisha.ac.jp/html/2015/64/164316003.html,育実習Ｂ－3,田邊 則彦,秋,京田辺,未,未,1
+460,2015,64317-001,https://syllabus.doshisha.ac.jp/html/2015/64/164317001.html,育実習Ｃ－1,渡邊 芳英,秋,京田辺,未,未,1
+461,2015,64317-002,https://syllabus.doshisha.ac.jp/html/2015/64/164317002.html,育実習Ｃ－2,齋藤 誠慈,秋,京田辺,未,未,1
+462,2015,64317-003,https://syllabus.doshisha.ac.jp/html/2015/64/164317003.html,育実習Ｃ－3,田邊 則彦,秋,京田辺,未,未,1
+463,2015,64318-001,https://syllabus.doshisha.ac.jp/html/2015/64/164318001.html,育実習の研究－1,渡邊 芳英,秋,京田辺,未,未,1
+464,2015,64318-002,https://syllabus.doshisha.ac.jp/html/2015/64/164318002.html,育実習の研究－2,齋藤 誠慈,秋,京田辺,未,未,1
+465,2015,64318-003,https://syllabus.doshisha.ac.jp/html/2015/64/164318003.html,育実習の研究－3,田邊 則彦,秋,京田辺,未,未,1
+466,2015,64321-001,https://syllabus.doshisha.ac.jp/html/2015/64/164321001.html,教職実践演習（中・高）－1,井上 智義片桐 滋川﨑 廣吉齋藤 誠慈武田 博清内山 伊知郎渡邊 芳英,秋,京田辺,未,未,1
+467,2015,64321-002,https://syllabus.doshisha.ac.jp/html/2015/64/164321002.html,教職実践演習（中・高）－2,井上 智義片桐 滋川﨑 廣吉齋藤 誠慈武田 博清内山 伊知郎渡邊 芳英,秋,京田辺,未,未,1
+468,2015,64331,https://syllabus.doshisha.ac.jp/html/2015/64/164331000.html,教科教育法Ａ１（理科）,二股 一郎川崎 将義坂下 淳一上田 眞一郎,秋,京田辺,未,未,1
+469,2015,64332,https://syllabus.doshisha.ac.jp/html/2015/64/164332000.html,教科教育法Ａ２（理科）,二股 一郎川崎 将義坂下 淳一上田 眞一郎,秋,京田辺,未,未,1
+470,2015,65004-001,https://syllabus.doshisha.ac.jp/html/2015/65/165004001.html,解析学Ⅱ－1,宮下 鋭也,秋,京田辺,未,未,1
+471,2015,65004-002,https://syllabus.doshisha.ac.jp/html/2015/65/165004002.html,解析学Ⅱ－2,津田 博史,秋,京田辺,未,未,1
+472,2015,65005-003,https://syllabus.doshisha.ac.jp/html/2015/65/165005003.html,物理化学Ⅰ－3,森 康維,秋,京田辺,未,未,1
+473,2015,65006-003,https://syllabus.doshisha.ac.jp/html/2015/65/165006003.html,物理化学Ⅱ－3,近藤 和生,秋,京田辺,未,未,1
+474,2015,65007-002,https://syllabus.doshisha.ac.jp/html/2015/65/165007002.html,有機化学Ⅰ－2,太田 哲男,秋,京田辺,未,未,1
+475,2015,65008-002,https://syllabus.doshisha.ac.jp/html/2015/65/165008002.html,有機化学Ⅱ－2,太田 哲男,秋,京田辺,未,未,1
+476,2015,65010,https://syllabus.doshisha.ac.jp/html/2015/65/165010000.html,物質化学工学概論,近藤 和生松本 道明森 康維塩井 章久土屋 活美塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+477,2015,65011-001,https://syllabus.doshisha.ac.jp/html/2015/65/165011001.html,線形代数学Ⅰ－1,津田 博史,秋,京田辺,未,未,1
+478,2015,65011-002,https://syllabus.doshisha.ac.jp/html/2015/65/165011002.html,線形代数学Ⅰ－2,竹山 理,秋,京田辺,未,未,1
+479,2015,65012-001,https://syllabus.doshisha.ac.jp/html/2015/65/165012001.html,線形代数学Ⅱ－1,津田 博史,秋,京田辺,未,未,1
+480,2015,65012-002,https://syllabus.doshisha.ac.jp/html/2015/65/165012002.html,線形代数学Ⅱ－2,竹山 理,秋,京田辺,未,未,1
+481,2015,65021,https://syllabus.doshisha.ac.jp/html/2015/65/165021000.html,量子化学Ⅰ,白川 善幸,秋,京田辺,未,未,1
+482,2015,65023,https://syllabus.doshisha.ac.jp/html/2015/65/165023000.html,化学工学熱力学,塩井 章久,秋,京田辺,未,未,1
+483,2015,65024,https://syllabus.doshisha.ac.jp/html/2015/65/165024000.html,移動現象論Ⅰ,土屋 活美,秋,京田辺,未,未,1
+484,2015,65025-002,https://syllabus.doshisha.ac.jp/html/2015/65/165025002.html,プログラミング法Ⅰおよび演習－2,森 康維白川 善幸片岡 勲小菅 真吾大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+485,2015,65032,https://syllabus.doshisha.ac.jp/html/2015/65/165032000.html,物質化学工学実験Ⅰ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾下坂 厚子田村 隆,秋,京田辺,未,未,1
+486,2015,65033,https://syllabus.doshisha.ac.jp/html/2015/65/165033000.html,物質化学工学実験Ⅱ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾下坂 厚子田村 隆,秋,京田辺,未,未,1
+487,2015,65051-002,https://syllabus.doshisha.ac.jp/html/2015/65/165051002.html,応用数学Ⅰ－2,芦野 隆一,秋,京田辺,未,未,1
+488,2015,65052,https://syllabus.doshisha.ac.jp/html/2015/65/165052000.html,プログラミング法Ⅱ,松本 道明塚越 一彦,秋,京田辺,未,未,1
+489,2015,65053,https://syllabus.doshisha.ac.jp/html/2015/65/165053000.html,生物化学Ⅰ,吉村 徹,秋,京田辺,未,未,1
+490,2015,65054,https://syllabus.doshisha.ac.jp/html/2015/65/165054000.html,高分子化学,古賀 智之,秋,京田辺,未,未,1
+491,2015,65058,https://syllabus.doshisha.ac.jp/html/2015/65/165058000.html,拡散工学,土屋 活美,秋,京田辺,未,未,1
+492,2015,65059,https://syllabus.doshisha.ac.jp/html/2015/65/165059000.html,反応分離工学,橋本 雅彦,秋,京田辺,未,未,1
+493,2015,65060-002,https://syllabus.doshisha.ac.jp/html/2015/65/165060002.html,反応工学Ⅰ－2,近藤 和生,秋,京田辺,未,未,1
+494,2015,65061,https://syllabus.doshisha.ac.jp/html/2015/65/165061000.html,工学倫理,中村 正文,秋,京田辺,未,未,1
+495,2015,65070-002,https://syllabus.doshisha.ac.jp/html/2015/65/165070002.html,応用数学Ⅱ－2,山本 大吾,秋,京田辺,未,未,1
+496,2015,65071,https://syllabus.doshisha.ac.jp/html/2015/65/165071000.html,量子化学Ⅱ,白川 善幸,秋,京田辺,未,未,1
+497,2015,65072-002,https://syllabus.doshisha.ac.jp/html/2015/65/165072002.html,統計力学－2,塩井 章久,秋,京田辺,未,未,1
+498,2015,65074,https://syllabus.doshisha.ac.jp/html/2015/65/165074000.html,エネルギー工学,塩井 章久,秋,京田辺,未,未,1
+499,2015,65077,https://syllabus.doshisha.ac.jp/html/2015/65/165077000.html,反応工学Ⅱ,近藤 和生,秋,京田辺,未,未,1
+500,2015,65079,https://syllabus.doshisha.ac.jp/html/2015/65/165079000.html,化学計測Ⅰ,塚越 一彦,秋,京田辺,未,未,1
+501,2015,65080,https://syllabus.doshisha.ac.jp/html/2015/65/165080000.html,化学計測Ⅱ,橋本 雅彦,秋,京田辺,未,未,1
+502,2015,65081,https://syllabus.doshisha.ac.jp/html/2015/65/165081000.html,プロセス制御,藤原 幸一,秋,京田辺,未,未,1
+503,2015,65082,https://syllabus.doshisha.ac.jp/html/2015/65/165082000.html,分子集団設計,森 康維,秋,京田辺,未,未,1
+504,2015,65084,https://syllabus.doshisha.ac.jp/html/2015/65/165084000.html,移動現象論Ⅱ,土屋 活美,秋,京田辺,未,未,1
+505,2015,65085,https://syllabus.doshisha.ac.jp/html/2015/65/165085000.html,生物反応工学,松本 道明,秋,京田辺,未,未,1
+506,2015,65086,https://syllabus.doshisha.ac.jp/html/2015/65/165086000.html,材料システム工学,森 康維,秋,京田辺,未,未,1
+507,2015,65090,https://syllabus.doshisha.ac.jp/html/2015/65/165090000.html,プロセス設計,斉藤 昇,秋,京田辺,未,未,1
+508,2015,65092,https://syllabus.doshisha.ac.jp/html/2015/65/165092000.html,生体材料工学,松本 道明,秋,京田辺,未,未,1
+509,2015,65094,https://syllabus.doshisha.ac.jp/html/2015/65/165094000.html,流体力学,土屋 活美,秋,京田辺,未,未,1
+510,2015,65095,https://syllabus.doshisha.ac.jp/html/2015/65/165095000.html,材料力学,塩井 章久,秋,京田辺,未,未,1
+511,2015,65096,https://syllabus.doshisha.ac.jp/html/2015/65/165096000.html,固体プロセス工学Ⅰ,森 康維,秋,京田辺,未,未,1
+512,2015,65098,https://syllabus.doshisha.ac.jp/html/2015/65/165098000.html,固体プロセス工学Ⅱ,白川 善幸,秋,京田辺,未,未,1
+513,2015,65100-001,https://syllabus.doshisha.ac.jp/html/2015/65/165100001.html,製図学－1,菱田 典明越智 昭夫岡村 貴句男谷車 竜司清川 豊,秋,京田辺,未,未,1
+514,2015,65110-001,https://syllabus.doshisha.ac.jp/html/2015/65/165110001.html,数理統計学－1,竹山 理,秋,京田辺,未,未,1
+515,2015,65111,https://syllabus.doshisha.ac.jp/html/2015/65/165111000.html,電子工学概論,中川 洋,秋,京田辺,未,未,1
+516,2015,65112,https://syllabus.doshisha.ac.jp/html/2015/65/165112000.html,生物化学Ⅱ,吉村 徹,秋,京田辺,未,未,1
+517,2015,65131-002,https://syllabus.doshisha.ac.jp/html/2015/65/165131002.html,物性論－2,白川 善幸,秋,京田辺,未,未,1
+518,2015,65134,https://syllabus.doshisha.ac.jp/html/2015/65/165134000.html,外国書講読（英）,中村 久男,秋,京田辺,未,未,1
+519,2015,65137,https://syllabus.doshisha.ac.jp/html/2015/65/165137000.html,電気工学実験,馬場 吉弘井上 馨加藤 利次髙橋 康人春名 洋海北橋 幸和田中 正明田中 裕治寺田 元治牛田 和彦山本 惠俊,秋,京田辺,未,未,1
+520,2015,65140,https://syllabus.doshisha.ac.jp/html/2015/65/165140000.html,応用解析学,竹山 理,秋,京田辺,未,未,1
+521,2015,65303,https://syllabus.doshisha.ac.jp/html/2015/65/165303000.html,学外実習,松本 道明,秋,京田辺,未,未,1
+522,2015,65305,https://syllabus.doshisha.ac.jp/html/2015/65/165305000.html,職業指導,川瀬 勝也,秋,京田辺,未,未,1
+523,2015,65306,https://syllabus.doshisha.ac.jp/html/2015/65/165306000.html,ネットワークシステム設計,土屋 誠司,秋,京田辺,未,未,1
+524,2015,66001,https://syllabus.doshisha.ac.jp/html/2015/66/166001000.html,離散表現,高橋 和彦,秋,京田辺,未,未,1
+525,2015,66002,https://syllabus.doshisha.ac.jp/html/2015/66/166002000.html,物理学の基礎,土屋 隆生,秋,京田辺,未,未,1
+526,2015,66003,https://syllabus.doshisha.ac.jp/html/2015/66/166003000.html,計算機工学Ⅰ,佐藤 健哉,秋,京田辺,未,未,1
+527,2015,66004,https://syllabus.doshisha.ac.jp/html/2015/66/166004000.html,計算機工学Ⅱ,土屋 隆生,秋,京田辺,未,未,1
+528,2015,66005,https://syllabus.doshisha.ac.jp/html/2015/66/166005000.html,プログラミングⅠ,山本 誠一大崎 美穂桂井 麻里衣,秋,京田辺,未,未,1
+529,2015,66006,https://syllabus.doshisha.ac.jp/html/2015/66/166006000.html,プログラミングⅡ,小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+530,2015,66007,https://syllabus.doshisha.ac.jp/html/2015/66/166007000.html,人間と情報システムⅠ,片桐 滋小林 剛古宮 浩行宮武 正典森田 哲之天白 成一,秋,京田辺,未,未,1
+531,2015,66008,https://syllabus.doshisha.ac.jp/html/2015/66/166008000.html,人間と情報システムⅡ,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+532,2015,66009,https://syllabus.doshisha.ac.jp/html/2015/66/166009000.html,コンピュータ基礎演習,高橋 和彦,秋,京田辺,未,未,1
+533,2015,66020,https://syllabus.doshisha.ac.jp/html/2015/66/166020000.html,ネットワーク基礎,佐藤 健哉,秋,京田辺,未,未,1
+534,2015,66021,https://syllabus.doshisha.ac.jp/html/2015/66/166021000.html,メカトロニクス基礎,橋本 雅文,秋,京田辺,未,未,1
+535,2015,66022,https://syllabus.doshisha.ac.jp/html/2015/66/166022000.html,プログラミングⅢ,IVAN TANEV,秋,京田辺,未,未,1
+536,2015,66023,https://syllabus.doshisha.ac.jp/html/2015/66/166023000.html,情報システム基礎,大崎 美穂,秋,京田辺,未,未,1
+537,2015,66024,https://syllabus.doshisha.ac.jp/html/2015/66/166024000.html,情報制御工学,高橋 和彦,秋,京田辺,未,未,1
+538,2015,66025,https://syllabus.doshisha.ac.jp/html/2015/66/166025000.html,情報システム演習実験Ⅰ,佐藤 健哉高橋 和彦IVAN TANEV土屋 隆生,秋,京田辺,未,未,1
+539,2015,66026,https://syllabus.doshisha.ac.jp/html/2015/66/166026000.html,情報システム演習実験Ⅱ,大久保 雅史小板 隆浩井田 明男,秋,京田辺,未,未,1
+540,2015,66040,https://syllabus.doshisha.ac.jp/html/2015/66/166040000.html,情報システム応用Ⅰ,小板 隆浩井田 明男上野 秀剛未定,秋,京田辺,未,未,1
+541,2015,66041,https://syllabus.doshisha.ac.jp/html/2015/66/166041000.html,情報システム応用Ⅱ,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+542,2015,66042,https://syllabus.doshisha.ac.jp/html/2015/66/166042000.html,情報システム開発技法,片桐 滋,秋,京田辺,未,未,1
+543,2015,66043,https://syllabus.doshisha.ac.jp/html/2015/66/166043000.html,人間とコミュニケーション,山本 誠一,秋,京田辺,未,未,1
+544,2015,66044,https://syllabus.doshisha.ac.jp/html/2015/66/166044000.html,画像表現,大久保 雅史,秋,京田辺,未,未,1
+545,2015,66045,https://syllabus.doshisha.ac.jp/html/2015/66/166045000.html,社会情報システム,下原 勝憲,秋,京田辺,未,未,1
+546,2015,66051,https://syllabus.doshisha.ac.jp/html/2015/66/166051000.html,卒業論文Ⅰ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+547,2015,66051-012,https://syllabus.doshisha.ac.jp/html/2015/66/166051012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+548,2015,66051-014,https://syllabus.doshisha.ac.jp/html/2015/66/166051014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+549,2015,66051-016,https://syllabus.doshisha.ac.jp/html/2015/66/166051016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+550,2015,66051-019,https://syllabus.doshisha.ac.jp/html/2015/66/166051019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+551,2015,66051-021,https://syllabus.doshisha.ac.jp/html/2015/66/166051021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+552,2015,66051-022,https://syllabus.doshisha.ac.jp/html/2015/66/166051022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+553,2015,66051-301,https://syllabus.doshisha.ac.jp/html/2015/66/166051301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+554,2015,66051-302,https://syllabus.doshisha.ac.jp/html/2015/66/166051302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+555,2015,66051-303,https://syllabus.doshisha.ac.jp/html/2015/66/166051303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+556,2015,66051-305,https://syllabus.doshisha.ac.jp/html/2015/66/166051305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+557,2015,66051-307,https://syllabus.doshisha.ac.jp/html/2015/66/166051307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+558,2015,66051-309,https://syllabus.doshisha.ac.jp/html/2015/66/166051309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+559,2015,66052,https://syllabus.doshisha.ac.jp/html/2015/66/166052000.html,卒業論文Ⅱ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+560,2015,66052-012,https://syllabus.doshisha.ac.jp/html/2015/66/166052012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+561,2015,66052-014,https://syllabus.doshisha.ac.jp/html/2015/66/166052014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+562,2015,66052-016,https://syllabus.doshisha.ac.jp/html/2015/66/166052016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+563,2015,66052-019,https://syllabus.doshisha.ac.jp/html/2015/66/166052019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+564,2015,66052-021,https://syllabus.doshisha.ac.jp/html/2015/66/166052021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+565,2015,66052-022,https://syllabus.doshisha.ac.jp/html/2015/66/166052022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+566,2015,66052-301,https://syllabus.doshisha.ac.jp/html/2015/66/166052301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+567,2015,66052-302,https://syllabus.doshisha.ac.jp/html/2015/66/166052302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+568,2015,66052-303,https://syllabus.doshisha.ac.jp/html/2015/66/166052303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+569,2015,66052-305,https://syllabus.doshisha.ac.jp/html/2015/66/166052305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+570,2015,66052-307,https://syllabus.doshisha.ac.jp/html/2015/66/166052307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+571,2015,66052-309,https://syllabus.doshisha.ac.jp/html/2015/66/166052309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+572,2015,66060,https://syllabus.doshisha.ac.jp/html/2015/66/166060000.html,情報システム演習実験Ⅲ,片桐 滋下原 勝憲山本 誠一桂井 麻里衣,秋,京田辺,未,未,1
+573,2015,66070,https://syllabus.doshisha.ac.jp/html/2015/66/166070000.html,数学の基礎Ⅰ,宮下 鋭也,秋,京田辺,未,未,1
+574,2015,66071,https://syllabus.doshisha.ac.jp/html/2015/66/166071000.html,数学の基礎Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+575,2015,66072,https://syllabus.doshisha.ac.jp/html/2015/66/166072000.html,線形代数学Ⅰ,齋藤 誠慈,秋,京田辺,未,未,1
+576,2015,66073,https://syllabus.doshisha.ac.jp/html/2015/66/166073000.html,線形代数学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+577,2015,66074,https://syllabus.doshisha.ac.jp/html/2015/66/166074000.html,解析学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+578,2015,66075,https://syllabus.doshisha.ac.jp/html/2015/66/166075000.html,解析学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+579,2015,66076,https://syllabus.doshisha.ac.jp/html/2015/66/166076000.html,論理表現,森谷 駿二,秋,京田辺,未,未,1
+580,2015,66077,https://syllabus.doshisha.ac.jp/html/2015/66/166077000.html,動きと力学,橋本 雅文,秋,京田辺,未,未,1
+581,2015,66078,https://syllabus.doshisha.ac.jp/html/2015/66/166078000.html,インターネット,吉田 雅一,秋,京田辺,未,未,1
+582,2015,66079,https://syllabus.doshisha.ac.jp/html/2015/66/166079000.html,情報システムデザイン学入門,大崎 美穂,秋,京田辺,未,未,1
+583,2015,66080,https://syllabus.doshisha.ac.jp/html/2015/66/166080000.html,情報システム概論,片桐 滋,秋,京田辺,未,未,1
+584,2015,66081,https://syllabus.doshisha.ac.jp/html/2015/66/166081000.html,人間の情報処理,山本 誠一,秋,京田辺,未,未,1
+585,2015,66082,https://syllabus.doshisha.ac.jp/html/2015/66/166082000.html,社会の仕組み,下原 勝憲,秋,京田辺,未,未,1
+586,2015,66090,https://syllabus.doshisha.ac.jp/html/2015/66/166090000.html,連続表現,森谷 駿二,秋,京田辺,未,未,1
+587,2015,66091,https://syllabus.doshisha.ac.jp/html/2015/66/166091000.html,空間と波動,高橋 和彦,秋,京田辺,未,未,1
+588,2015,66092,https://syllabus.doshisha.ac.jp/html/2015/66/166092000.html,電磁気現象,土屋 隆生,秋,京田辺,未,未,1
+589,2015,66093,https://syllabus.doshisha.ac.jp/html/2015/66/166093000.html,オペレーティングシステム,油谷 曉,秋,京田辺,未,未,1
+590,2015,66094,https://syllabus.doshisha.ac.jp/html/2015/66/166094000.html,マルチエージェント工学,IVAN TANEV,秋,京田辺,未,未,1
+591,2015,66095,https://syllabus.doshisha.ac.jp/html/2015/66/166095000.html,情報システム要素技術,片桐 滋,秋,京田辺,未,未,1
+592,2015,66096,https://syllabus.doshisha.ac.jp/html/2015/66/166096000.html,情報デザインⅠ,大久保 雅史,秋,京田辺,未,未,1
+593,2015,66097,https://syllabus.doshisha.ac.jp/html/2015/66/166097000.html,コラボレーション工学,大久保 雅史,秋,京田辺,未,未,1
+594,2015,66098,https://syllabus.doshisha.ac.jp/html/2015/66/166098000.html,数値シミュレーション,土屋 隆生,秋,京田辺,未,未,1
+595,2015,66100,https://syllabus.doshisha.ac.jp/html/2015/66/166100000.html,技術英語,IVAN TANEV,秋,京田辺,未,未,1
+596,2015,66101,https://syllabus.doshisha.ac.jp/html/2015/66/166101000.html,特別講義Ⅰ,山本 誠一石井 寿憲川出 雅人関 真規人和田 充史,秋,京田辺,未,未,1
+597,2015,66102,https://syllabus.doshisha.ac.jp/html/2015/66/166102000.html,人間の創造活動,山本 誠一,秋,京田辺,未,未,1
+598,2015,66103,https://syllabus.doshisha.ac.jp/html/2015/66/166103000.html,情報システムと文化,池田 佳和,秋,京田辺,未,未,1
+599,2015,66104,https://syllabus.doshisha.ac.jp/html/2015/66/166104000.html,生産活動と情報,下原 勝憲,秋,京田辺,未,未,1
+600,2015,66105,https://syllabus.doshisha.ac.jp/html/2015/66/166105000.html,ネットワーク応用,小板 隆浩,秋,京田辺,未,未,1
+601,2015,66110,https://syllabus.doshisha.ac.jp/html/2015/66/166110000.html,プログラミングⅣ,杉浦 孔明,秋,京田辺,未,未,1
+602,2015,66111,https://syllabus.doshisha.ac.jp/html/2015/66/166111000.html,プログラミングⅤ,飯尾 尊優,秋,京田辺,未,未,1
+603,2015,66112,https://syllabus.doshisha.ac.jp/html/2015/66/166112000.html,マルチメディアネットワーク,佐藤 健哉,秋,京田辺,未,未,1
+604,2015,66113,https://syllabus.doshisha.ac.jp/html/2015/66/166113000.html,インテリジェントアルゴリズム,IVAN TANEV,秋,京田辺,未,未,1
+605,2015,66114,https://syllabus.doshisha.ac.jp/html/2015/66/166114000.html,情報システムの計画と設計,片桐 滋,秋,京田辺,未,未,1
+606,2015,66115,https://syllabus.doshisha.ac.jp/html/2015/66/166115000.html,情報デザインⅡ,大崎 美穂,秋,京田辺,未,未,1
+607,2015,66116,https://syllabus.doshisha.ac.jp/html/2015/66/166116000.html,画像処理,大久保 雅史,秋,京田辺,未,未,1
+608,2015,66119,https://syllabus.doshisha.ac.jp/html/2015/66/166119000.html,特別講義Ⅱ,下原 勝憲芦田 尚人丸野 進中野 明鈴木 秀明,秋,京田辺,未,未,1
+609,2015,66121,https://syllabus.doshisha.ac.jp/html/2015/66/166121000.html,ナレッジマネジメント,山本 誠一,秋,京田辺,未,未,1
+610,2015,66122,https://syllabus.doshisha.ac.jp/html/2015/66/166122000.html,ｅ－ラーニング,山田 玲子,秋,京田辺,未,未,1
+611,2015,66123,https://syllabus.doshisha.ac.jp/html/2015/66/166123000.html,企業活動と情報,下原 勝憲,秋,京田辺,未,未,1
+612,2015,66124,https://syllabus.doshisha.ac.jp/html/2015/66/166124000.html,学外実習,片桐 滋,秋,京田辺,未,未,1
+613,2015,67002,https://syllabus.doshisha.ac.jp/html/2015/67/167002000.html,解析学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+614,2015,67003,https://syllabus.doshisha.ac.jp/html/2015/67/167003000.html,微分方程式Ⅰ,藤井 慎一,秋,京田辺,未,未,1
+615,2015,67004,https://syllabus.doshisha.ac.jp/html/2015/67/167004000.html,線形代数学Ⅰ,齋藤 誠慈,秋,京田辺,未,未,1
+616,2015,67005,https://syllabus.doshisha.ac.jp/html/2015/67/167005000.html,線形代数学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+617,2015,67006,https://syllabus.doshisha.ac.jp/html/2015/67/167006000.html,物理学Ⅰ,橋本 雅文,秋,京田辺,未,未,1
+618,2015,67009,https://syllabus.doshisha.ac.jp/html/2015/67/167009000.html,プログラミング法Ⅰ,加藤 恒夫間 博人小島 一秀,秋,京田辺,未,未,1
+619,2015,67010,https://syllabus.doshisha.ac.jp/html/2015/67/167010000.html,情報数学Ⅰ,芳賀 博英,秋,京田辺,未,未,1
+620,2015,67020,https://syllabus.doshisha.ac.jp/html/2015/67/167020000.html,複素解析,齋藤 誠慈,秋,京田辺,未,未,1
+621,2015,67022,https://syllabus.doshisha.ac.jp/html/2015/67/167022000.html,計算機工学Ⅰ,金田 重郎,秋,京田辺,未,未,1
+622,2015,67023,https://syllabus.doshisha.ac.jp/html/2015/67/167023000.html,プログラミング法Ⅱ,渡部 広一吉村 枝里子,秋,京田辺,未,未,1
+623,2015,67024-001,https://syllabus.doshisha.ac.jp/html/2015/67/167024001.html,プログラミング言語－1,芳賀 博英,秋,京田辺,未,未,1
+624,2015,67024-501,https://syllabus.doshisha.ac.jp/html/2015/67/167024501.html,プログラミング言語－501,芳賀 博英,秋,インターネット,未,未,1
+625,2015,67025,https://syllabus.doshisha.ac.jp/html/2015/67/167025000.html,情報数学Ⅱ,片山 良一,秋,京田辺,未,未,1
+626,2015,67026,https://syllabus.doshisha.ac.jp/html/2015/67/167026000.html,言語理論Ⅰ,芳賀 博英,秋,インターネット,未,未,1
+627,2015,67029,https://syllabus.doshisha.ac.jp/html/2015/67/167029000.html,情報理論,吉田 雅一,秋,京田辺,未,未,1
+628,2015,67030,https://syllabus.doshisha.ac.jp/html/2015/67/167030000.html,知識工学実験Ⅰ,橋本 雅文渡部 広一坂東 敏博間 博人吉田 雅一,秋,京田辺,未,未,1
+629,2015,67041,https://syllabus.doshisha.ac.jp/html/2015/67/167041000.html,知識工学実験Ⅱ,芳賀 博英渡部 広一加藤 恒夫土屋 誠司間 博人松尾 豊樹柳田 益造,秋,京田辺,未,未,1
+630,2015,67042,https://syllabus.doshisha.ac.jp/html/2015/67/167042000.html,知識工学応用論,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+631,2015,67051,https://syllabus.doshisha.ac.jp/html/2015/67/167051000.html,卒業論文Ⅰ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+632,2015,67051-012,https://syllabus.doshisha.ac.jp/html/2015/67/167051012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+633,2015,67051-014,https://syllabus.doshisha.ac.jp/html/2015/67/167051014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+634,2015,67051-016,https://syllabus.doshisha.ac.jp/html/2015/67/167051016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+635,2015,67051-019,https://syllabus.doshisha.ac.jp/html/2015/67/167051019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+636,2015,67051-021,https://syllabus.doshisha.ac.jp/html/2015/67/167051021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+637,2015,67051-022,https://syllabus.doshisha.ac.jp/html/2015/67/167051022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+638,2015,67051-301,https://syllabus.doshisha.ac.jp/html/2015/67/167051301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+639,2015,67051-302,https://syllabus.doshisha.ac.jp/html/2015/67/167051302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+640,2015,67051-303,https://syllabus.doshisha.ac.jp/html/2015/67/167051303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+641,2015,67051-305,https://syllabus.doshisha.ac.jp/html/2015/67/167051305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+642,2015,67051-307,https://syllabus.doshisha.ac.jp/html/2015/67/167051307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+643,2015,67051-309,https://syllabus.doshisha.ac.jp/html/2015/67/167051309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+644,2015,67052,https://syllabus.doshisha.ac.jp/html/2015/67/167052000.html,卒業論文Ⅱ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+645,2015,67052-012,https://syllabus.doshisha.ac.jp/html/2015/67/167052012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+646,2015,67052-014,https://syllabus.doshisha.ac.jp/html/2015/67/167052014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+647,2015,67052-016,https://syllabus.doshisha.ac.jp/html/2015/67/167052016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+648,2015,67052-019,https://syllabus.doshisha.ac.jp/html/2015/67/167052019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+649,2015,67052-021,https://syllabus.doshisha.ac.jp/html/2015/67/167052021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+650,2015,67052-022,https://syllabus.doshisha.ac.jp/html/2015/67/167052022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+651,2015,67052-301,https://syllabus.doshisha.ac.jp/html/2015/67/167052301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+652,2015,67052-302,https://syllabus.doshisha.ac.jp/html/2015/67/167052302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+653,2015,67052-303,https://syllabus.doshisha.ac.jp/html/2015/67/167052303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+654,2015,67052-305,https://syllabus.doshisha.ac.jp/html/2015/67/167052305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+655,2015,67052-307,https://syllabus.doshisha.ac.jp/html/2015/67/167052307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+656,2015,67052-309,https://syllabus.doshisha.ac.jp/html/2015/67/167052309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+657,2015,67060,https://syllabus.doshisha.ac.jp/html/2015/67/167060000.html,知識工学実験Ⅲ,程 俊金田 重郎三木 光範坂東 敏博土屋 誠司田中 美里,秋,京田辺,未,未,1
+658,2015,67080,https://syllabus.doshisha.ac.jp/html/2015/67/167080000.html,フーリエ解析,程 俊,秋,京田辺,未,未,1
+659,2015,67081,https://syllabus.doshisha.ac.jp/html/2015/67/167081000.html,微分方程式Ⅱ,藤井 慎一,秋,京田辺,未,未,1
+660,2015,67085,https://syllabus.doshisha.ac.jp/html/2015/67/167085000.html,計算機工学Ⅱ,金田 重郎,秋,京田辺,未,未,1
+661,2015,67086,https://syllabus.doshisha.ac.jp/html/2015/67/167086000.html,数値計算法,三木 光範田中 美里,秋,京田辺,未,未,1
+662,2015,67087,https://syllabus.doshisha.ac.jp/html/2015/67/167087000.html,数理統計学,間 博人,秋,京田辺,未,未,1
+663,2015,67101-001,https://syllabus.doshisha.ac.jp/html/2015/67/167101001.html,言語理論Ⅱ－1,芳賀 博英,秋,京田辺,未,未,1
+664,2015,67101-501,https://syllabus.doshisha.ac.jp/html/2015/67/167101501.html,言語理論Ⅱ－501,芳賀 博英,秋,インターネット,未,未,1
+665,2015,67102,https://syllabus.doshisha.ac.jp/html/2015/67/167102000.html,特別講義Ａ,金田 重郎未定井田 明男森末 清成,秋,京田辺,未,未,1
+666,2015,67103,https://syllabus.doshisha.ac.jp/html/2015/67/167103000.html,特別講義Ｂ,越智 久晃内元 清貴吉岡 拓也,秋,京田辺,未,未,1
+667,2015,67104,https://syllabus.doshisha.ac.jp/html/2015/67/167104000.html,学外実習,三木 光範,秋,京田辺,未,未,1
+668,2015,67110,https://syllabus.doshisha.ac.jp/html/2015/67/167110000.html,データベースシステム,三木 光範田中 美里,秋,京田辺,未,未,1
+669,2015,67112,https://syllabus.doshisha.ac.jp/html/2015/67/167112000.html,符号理論,程 俊,秋,京田辺,未,未,1
+670,2015,67115,https://syllabus.doshisha.ac.jp/html/2015/67/167115000.html,不規則信号論,吉田 雅一,秋,京田辺,未,未,1
+671,2015,67116,https://syllabus.doshisha.ac.jp/html/2015/67/167116000.html,ディジタル信号処理,加藤 恒夫柳田 益造,秋,京田辺,未,未,1
+672,2015,67117,https://syllabus.doshisha.ac.jp/html/2015/67/167117000.html,ワイヤレス通信,程 俊,秋,京田辺,未,未,1
+673,2015,67119,https://syllabus.doshisha.ac.jp/html/2015/67/167119000.html,知識工学概論Ⅰ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+674,2015,67200,https://syllabus.doshisha.ac.jp/html/2015/67/167200000.html,知識工学概論Ⅱ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+675,2015,67206,https://syllabus.doshisha.ac.jp/html/2015/67/167206000.html,画像処理,渡部 広一,秋,京田辺,未,未,1
+676,2015,67207,https://syllabus.doshisha.ac.jp/html/2015/67/167207000.html,インターネット,吉田 雅一,秋,京田辺,未,未,1
+677,2015,67208,https://syllabus.doshisha.ac.jp/html/2015/67/167208000.html,視覚認知,坂東 敏博,秋,京田辺,未,未,1
+678,2015,67209,https://syllabus.doshisha.ac.jp/html/2015/67/167209000.html,アルゴリズムとデータ構造,芳賀 博英,秋,インターネット,未,未,1
+679,2015,67210,https://syllabus.doshisha.ac.jp/html/2015/67/167210000.html,プログラミング法Ⅲ,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+680,2015,67212,https://syllabus.doshisha.ac.jp/html/2015/67/167212000.html,自然言語処理,土屋 誠司,秋,京田辺,未,未,1
+681,2015,67213,https://syllabus.doshisha.ac.jp/html/2015/67/167213000.html,視覚機構,坂東 敏博,秋,京田辺,未,未,1
+682,2015,67215,https://syllabus.doshisha.ac.jp/html/2015/67/167215000.html,情報セキュリティ,吉田 雅一,秋,京田辺,未,未,1
+683,2015,67216,https://syllabus.doshisha.ac.jp/html/2015/67/167216000.html,視覚情報処理,坂東 敏博,秋,京田辺,未,未,1
+684,2015,67217,https://syllabus.doshisha.ac.jp/html/2015/67/167217000.html,知的システム工学,三木 光範,秋,京田辺,未,未,1
+685,2015,67219,https://syllabus.doshisha.ac.jp/html/2015/67/167219000.html,知識情報処理,土屋 誠司,秋,京田辺,未,未,1
+686,2015,67220,https://syllabus.doshisha.ac.jp/html/2015/67/167220000.html,パターン認識,加藤 恒夫柳田 益造,秋,京田辺,未,未,1
+687,2015,67224,https://syllabus.doshisha.ac.jp/html/2015/67/167224000.html,プログラミング法Ⅳ,土屋 誠司間 博人,秋,京田辺,未,未,1
+688,2015,67227,https://syllabus.doshisha.ac.jp/html/2015/67/167227000.html,情報メディア,張 兵,秋,京田辺,未,未,1
+689,2015,67228,https://syllabus.doshisha.ac.jp/html/2015/67/167228000.html,情報処理実習,西田 知史坂野 雄一杉本 徳和,秋,京田辺,未,未,1
+690,2015,67229,https://syllabus.doshisha.ac.jp/html/2015/67/167229000.html,情報システム実習,片桐 滋下原 勝憲山本 誠一小林 剛,秋,京田辺,未,未,1
+691,2015,67230,https://syllabus.doshisha.ac.jp/html/2015/67/167230000.html,情報通信ネットワーク実習,伊藤 禎宣,秋,京田辺,未,未,1
+692,2015,67231,https://syllabus.doshisha.ac.jp/html/2015/67/167231000.html,情報メディア実習,渡部 広一加藤 恒夫,秋,京田辺,未,未,1
+693,2015,67232,https://syllabus.doshisha.ac.jp/html/2015/67/167232000.html,情報と職業,上田 祐一郎,秋,京田辺,未,未,1
+694,2015,67233,https://syllabus.doshisha.ac.jp/html/2015/67/167233000.html,教科教育法Ａ（情報）,荻野 和俊,秋,京田辺,未,未,1
+695,2015,67234,https://syllabus.doshisha.ac.jp/html/2015/67/167234000.html,教科教育法Ｂ（情報）,荻野 和俊,秋,京田辺,未,未,1
+696,2015,67235,https://syllabus.doshisha.ac.jp/html/2015/67/167235000.html,物理学基礎,土屋 隆生,秋,京田辺,未,未,1
+697,2015,67236,https://syllabus.doshisha.ac.jp/html/2015/67/167236000.html,応用数理統計学,坂東 敏博,秋,京田辺,未,未,1
+698,2015,67237,https://syllabus.doshisha.ac.jp/html/2015/67/167237000.html,情報システム工学,金田 重郎井田 明男,秋,京田辺,未,未,1
+699,2015,67238,https://syllabus.doshisha.ac.jp/html/2015/67/167238000.html,コンピュータ基礎実習,加藤 恒夫吉村 枝里子,秋,京田辺,未,未,1
+700,2015,67239,https://syllabus.doshisha.ac.jp/html/2015/67/167239000.html,コンピュータグラフィックス,渡部 広一,秋,京田辺,未,未,1
+701,2015,67240,https://syllabus.doshisha.ac.jp/html/2015/67/167240000.html,コンピュータネットワーク,土屋 誠司,秋,京田辺,未,未,1
+702,2015,67241,https://syllabus.doshisha.ac.jp/html/2015/67/167241000.html,情報キャリアデザイン,三木 光範田中 美里,秋,京田辺,未,未,1
+703,2015,67242,https://syllabus.doshisha.ac.jp/html/2015/67/167242000.html,プログラミング法Ｖ,渡部 広一,秋,京田辺,未,未,1
+704,2015,67244,https://syllabus.doshisha.ac.jp/html/2015/67/167244000.html,技術英語Ⅰ,IVAN TANEV,秋,京田辺,未,未,1
+705,2015,67246,https://syllabus.doshisha.ac.jp/html/2015/67/167246000.html,数学の基礎Ⅰ,宮下 鋭也,秋,京田辺,未,未,1
+706,2015,67247,https://syllabus.doshisha.ac.jp/html/2015/67/167247000.html,数学の基礎Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+707,2015,67248,https://syllabus.doshisha.ac.jp/html/2015/67/167248000.html,ＣプログラミングⅠ,加藤 恒夫間 博人小島 一秀,秋,京田辺,未,未,1
+708,2015,67249,https://syllabus.doshisha.ac.jp/html/2015/67/167249000.html,ＣプログラミングⅡ,渡部 広一吉村 枝里子,秋,京田辺,未,未,1
+709,2015,67250,https://syllabus.doshisha.ac.jp/html/2015/67/167250000.html,ＣプログラミングⅢ,渡部 広一,秋,京田辺,未,未,1
+710,2015,67251,https://syllabus.doshisha.ac.jp/html/2015/67/167251000.html,ＪａｖａプログラミングⅠ,土屋 誠司間 博人,秋,京田辺,未,未,1
+711,2015,67252,https://syllabus.doshisha.ac.jp/html/2015/67/167252000.html,ＪａｖａプログラミングⅡ,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+712,2015,67254,https://syllabus.doshisha.ac.jp/html/2015/67/167254000.html,知的財産権,小澤 壯夫,秋,京田辺,未,未,1
+713,2015,67255,https://syllabus.doshisha.ac.jp/html/2015/67/167255000.html,プログラミングセミナーＡ,渡部 広一加藤 恒夫大崎 美穂土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+714,2015,67256,https://syllabus.doshisha.ac.jp/html/2015/67/167256000.html,プログラミングセミナーＢ,佐藤 健哉山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+715,2015,67259,https://syllabus.doshisha.ac.jp/html/2015/67/167259000.html,情報工学概論Ⅰ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+716,2015,67260,https://syllabus.doshisha.ac.jp/html/2015/67/167260000.html,情報工学概論Ⅱ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+717,2015,67261,https://syllabus.doshisha.ac.jp/html/2015/67/167261000.html,情報工学実験Ⅰ,橋本 雅文渡部 広一坂東 敏博間 博人吉田 雅一,秋,京田辺,未,未,1
+718,2015,67262,https://syllabus.doshisha.ac.jp/html/2015/67/167262000.html,情報工学実験Ⅱ,芳賀 博英渡部 広一加藤 恒夫土屋 誠司間 博人松尾 豊樹柳田 益造,秋,京田辺,未,未,1
+719,2015,67263,https://syllabus.doshisha.ac.jp/html/2015/67/167263000.html,情報工学実験Ⅲ,程 俊金田 重郎三木 光範坂東 敏博土屋 誠司田中 美里,秋,京田辺,未,未,1
+720,2015,67264,https://syllabus.doshisha.ac.jp/html/2015/67/167264000.html,情報工学応用論,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+721,2015,67265,https://syllabus.doshisha.ac.jp/html/2015/67/167265000.html,センシング制御工学,橋本 雅文,秋,京田辺,未,未,1
+722,2015,67266,https://syllabus.doshisha.ac.jp/html/2015/67/167266000.html,ソフトウェアエンジニアリング,稲森 勝次大村 洋司,秋,京田辺,未,未,1
+723,2015,67267,https://syllabus.doshisha.ac.jp/html/2015/67/167267000.html,ロボティクス,橋本 雅文,秋,京田辺,未,未,1
+724,2015,68001,https://syllabus.doshisha.ac.jp/html/2015/68/168001000.html,解析学Ⅰ,大竹 博巳,秋,京田辺,未,未,1
+725,2015,68002,https://syllabus.doshisha.ac.jp/html/2015/68/168002000.html,解析学Ⅱ,大竹 博巳,秋,京田辺,未,未,1
+726,2015,68003,https://syllabus.doshisha.ac.jp/html/2015/68/168003000.html,線形代数学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+727,2015,68004,https://syllabus.doshisha.ac.jp/html/2015/68/168004000.html,線形代数学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+728,2015,68005,https://syllabus.doshisha.ac.jp/html/2015/68/168005000.html,物理学Ⅰ,岩﨑 一成,秋,京田辺,未,未,1
+729,2015,68006,https://syllabus.doshisha.ac.jp/html/2015/68/168006000.html,物理学Ⅱ,岩﨑 一成,秋,京田辺,未,未,1
+730,2015,68007,https://syllabus.doshisha.ac.jp/html/2015/68/168007000.html,化学Ⅰ,盛満 正嗣,秋,京田辺,未,未,1
+731,2015,68008,https://syllabus.doshisha.ac.jp/html/2015/68/168008000.html,化学Ⅱ,赤尾 聡史,秋,京田辺,未,未,1
+732,2015,68009,https://syllabus.doshisha.ac.jp/html/2015/68/168009000.html,生物学Ⅰ,光田 重幸,秋,京田辺,未,未,1
+733,2015,68010,https://syllabus.doshisha.ac.jp/html/2015/68/168010000.html,生物学Ⅱ,光田 重幸,秋,京田辺,未,未,1
+734,2015,68011,https://syllabus.doshisha.ac.jp/html/2015/68/168011000.html,地球科学Ⅰ,横尾 頼子,秋,京田辺,未,未,1
+735,2015,68012,https://syllabus.doshisha.ac.jp/html/2015/68/168012000.html,地球科学Ⅱ,福間 浩司,秋,京田辺,未,未,1
+736,2015,68020,https://syllabus.doshisha.ac.jp/html/2015/68/168020000.html,環境物質科学Ⅰ,盛満 正嗣,秋,京田辺,未,未,1
+737,2015,68021,https://syllabus.doshisha.ac.jp/html/2015/68/168021000.html,環境物質科学Ⅱ,盛満 正嗣,秋,京田辺,未,未,1
+738,2015,68022,https://syllabus.doshisha.ac.jp/html/2015/68/168022000.html,環境システム学概論Ⅰ,林田 明,秋,京田辺,未,未,1
+739,2015,68023,https://syllabus.doshisha.ac.jp/html/2015/68/168023000.html,環境システム学概論Ⅱ,後藤 也林田 明盛満 正嗣武田 博清福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+740,2015,68024,https://syllabus.doshisha.ac.jp/html/2015/68/168024000.html,環境システム基礎実験Ⅰ,林田 明増田 富士雄福間 浩司山根 省三岩﨑 一成横尾 頼子,秋,京田辺,未,未,1
+741,2015,68040,https://syllabus.doshisha.ac.jp/html/2015/68/168040000.html,科学技術論Ⅰ,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+742,2015,68041,https://syllabus.doshisha.ac.jp/html/2015/68/168041000.html,科学技術論Ⅱ,後藤 也林田 明増田 富士雄武田 博清福間 浩司山根 省三横尾 頼子,秋,京田辺,未,未,1
+743,2015,68042,https://syllabus.doshisha.ac.jp/html/2015/68/168042000.html,環境システム応用実験Ⅰ,後藤 也盛満 正嗣武田 博清赤尾 聡史光田 重幸川口 健次松井 正文,秋,京田辺,未,未,1
+744,2015,68043,https://syllabus.doshisha.ac.jp/html/2015/68/168043000.html,環境システム応用実験Ⅱ,林田 明増田 富士雄福間 浩司山根 省三岩﨑 一成横尾 頼子,秋,京田辺,未,未,1
+745,2015,68051,https://syllabus.doshisha.ac.jp/html/2015/68/168051000.html,卒業論文Ⅰ,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+746,2015,68051-001,https://syllabus.doshisha.ac.jp/html/2015/68/168051001.html,地球システム科学研究室－1,林田 明福間 浩司,秋,京田辺,未,未,1
+747,2015,68051-006,https://syllabus.doshisha.ac.jp/html/2015/68/168051006.html,環境保全・防災技術研究室－6,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+748,2015,68051-007,https://syllabus.doshisha.ac.jp/html/2015/68/168051007.html,環境システム工学研究室－7,盛満 正嗣,秋,京田辺,未,未,1
+749,2015,68051-008,https://syllabus.doshisha.ac.jp/html/2015/68/168051008.html,地域環境研究室－8,山根 省三,秋,京田辺,未,未,1
+750,2015,68051-011,https://syllabus.doshisha.ac.jp/html/2015/68/168051011.html,生命環境保全研究室－11,武田 博清光田 重幸,秋,京田辺,未,未,1
+751,2015,68051-012,https://syllabus.doshisha.ac.jp/html/2015/68/168051012.html,新エネルギーシステム研究室－12,後藤 也,秋,京田辺,未,未,1
+752,2015,68051-013,https://syllabus.doshisha.ac.jp/html/2015/68/168051013.html,人間環境研究室－13,赤尾 聡史,秋,京田辺,未,未,1
+753,2015,68052,https://syllabus.doshisha.ac.jp/html/2015/68/168052000.html,卒業論文Ⅱ,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+754,2015,68052-001,https://syllabus.doshisha.ac.jp/html/2015/68/168052001.html,地球システム科学研究室－1,林田 明福間 浩司,秋,京田辺,未,未,1
+755,2015,68052-006,https://syllabus.doshisha.ac.jp/html/2015/68/168052006.html,環境保全・防災技術研究室－6,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+756,2015,68052-007,https://syllabus.doshisha.ac.jp/html/2015/68/168052007.html,環境システム工学研究室－7,盛満 正嗣,秋,京田辺,未,未,1
+757,2015,68052-008,https://syllabus.doshisha.ac.jp/html/2015/68/168052008.html,地域環境研究室－8,山根 省三,秋,京田辺,未,未,1
+758,2015,68052-011,https://syllabus.doshisha.ac.jp/html/2015/68/168052011.html,生命環境保全研究室－11,武田 博清光田 重幸,秋,京田辺,未,未,1
+759,2015,68052-012,https://syllabus.doshisha.ac.jp/html/2015/68/168052012.html,新エネルギーシステム研究室－12,後藤 也,秋,京田辺,未,未,1
+760,2015,68052-013,https://syllabus.doshisha.ac.jp/html/2015/68/168052013.html,人間環境研究室－13,赤尾 聡史,秋,京田辺,未,未,1
+761,2015,68060,https://syllabus.doshisha.ac.jp/html/2015/68/168060000.html,応用数学Ⅰ,森谷 駿二,秋,京田辺,未,未,1
+762,2015,68061,https://syllabus.doshisha.ac.jp/html/2015/68/168061000.html,応用数学Ⅱ,森谷 駿二,秋,京田辺,未,未,1
+763,2015,68062,https://syllabus.doshisha.ac.jp/html/2015/68/168062000.html,プログラミングⅠ,岩﨑 一成,秋,京田辺,未,未,1
+764,2015,68063,https://syllabus.doshisha.ac.jp/html/2015/68/168063000.html,プログラミングⅡ,岩﨑 一成,秋,京田辺,未,未,1
+765,2015,68066,https://syllabus.doshisha.ac.jp/html/2015/68/168066000.html,地球環境科学Ⅰ,山根 省三,秋,京田辺,未,未,1
+766,2015,68067,https://syllabus.doshisha.ac.jp/html/2015/68/168067000.html,地球環境科学Ⅱ,増田 富士雄,秋,京田辺,未,未,1
+767,2015,68068,https://syllabus.doshisha.ac.jp/html/2015/68/168068000.html,環境地質学,横尾 頼子,秋,京田辺,未,未,1
+768,2015,68069,https://syllabus.doshisha.ac.jp/html/2015/68/168069000.html,地圏環境科学,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+769,2015,68070,https://syllabus.doshisha.ac.jp/html/2015/68/168070000.html,資源・エネルギー学Ⅰ,後藤 也,秋,京田辺,未,未,1
+770,2015,68071,https://syllabus.doshisha.ac.jp/html/2015/68/168071000.html,資源・エネルギー学Ⅱ,後藤 也,秋,京田辺,未,未,1
+771,2015,68072,https://syllabus.doshisha.ac.jp/html/2015/68/168072000.html,生命環境科学,光田 重幸,秋,京田辺,未,未,1
+772,2015,68073,https://syllabus.doshisha.ac.jp/html/2015/68/168073000.html,動物行動学,山﨑 理正,秋,京田辺,未,未,1
+773,2015,68090,https://syllabus.doshisha.ac.jp/html/2015/68/168090000.html,数理統計学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+774,2015,68091,https://syllabus.doshisha.ac.jp/html/2015/68/168091000.html,数理統計学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+775,2015,68092,https://syllabus.doshisha.ac.jp/html/2015/68/168092000.html,数値計算,福間 浩司,秋,京田辺,未,未,1
+776,2015,68093,https://syllabus.doshisha.ac.jp/html/2015/68/168093000.html,環境シミュレーション,福間 浩司,秋,京田辺,未,未,1
+777,2015,68094,https://syllabus.doshisha.ac.jp/html/2015/68/168094000.html,化学熱力学,後藤 也,秋,京田辺,未,未,1
+778,2015,68095,https://syllabus.doshisha.ac.jp/html/2015/68/168095000.html,電気化学,後藤 也,秋,京田辺,未,未,1
+779,2015,68096,https://syllabus.doshisha.ac.jp/html/2015/68/168096000.html,環境経済学,郡嶌 孝,秋,京田辺,未,未,1
+780,2015,68097,https://syllabus.doshisha.ac.jp/html/2015/68/168097000.html,地球システム科学,福間 浩司,秋,京田辺,未,未,1
+781,2015,68098,https://syllabus.doshisha.ac.jp/html/2015/68/168098000.html,地球環境変動論,林田 明増田 富士雄山根 省三,秋,京田辺,未,未,1
+782,2015,68099,https://syllabus.doshisha.ac.jp/html/2015/68/168099000.html,地球物質科学,林田 明,秋,京田辺,未,未,1
+783,2015,68100,https://syllabus.doshisha.ac.jp/html/2015/68/168100000.html,地球ダイナミクス,林田 明,秋,京田辺,未,未,1
+784,2015,68101,https://syllabus.doshisha.ac.jp/html/2015/68/168101000.html,地球観測技術,松波 孝治,秋,京田辺,未,未,1
+785,2015,68102,https://syllabus.doshisha.ac.jp/html/2015/68/168102000.html,環境評価技術,横尾 頼子,秋,京田辺,未,未,1
+786,2015,68103,https://syllabus.doshisha.ac.jp/html/2015/68/168103000.html,自然災害論,増田 富士雄,秋,京田辺,未,未,1
+787,2015,68104,https://syllabus.doshisha.ac.jp/html/2015/68/168104000.html,防災科学,増田 富士雄,秋,京田辺,未,未,1
+788,2015,68105,https://syllabus.doshisha.ac.jp/html/2015/68/168105000.html,エネルギー環境学,盛満 正嗣,秋,京田辺,未,未,1
+789,2015,68106,https://syllabus.doshisha.ac.jp/html/2015/68/168106000.html,エネルギー反応論,盛満 正嗣,秋,京田辺,未,未,1
+790,2015,68107,https://syllabus.doshisha.ac.jp/html/2015/68/168107000.html,生態学,武田 博清,秋,京田辺,未,未,1
+791,2015,68108,https://syllabus.doshisha.ac.jp/html/2015/68/168108000.html,保全生態学,光田 重幸,秋,京田辺,未,未,1
+792,2015,68109,https://syllabus.doshisha.ac.jp/html/2015/68/168109000.html,生物資源学,武田 博清,秋,京田辺,未,未,1
+793,2015,68116,https://syllabus.doshisha.ac.jp/html/2015/68/168116000.html,物理実験,土屋 活美山本 大吾保坂 晴美野村 登下坂 厚子田村 隆,秋,京田辺,未,未,1
+794,2015,68117,https://syllabus.doshisha.ac.jp/html/2015/68/168117000.html,化学実験,後藤 也盛満 正嗣赤尾 聡史津田 哲哉,秋,京田辺,未,未,1
+795,2015,G0001,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0001000.html,情報工学概論Ⅰ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+796,2015,G0002,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0002000.html,情報工学概論Ⅱ,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+797,2015,G0020,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0020000.html,情報工学実験Ⅰ,橋本 雅文渡部 広一坂東 敏博間 博人吉田 雅一,秋,京田辺,未,未,1
+798,2015,G0040,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0040000.html,情報工学実験Ⅱ,芳賀 博英渡部 広一加藤 恒夫土屋 誠司間 博人松尾 豊樹柳田 益造,秋,京田辺,未,未,1
+799,2015,G0041,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0041000.html,情報工学応用論,程 俊芳賀 博英橋本 雅文金田 重郎三木 光範渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+800,2015,G0051,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051000.html,卒業論文Ⅰ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+801,2015,G0051-012,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+802,2015,G0051-014,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+803,2015,G0051-016,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+804,2015,G0051-019,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+805,2015,G0051-021,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+806,2015,G0051-022,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+807,2015,G0051-023,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051023.html,音声言語処理機構研究室－23,加藤 恒夫,秋,京田辺,未,未,1
+808,2015,G0051-301,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+809,2015,G0051-302,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+810,2015,G0051-303,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+811,2015,G0051-305,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+812,2015,G0051-307,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+813,2015,G0051-309,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+814,2015,G0051-310,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0051310.html,知的機構研究室－310,桂井 麻里衣,秋,京田辺,未,未,1
+815,2015,G0052,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052000.html,卒業論文Ⅱ,芳賀 博英橋本 雅文金田 重郎三木 光範程 俊渡部 広一坂東 敏博加藤 恒夫土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+816,2015,G0052-012,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+817,2015,G0052-014,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+818,2015,G0052-016,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+819,2015,G0052-019,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+820,2015,G0052-021,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+821,2015,G0052-022,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+822,2015,G0052-023,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052023.html,音声言語処理機構研究室－23,加藤 恒夫,秋,京田辺,未,未,1
+823,2015,G0052-301,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+824,2015,G0052-302,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+825,2015,G0052-303,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+826,2015,G0052-305,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+827,2015,G0052-307,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+828,2015,G0052-309,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+829,2015,G0052-310,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0052310.html,知的機構研究室－310,桂井 麻里衣,秋,京田辺,未,未,1
+830,2015,G0060,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0060000.html,情報工学実験Ⅲ,程 俊金田 重郎三木 光範坂東 敏博土屋 誠司田中 美里,秋,京田辺,未,未,1
+831,2015,G0061,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0061000.html,特別演習実習,三木 光範,秋,京田辺,未,未,1
+832,2015,G0070,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0070000.html,解析学Ⅰ,齋藤 誠慈,秋,京田辺,未,未,1
+833,2015,G0071,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0071000.html,線形代数学Ⅰ,齋藤 誠慈,秋,京田辺,未,未,1
+834,2015,G0072,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0072000.html,情報数学Ⅰ,芳賀 博英,秋,京田辺,未,未,1
+835,2015,G0080,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0080000.html,数理統計学,間 博人,秋,京田辺,未,未,1
+836,2015,G0090,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0090000.html,ＣプログラミングⅠ,加藤 恒夫間 博人小島 一秀,秋,京田辺,未,未,1
+837,2015,G0091,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0091000.html,ＣプログラミングⅡ,渡部 広一吉村 枝里子,秋,京田辺,未,未,1
+838,2015,G0100,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0100000.html,ＪａｖａプログラミングⅠ,土屋 誠司間 博人,秋,京田辺,未,未,1
+839,2015,G0101,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0101000.html,ＪａｖａプログラミングⅡ,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+840,2015,G0110,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0110000.html,コンピュータネットワーク,土屋 誠司,秋,京田辺,未,未,1
+841,2015,G0111,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0111000.html,コンピュータグラフィックス,渡部 広一,秋,京田辺,未,未,1
+842,2015,G0120,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0120000.html,オペレーティングシステム,間 博人,秋,京田辺,未,未,1
+843,2015,G0121,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0121000.html,言語理論,芳賀 博英,秋,インターネット,未,未,1
+844,2015,G0122,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0122000.html,通信ネットワーク,吉田 雅一,秋,京田辺,未,未,1
+845,2015,G0123,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0123000.html,計算機ハードウェア,金田 重郎,秋,京田辺,未,未,1
+846,2015,G0124,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0124000.html,データベースシステム,三木 光範田中 美里,秋,京田辺,未,未,1
+847,2015,G0140,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0140000.html,運動学の基礎,橋本 雅文,秋,京田辺,未,未,1
+848,2015,G0141,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0141000.html,コンピュータ基礎実習,加藤 恒夫吉村 枝里子,秋,京田辺,未,未,1
+849,2015,G0142,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0142000.html,解析学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+850,2015,G0143,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0143000.html,微分方程式Ⅰ,藤井 慎一,秋,京田辺,未,未,1
+851,2015,G0144,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0144000.html,線形代数学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+852,2015,G0145,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0145000.html,情報メディア,張 兵,秋,京田辺,未,未,1
+853,2015,G0160,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0160000.html,情報キャリアデザイン,三木 光範田中 美里,秋,京田辺,未,未,1
+854,2015,G0161,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0161000.html,微分方程式Ⅱ,藤井 慎一,秋,京田辺,未,未,1
+855,2015,G0162,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0162000.html,画像処理,渡部 広一,秋,京田辺,未,未,1
+856,2015,G0164,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0164000.html,空間と波動,高橋 和彦,秋,京田辺,未,未,1
+857,2015,G0165,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0165000.html,情報数学Ⅱ,片山 良一,秋,京田辺,未,未,1
+858,2015,G0166,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0166000.html,複素解析,齋藤 誠慈,秋,京田辺,未,未,1
+859,2015,G0167,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0167000.html,情報理論,吉田 雅一,秋,京田辺,未,未,1
+860,2015,G0168,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0168000.html,フーリエ解析,程 俊,秋,京田辺,未,未,1
+861,2015,G0169-001,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0169001.html,プログラミング言語－1,芳賀 博英,秋,京田辺,未,未,1
+862,2015,G0169-501,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0169501.html,プログラミング言語－501,芳賀 博英,秋,インターネット,未,未,1
+863,2015,G0170,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0170000.html,視覚認知,坂東 敏博,秋,京田辺,未,未,1
+864,2015,G0171,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0171000.html,アルゴリズムとデータ構造,芳賀 博英,秋,インターネット,未,未,1
+865,2015,G0172,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0172000.html,パターン認識,加藤 恒夫柳田 益造,秋,京田辺,未,未,1
+866,2015,G0173,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0173000.html,センシング制御工学,橋本 雅文,秋,京田辺,未,未,1
+867,2015,G0174,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0174000.html,メカトロニクス基礎,橋本 雅文,秋,京田辺,未,未,1
+868,2015,G0180,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0180000.html,システムシミュレーション,三木 光範田中 美里,秋,京田辺,未,未,1
+869,2015,G0181,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0181000.html,計算機アーキテクチャ,金田 重郎,秋,京田辺,未,未,1
+870,2015,G0182,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0182000.html,ディジタル信号処理,加藤 恒夫柳田 益造,秋,京田辺,未,未,1
+871,2015,G0183,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0183000.html,不規則信号論,吉田 雅一,秋,京田辺,未,未,1
+872,2015,G0185,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0185000.html,符号理論,程 俊,秋,京田辺,未,未,1
+873,2015,G0186,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0186000.html,自然言語処理,土屋 誠司,秋,京田辺,未,未,1
+874,2015,G0187,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0187000.html,情報システム工学,金田 重郎井田 明男,秋,京田辺,未,未,1
+875,2015,G0188,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0188000.html,視覚機構,坂東 敏博,秋,京田辺,未,未,1
+876,2015,G0189-001,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0189001.html,コンパイラ－1,芳賀 博英,秋,京田辺,未,未,1
+877,2015,G0189-501,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0189501.html,コンパイラ－501,芳賀 博英,秋,インターネット,未,未,1
+878,2015,G0190,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0190000.html,情報セキュリティ,吉田 雅一,秋,京田辺,未,未,1
+879,2015,G0191,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0191000.html,特別講義Ａ,金田 重郎未定井田 明男森末 清成,秋,京田辺,未,未,1
+880,2015,G0192,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0192000.html,特別講義Ｂ,越智 久晃内元 清貴吉岡 拓也,秋,京田辺,未,未,1
+881,2015,G0193,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0193000.html,学外実習,三木 光範,秋,京田辺,未,未,1
+882,2015,G0194,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0194000.html,視覚情報処理,坂東 敏博,秋,京田辺,未,未,1
+883,2015,G0195,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0195000.html,知的システム工学,三木 光範,秋,京田辺,未,未,1
+884,2015,G0196,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0196000.html,ワイヤレス通信,程 俊,秋,京田辺,未,未,1
+885,2015,G0197,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0197000.html,知識情報処理,土屋 誠司,秋,京田辺,未,未,1
+886,2015,G0199,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0199000.html,応用数理統計学,坂東 敏博,秋,京田辺,未,未,1
+887,2015,G0201,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0201000.html,ＣプログラミングⅢ,渡部 広一,秋,京田辺,未,未,1
+888,2015,G0202,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0202000.html,技術英語Ⅰ,IVAN TANEV,秋,京田辺,未,未,1
+889,2015,G0204,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0204000.html,知的財産権,小澤 壯夫,秋,京田辺,未,未,1
+890,2015,G0205,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0205000.html,ソフトウェアエンジニアリング,稲森 勝次大村 洋司,秋,京田辺,未,未,1
+891,2015,G0206,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0206000.html,ロボティクス,橋本 雅文,秋,京田辺,未,未,1
+892,2015,G0207,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0207000.html,学  外  実  習  １ ,土屋 隆生木田 佳男,秋,京田辺,未,未,1
+893,2015,G0209-001,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0209001.html,Academic English for Science －1,稲岡 恭二PHILIP TROMOVITCH土屋 隆生相澤 パリタ,秋,京田辺,未,未,1
+894,2015,G0209-002,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0209002.html,Academic English for Science－2,稲岡 恭二PHILIP TROMOVITCH土屋 隆生相澤 パリタ,秋,京田辺,未,未,1
+895,2015,G0209-003,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0209003.html,Academic English for Science －3,稲岡 恭二PHILIP TROMOVITCH土屋 隆生相澤 パリタ,秋,京田辺,未,未,1
+896,2015,G0220,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0220000.html,情報メディア実習,渡部 広一加藤 恒夫,秋,京田辺,未,未,1
+897,2015,G0221,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0221000.html,プログラミングセミナーＡ,渡部 広一加藤 恒夫大崎 美穂土屋 誠司間 博人吉田 雅一,秋,京田辺,未,未,1
+898,2015,G0222,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0222000.html,プログラミングセミナーＢ,佐藤 健哉山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+899,2015,G0223,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0223000.html,物理学の基礎,土屋 隆生,秋,京田辺,未,未,1
+900,2015,G0230,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0230000.html,情報処理実習,西田 知史坂野 雄一杉本 徳和,秋,京田辺,未,未,1
+901,2015,G0231,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0231000.html,情報システム実習,片桐 滋下原 勝憲山本 誠一小林 剛,秋,京田辺,未,未,1
+902,2015,G0240,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0240000.html,情報通信ネットワーク実習,伊藤 禎宣,秋,京田辺,未,未,1
+903,2015,G0241,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0241000.html,教科教育法Ａ（情報）,荻野 和俊,秋,京田辺,未,未,1
+904,2015,G0242,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0242000.html,教科教育法Ｂ（情報）,荻野 和俊,秋,京田辺,未,未,1
+905,2015,G0243,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0243000.html,情報と職業,上田 祐一郎,秋,京田辺,未,未,1
+906,2015,G0244,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0244000.html,情報と社会,金田 重郎厳樫 邦弘,秋,京田辺,未,未,1
+907,2015,G0801,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0801000.html,情報デザインⅠ,大久保 雅史,秋,京田辺,未,未,1
+908,2015,G0802,https://syllabus.doshisha.ac.jp/html/2015/G0/1G0802000.html,情報デザインⅡ,大崎 美穂,秋,京田辺,未,未,1
+909,2015,G1001,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1001000.html,計算機構成論,佐藤 健哉,秋,京田辺,未,未,1
+910,2015,G1002,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1002000.html,論理回路,土屋 隆生,秋,京田辺,未,未,1
+911,2015,G1003,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1003000.html,プログラミングＪａｖａ Ⅰ,山本 誠一大崎 美穂桂井 麻里衣,秋,京田辺,未,未,1
+912,2015,G1004,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1004000.html,プログラミングＪａｖａ Ⅱ,小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+913,2015,G1005,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1005000.html,人間と情報システムⅠ,片桐 滋小林 剛古宮 浩行宮武 正典森田 哲之天白 成一,秋,京田辺,未,未,1
+914,2015,G1006,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1006000.html,人間と情報システムⅡ,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+915,2015,G1020,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1020000.html,情報ネットワーク,佐藤 健哉,秋,京田辺,未,未,1
+916,2015,G1021,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1021000.html,プログラミングＣ言語Ⅰ,佐藤 健哉桂井 麻里衣,秋,京田辺,未,未,1
+917,2015,G1022,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1022000.html,アルゴリズムとデータ構造入門,大崎 美穂,秋,京田辺,未,未,1
+918,2015,G1023,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1023000.html,システムと制御の数理,高橋 和彦,秋,京田辺,未,未,1
+919,2015,G1024,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1024000.html,情報システム演習実験Ⅰ,佐藤 健哉高橋 和彦IVAN TANEV土屋 隆生,秋,京田辺,未,未,1
+920,2015,G1025,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1025000.html,情報システム演習実験Ⅱ,大久保 雅史小板 隆浩井田 明男,秋,京田辺,未,未,1
+921,2015,G1026,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1026000.html,ソフトウェア設計技法,小板 隆浩井田 明男上野 秀剛未定,秋,京田辺,未,未,1
+922,2015,G1027,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1027000.html,データ工学,山本 誠一,秋,京田辺,未,未,1
+923,2015,G1028,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1028000.html,情報システム要素技術,片桐 滋,秋,京田辺,未,未,1
+924,2015,G1040,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1040000.html,情報システム応用,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+925,2015,G1041,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1041000.html,情報システム演習実験Ⅲ,片桐 滋下原 勝憲山本 誠一桂井 麻里衣,秋,京田辺,未,未,1
+926,2015,G1042,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1042000.html,ソフトウェア工学,片桐 滋,秋,京田辺,未,未,1
+927,2015,G1043,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1043000.html,画像工学,大久保 雅史,秋,京田辺,未,未,1
+928,2015,G1044,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1044000.html,オペレーティングシステム,油谷 曉,秋,京田辺,未,未,1
+929,2015,G1045,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1045000.html,社会情報システム,下原 勝憲,秋,京田辺,未,未,1
+930,2015,G1046,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1046000.html,技術英語,IVAN TANEV,秋,京田辺,未,未,1
+931,2015,G1051,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051000.html,卒業論文Ⅰ,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+932,2015,G1051-012,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+933,2015,G1051-014,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+934,2015,G1051-016,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+935,2015,G1051-019,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+936,2015,G1051-021,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+937,2015,G1051-022,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+938,2015,G1051-023,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051023.html,音声言語処理機構研究室－23,加藤 恒夫,秋,京田辺,未,未,1
+939,2015,G1051-301,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+940,2015,G1051-302,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+941,2015,G1051-303,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+942,2015,G1051-305,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+943,2015,G1051-307,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+944,2015,G1051-309,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+945,2015,G1051-310,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1051310.html,知的機構研究室－310,桂井 麻里衣,秋,京田辺,未,未,1
+946,2015,G1052,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052000.html,卒業論文Ⅱ,片桐 滋大久保 雅史佐藤 健哉下原 勝憲高橋 和彦IVAN TANEV土屋 隆生山本 誠一小板 隆浩桂井 麻里衣,秋,京田辺,未,未,1
+947,2015,G1052-012,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052012.html,情報システム学研究室－12,金田 重郎芳賀 博英,秋,京田辺,未,未,1
+948,2015,G1052-014,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052014.html,知能メカトロ情報システム研究室－14,橋本 雅文,秋,京田辺,未,未,1
+949,2015,G1052-016,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052016.html,知識情報処理研究室－16,渡部 広一土屋 誠司,秋,京田辺,未,未,1
+950,2015,G1052-019,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052019.html,知的機構研究室－19,坂東 敏博,秋,京田辺,未,未,1
+951,2015,G1052-021,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052021.html,知的システムデザイン研究室－21,三木 光範間 博人,秋,京田辺,未,未,1
+952,2015,G1052-022,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052022.html,情報数理工学研究室－22,程 俊吉田 雅一,秋,京田辺,未,未,1
+953,2015,G1052-023,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052023.html,音声言語処理機構研究室－23,加藤 恒夫,秋,京田辺,未,未,1
+954,2015,G1052-301,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052301.html,応用メディア情報研究室－301,土屋 隆生大久保 雅史,秋,京田辺,未,未,1
+955,2015,G1052-302,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052302.html,ネットワーク情報システム研究室－302,佐藤 健哉小板 隆浩,秋,京田辺,未,未,1
+956,2015,G1052-303,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052303.html,共創情報学研究室－303,片桐 滋大崎 美穂,秋,京田辺,未,未,1
+957,2015,G1052-305,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052305.html,社会情報学研究室－305,下原 勝憲IVAN TANEV,秋,京田辺,未,未,1
+958,2015,G1052-307,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052307.html,知能メカトロ情報システム研究室－307,高橋 和彦,秋,京田辺,未,未,1
+959,2015,G1052-309,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052309.html,音声言語処理機構研究室－309,山本 誠一,秋,京田辺,未,未,1
+960,2015,G1052-310,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1052310.html,知的機構研究室－310,桂井 麻里衣,秋,京田辺,未,未,1
+961,2015,G1060,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1060000.html,物理学の基礎,土屋 隆生,秋,京田辺,未,未,1
+962,2015,G1061,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1061000.html,数理統計学,渡辺 秀行,秋,京田辺,未,未,1
+963,2015,G1062,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1062000.html,数学の基礎１,宮下 鋭也,秋,京田辺,未,未,1
+964,2015,G1063,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1063000.html,数学の基礎Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+965,2015,G1064,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1064000.html,線形代数学Ⅰ,齋藤 誠慈,秋,京田辺,未,未,1
+966,2015,G1065,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1065000.html,線形代数学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+967,2015,G1066,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1066000.html,解析学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+968,2015,G1067,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1067000.html,解析学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+969,2015,G1068,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1068000.html,論理表現,森谷 駿二,秋,京田辺,未,未,1
+970,2015,G1069,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1069000.html,情報数学の基礎,高橋 和彦,秋,京田辺,未,未,1
+971,2015,G1070,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1070000.html,シミュレーション基礎演習,高橋 和彦,秋,京田辺,未,未,1
+972,2015,G1071,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1071000.html,情報科学基礎,大崎 美穂,秋,京田辺,未,未,1
+973,2015,G1072,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1072000.html,情報システム概論,片桐 滋,秋,京田辺,未,未,1
+974,2015,G1073,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1073000.html,人間の情報処理,山本 誠一,秋,京田辺,未,未,1
+975,2015,G1074,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1074000.html,社会の仕組み,下原 勝憲,秋,京田辺,未,未,1
+976,2015,G1080,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1080000.html,連続表現,森谷 駿二,秋,京田辺,未,未,1
+977,2015,G1081,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1081000.html,応用数理解析,高橋 和彦,秋,京田辺,未,未,1
+978,2015,G1082,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1082000.html,電気の基礎,土屋 隆生,秋,京田辺,未,未,1
+979,2015,G1083,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1083000.html,プログラミングＪａｖａⅢ,IVAN TANEV,秋,京田辺,未,未,1
+980,2015,G1084,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1084000.html,マルチエージェント工学,IVAN TANEV,秋,京田辺,未,未,1
+981,2015,G1085,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1085000.html,情報デザインⅠ,大久保 雅史,秋,京田辺,未,未,1
+982,2015,G1086,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1086000.html,情報デザインⅡ,大崎 美穂,秋,京田辺,未,未,1
+983,2015,G1087,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1087000.html,数値解析,土屋 隆生,秋,京田辺,未,未,1
+984,2015,G1088,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1088000.html,特別講義Ⅰ,山本 誠一石井 寿憲川出 雅人関 真規人和田 充史,秋,京田辺,未,未,1
+985,2015,G1089,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1089000.html,人間と学習,山本 誠一,秋,京田辺,未,未,1
+986,2015,G1090,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1090000.html,情報システムと文化,池田 佳和,秋,京田辺,未,未,1
+987,2015,G1091,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1091000.html,生産活動と情報,下原 勝憲,秋,京田辺,未,未,1
+988,2015,G1092,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1092000.html,ネットワーク応用,小板 隆浩,秋,京田辺,未,未,1
+989,2015,G1093,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1093000.html,情報デザイン,大久保 雅史,秋,京田辺,未,未,1
+990,2015,G1100,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1100000.html,特別演習実習,佐藤 健哉,秋,京田辺,未,未,1
+991,2015,G1110,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1110000.html,プログラミングＣ言語Ⅱ,杉浦 孔明,秋,京田辺,未,未,1
+992,2015,G1111,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1111000.html,プログラミングＣ言語Ⅲ,飯尾 尊優,秋,京田辺,未,未,1
+993,2015,G1112,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1112000.html,ネットワークシステム構成論,佐藤 健哉,秋,京田辺,未,未,1
+994,2015,G1113,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1113000.html,インテリジェントアルゴリズム,IVAN TANEV,秋,京田辺,未,未,1
+995,2015,G1114,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1114000.html,情報システム開発技法,片桐 滋,秋,京田辺,未,未,1
+996,2015,G1115,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1115000.html,情報デザインⅢ,山本 誠一,秋,京田辺,未,未,1
+997,2015,G1116,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1116000.html,画像処理,大久保 雅史,秋,京田辺,未,未,1
+998,2015,G1117,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1117000.html,システムプログラミング,小板 隆浩,秋,京田辺,未,未,1
+999,2015,G1118,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1118000.html,コラボレーション工学,大久保 雅史,秋,京田辺,未,未,1
+1000,2015,G1119,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1119000.html,特別講義Ⅱ,下原 勝憲芦田 尚人丸野 進中野 明鈴木 秀明,秋,京田辺,未,未,1
+1001,2015,G1121,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1121000.html,ｅ－ラーニング,山田 玲子,秋,京田辺,未,未,1
+1002,2015,G1122,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1122000.html,企業活動と情報,下原 勝憲,秋,京田辺,未,未,1
+1003,2015,G1123,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1123000.html,学外実習,片桐 滋,秋,京田辺,未,未,1
+1004,2015,G1124,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1124000.html,多変量解析,大崎 美穂,秋,京田辺,未,未,1
+1005,2015,G1125,https://syllabus.doshisha.ac.jp/html/2015/G1/1G1125000.html,自然言語処理,山本 誠一,秋,京田辺,未,未,1
+1006,2015,G2001-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2001001.html,解析学Ⅰ－1,近藤 弘一,秋,京田辺,未,未,1
+1007,2015,G2001-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2001002.html,解析学Ⅰ－2,森 淳秀,秋,京田辺,未,未,1
+1008,2015,G2001-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2001003.html,解析学Ⅰ－3,三木 啓司,秋,京田辺,未,未,1
+1009,2015,G2001-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2001004.html,解析学Ⅰ－4,向平 敦史,秋,京田辺,未,未,1
+1010,2015,G2002-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2002001.html,解析学Ⅰ演習－1,近藤 弘一,秋,京田辺,未,未,1
+1011,2015,G2002-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2002002.html,解析学Ⅰ演習－2,森 淳秀,秋,京田辺,未,未,1
+1012,2015,G2002-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2002003.html,解析学Ⅰ演習－3,三木 啓司,秋,京田辺,未,未,1
+1013,2015,G2002-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2002004.html,解析学Ⅰ演習－4,向平 敦史,秋,京田辺,未,未,1
+1014,2015,G2003-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2003001.html,解析学Ⅱ－1,岩﨑 雅史,秋,京田辺,未,未,1
+1015,2015,G2003-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2003002.html,解析学Ⅱ－2,森 淳秀,秋,京田辺,未,未,1
+1016,2015,G2003-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2003003.html,解析学Ⅱ－3,三木 啓司,秋,京田辺,未,未,1
+1017,2015,G2003-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2003004.html,解析学Ⅱ－4,向平 敦史,秋,京田辺,未,未,1
+1018,2015,G2004-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2004001.html,解析学Ⅱ演習－1,岩﨑 雅史,秋,京田辺,未,未,1
+1019,2015,G2004-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2004002.html,解析学Ⅱ演習－2,森 淳秀,秋,京田辺,未,未,1
+1020,2015,G2004-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2004003.html,解析学Ⅱ演習－3,三木 啓司,秋,京田辺,未,未,1
+1021,2015,G2004-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2004004.html,解析学Ⅱ演習－4,向平 敦史,秋,京田辺,未,未,1
+1022,2015,G2005-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2005001.html,線形代数学Ⅰ－1,今井 仁司,秋,京田辺,未,未,1
+1023,2015,G2005-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2005002.html,線形代数学Ⅰ－2,向平 敦史,秋,京田辺,未,未,1
+1024,2015,G2005-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2005003.html,線形代数学Ⅰ－3,渡邊 芳英,秋,京田辺,未,未,1
+1025,2015,G2006-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2006001.html,線形代数学Ⅱ－1,今井 仁司,秋,京田辺,未,未,1
+1026,2015,G2006-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2006002.html,線形代数学Ⅱ－2,向平 敦史,秋,京田辺,未,未,1
+1027,2015,G2006-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2006003.html,線形代数学Ⅱ－3,渡邊 芳英,秋,京田辺,未,未,1
+1028,2015,G2007-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2007001.html,基礎物理学Ⅰ－1,粕谷 俊郎,秋,京田辺,未,未,1
+1029,2015,G2007-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2007002.html,基礎物理学Ⅰ－2,和田 元,秋,京田辺,未,未,1
+1030,2015,G2008-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2008001.html,基礎物理学Ⅱ,粕谷 俊郎,秋,京田辺,未,未,1
+1031,2015,G2008-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2008002.html,基礎物理学Ⅱ,和田 元,秋,京田辺,未,未,1
+1032,2015,G2009-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2009001.html,電気回路学Ⅰ－1,井上 馨,秋,京田辺,未,未,1
+1033,2015,G2009-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2009002.html,電気回路学Ⅰ－2,松川 真美,秋,京田辺,未,未,1
+1034,2015,G2009-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2009003.html,電気回路学Ⅰ－3,小山 大介,秋,京田辺,未,未,1
+1035,2015,G2009-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2009004.html,電気回路学Ⅰ－4,江本 顕雄,秋,京田辺,未,未,1
+1036,2015,G2010-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2010001.html,電気回路学Ⅱ－1,加藤 利次,秋,京田辺,未,未,1
+1037,2015,G2010-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2010002.html,電気回路学Ⅱ－2,大谷 直毅,秋,京田辺,未,未,1
+1038,2015,G2010-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2010003.html,電気回路学Ⅱ－3,長岡 直人,秋,京田辺,未,未,1
+1039,2015,G2010-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2010004.html,電気回路学Ⅱ－4,笹岡 秀一,秋,京田辺,未,未,1
+1040,2015,G2010-005,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2010005.html,電気回路学Ⅱ－5,戸田 裕之,秋,京田辺,未,未,1
+1041,2015,G2011,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2011000.html,基礎演習実験,松川 真美長岡 直人福本 秀裕長谷川 謙一三隅 春雄望月 正明丹羽 弘奥田 雅史佐伯 髙晴寺田 元治横山 明夫,秋,京田辺,未,未,1
+1042,2015,G2012,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2012000.html,電気基礎実験Ⅰ,大谷 直毅福本 秀裕長谷川 謙一平嶋 利洋三隅 春雄望月 正明奥田 雅史佐伯 髙晴坂井 公一山本 惠俊横山 明夫,秋,京田辺,未,未,1
+1043,2015,G2013,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2013000.html,ゼミ演習,馬場 吉弘出口 博之藤原 耕二井上 馨岩井 誠人粕谷 俊郎加藤 利次近藤 弘一松川 真美長岡 直人大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男和田 元吉門 進三江本 顕雄平嶋 利洋厳樫 邦弘小山 大介佐藤 祐喜髙橋 康人三木 啓司,秋,京田辺,未,未,1
+1044,2015,G2020-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2020001.html,微分方程式－1,三木 啓司,秋,京田辺,未,未,1
+1045,2015,G2020-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2020002.html,微分方程式－2,渡邊 芳英,秋,京田辺,未,未,1
+1046,2015,G2020-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2020003.html,微分方程式－3,今井 仁司,秋,京田辺,未,未,1
+1047,2015,G2021-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2021001.html,フーリエ解析－1,渡邊 芳英,秋,京田辺,未,未,1
+1048,2015,G2021-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2021002.html,フーリエ解析－2,片山 良一,秋,京田辺,未,未,1
+1049,2015,G2021-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2021003.html,フーリエ解析－3,岩井 敏洋,秋,京田辺,未,未,1
+1050,2015,G2022-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2022001.html,電気磁気学Ⅰ－1,髙橋 康人,秋,京田辺,未,未,1
+1051,2015,G2022-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2022002.html,電気磁気学Ⅰ－2,佐藤 祐喜,秋,京田辺,未,未,1
+1052,2015,G2022-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2022003.html,電気磁気学Ⅰ－3,辻 幹男,秋,京田辺,未,未,1
+1053,2015,G2022-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2022004.html,電気磁気学Ⅰ－4,馬場 吉弘,秋,京田辺,未,未,1
+1054,2015,G2023-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2023001.html,電気磁気学Ⅱ－1,吉門 進三,秋,京田辺,未,未,1
+1055,2015,G2023-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2023002.html,電気磁気学Ⅱ－2,岩井 誠人,秋,京田辺,未,未,1
+1056,2015,G2023-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2023003.html,電気磁気学Ⅱ－3,出口 博之,秋,京田辺,未,未,1
+1057,2015,G2023-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2023004.html,電気磁気学Ⅱ－4,佐々木 和可緒,秋,京田辺,未,未,1
+1058,2015,G2024-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2024001.html,電子回路－1,大谷 直毅,秋,京田辺,未,未,1
+1059,2015,G2024-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2024002.html,電子回路－2,戸田 裕之,秋,京田辺,未,未,1
+1060,2015,G2025-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2025001.html,電気・電子計測Ⅰ－1,松川 真美,秋,京田辺,未,未,1
+1061,2015,G2025-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2025002.html,電気・電子計測Ⅰ－2,小山 大介,秋,京田辺,未,未,1
+1062,2015,G2026-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2026004.html,コンピュータプログラミングＣⅠ－4,髙柳 真司,秋,京田辺,未,未,1
+1063,2015,G2027,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2027000.html,電気基礎実験Ⅱ,粕谷 俊郎藤本 眞内藤 均丹羽 弘佐伯 髙晴佐野 義和須原 成史田中 裕治谷川 寛寺田 元治牛田 和彦,秋,京田辺,未,未,1
+1064,2015,G2028,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2028000.html,電気基礎実験Ⅲ,吉門 進三小山 大介藤本 眞平嶋 利洋丹羽 弘佐伯 髙晴佐野 義和須原 成史田中 裕治谷川 寛寺田 元治牛田 和彦,秋,京田辺,未,未,1
+1065,2015,G2040,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2040000.html,電気工学実験Ⅰ,馬場 吉弘井上 馨加藤 利次髙橋 康人春名 洋海北橋 幸和田中 正明田中 裕治寺田 元治牛田 和彦山本 惠俊,秋,京田辺,未,未,1
+1066,2015,G2041,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2041000.html,電気工学実験Ⅱ,馬場 吉弘井上 馨加藤 利次松川 真美長岡 直人小山 大介髙橋 康人三木 啓司春名 洋海田中 裕治寺田 元治牛田 和彦,秋,京田辺,未,未,1
+1067,2015,G2042,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2042000.html,電子工学実験Ⅰ,出口 博之岩井 誠人佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男江本 顕雄佐藤 祐喜平嶋 利洋坂井 公一杉左近 隆須原 成史,秋,京田辺,未,未,1
+1068,2015,G2043,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2043000.html,電子工学実験Ⅱ,出口 博之岩井 誠人粕谷 俊郎大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之和田 元江本 顕雄佐藤 祐喜平嶋 利洋須原 成史山本 惠俊,秋,京田辺,未,未,1
+1069,2015,G2044-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2044001.html,コンピュータプログラミングⅠ－1,小山 大介,秋,京田辺,未,未,1
+1070,2015,G2044-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2044002.html,コンピュータプログラミングⅠ－2,髙柳 真司,秋,京田辺,未,未,1
+1071,2015,G2044-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2044003.html,コンピュータプログラミングⅠ－3,岩井 誠人,秋,京田辺,未,未,1
+1072,2015,G2044-004,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2044004.html,コンピュータプログラミングⅠ－4,髙柳 真司,秋,京田辺,未,未,1
+1073,2015,G2051,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051000.html,卒業論文Ⅰ,馬場 吉弘出口 博之藤原 耕二井上 馨岩井 誠人粕谷 俊郎加藤 利次松川 真美長岡 直人大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男和田 元吉門 進三江本 顕雄近藤 弘一小山 大介佐藤 祐喜三木 啓司髙橋 康人,秋,京田辺,未,未,1
+1074,2015,G2051-023,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051023.html,電気回路研究室－23,加藤 利次井上 馨,秋,京田辺,未,未,1
+1075,2015,G2051-035,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051035.html,プラズマ物理研究室－35,和田 元粕谷 俊郎,秋,京田辺,未,未,1
+1076,2015,G2051-040,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051040.html,光・電子回路システム研究室－40,佐々木 和可緒戸田 裕之,秋,京田辺,未,未,1
+1077,2015,G2051-047,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051047.html,通信方式研究室－47,笹岡 秀一岩井 誠人,秋,京田辺,未,未,1
+1078,2015,G2051-057,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051057.html,電気電子材料研究室－57,吉門 進三佐藤 祐喜,秋,京田辺,未,未,1
+1079,2015,G2051-063,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051063.html,電気機器研究室－63,藤原 耕二髙橋 康人,秋,京田辺,未,未,1
+1080,2015,G2051-064,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051064.html,超音波エレクトロニクス・応用計測研究室－64,松川 真美小山 大介,秋,京田辺,未,未,1
+1081,2015,G2051-065,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051065.html,応用数学研究室－65,近藤 弘一三木 啓司,秋,京田辺,未,未,1
+1082,2015,G2051-066,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051066.html,電力系統解析研究室－66,馬場 吉弘長岡 直人,秋,京田辺,未,未,1
+1083,2015,G2051-067,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051067.html,光デバイス研究室－67,大谷 直毅江本 顕雄,秋,京田辺,未,未,1
+1084,2015,G2051-068,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2051068.html,超高周波工学研究室－68,辻 幹男出口 博之,秋,京田辺,未,未,1
+1085,2015,G2052,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052000.html,卒業論文Ⅱ,馬場 吉弘出口 博之藤原 耕二井上 馨岩井 誠人粕谷 俊郎加藤 利次松川 真美長岡 直人大谷 直毅佐々木 和可緒笹岡 秀一戸田 裕之辻 幹男和田 元吉門 進三江本 顕雄近藤 弘一小山 大介佐藤 祐喜三木 啓司髙橋 康人,秋,京田辺,未,未,1
+1086,2015,G2052-023,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052023.html,電気回路研究室－23,加藤 利次井上 馨,秋,京田辺,未,未,1
+1087,2015,G2052-035,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052035.html,プラズマ物理研究室－35,和田 元粕谷 俊郎,秋,京田辺,未,未,1
+1088,2015,G2052-040,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052040.html,光・電子回路システム研究室－40,佐々木 和可緒戸田 裕之,秋,京田辺,未,未,1
+1089,2015,G2052-047,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052047.html,通信方式研究室－47,笹岡 秀一岩井 誠人,秋,京田辺,未,未,1
+1090,2015,G2052-057,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052057.html,電気電子材料研究室－57,吉門 進三佐藤 祐喜,秋,京田辺,未,未,1
+1091,2015,G2052-063,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052063.html,電気機器研究室－63,藤原 耕二髙橋 康人,秋,京田辺,未,未,1
+1092,2015,G2052-064,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052064.html,超音波エレクトロニクス・応用計測研究室－64,松川 真美小山 大介,秋,京田辺,未,未,1
+1093,2015,G2052-065,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052065.html,応用数学研究室－65,近藤 弘一三木 啓司,秋,京田辺,未,未,1
+1094,2015,G2052-066,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052066.html,電力系統解析研究室－66,馬場 吉弘長岡 直人,秋,京田辺,未,未,1
+1095,2015,G2052-067,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052067.html,光デバイス研究室－67,大谷 直毅江本 顕雄,秋,京田辺,未,未,1
+1096,2015,G2052-068,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2052068.html,超高周波工学研究室－68,辻 幹男出口 博之,秋,京田辺,未,未,1
+1097,2015,G2060,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2060000.html,電気エネルギー工学Ⅰ,合田 忠弘,秋,京田辺,未,未,1
+1098,2015,G2061,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2061000.html,パワーエレクトロニクス,藤原 耕二,秋,京田辺,未,未,1
+1099,2015,G2062-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2062001.html,ベクトル幾何－1,長瀬 昭子,秋,京田辺,未,未,1
+1100,2015,G2062-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2062002.html,ベクトル幾何－2,近藤 弘一,秋,京田辺,未,未,1
+1101,2015,G2063-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2063001.html,基礎物理学Ⅱ演習－1,粕谷 俊郎,秋,京田辺,未,未,1
+1102,2015,G2063-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2063002.html,基礎物理学Ⅱ演習－2,和田 元,秋,京田辺,未,未,1
+1103,2015,G2064,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2064000.html,振動と波動,粕谷 俊郎,秋,京田辺,未,未,1
+1104,2015,G2065-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2065001.html,基礎物理学Ⅱ－1,粕谷 俊郎,秋,京田辺,未,未,1
+1105,2015,G2065-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2065002.html,基礎物理学Ⅱ－2,和田 元,秋,京田辺,未,未,1
+1106,2015,G2070,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2070000.html,過渡現象論,馬場 吉弘,秋,京田辺,未,未,1
+1107,2015,G2071,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2071000.html,分布定数回路論,長岡 直人,秋,京田辺,未,未,1
+1108,2015,G2080,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2080000.html,コンピュータシステム入門,長岡 直人,秋,京田辺,未,未,1
+1109,2015,G2081,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2081000.html,電気電子工学入門,松川 真美澤村 晋次不定,秋,京田辺,未,未,1
+1110,2015,G2090-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2090001.html,複素解析－1,辻本 諭,秋,京田辺,未,未,1
+1111,2015,G2090-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2090002.html,複素解析－2,辻本 諭,秋,京田辺,未,未,1
+1112,2015,G2091,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2091000.html,熱統計力学,粕谷 俊郎,秋,京田辺,未,未,1
+1113,2015,G2092,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2092000.html,応用代数学,長瀬 昭子,秋,京田辺,未,未,1
+1114,2015,G2093-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2093001.html,コンピュータプログラミングＣⅡ－1,小山 大介,秋,京田辺,未,未,1
+1115,2015,G2093-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2093002.html,コンピュータプログラミングＣⅡ－2,岩井 誠人,秋,京田辺,未,未,1
+1116,2015,G2094,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2094000.html,連続体力学,粕谷 俊郎,秋,京田辺,未,未,1
+1117,2015,G2095-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2095001.html,アナログ電子回路－1,佐々木 和可緒,秋,京田辺,未,未,1
+1118,2015,G2095-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2095002.html,アナログ電子回路－2,戸田 裕之,秋,京田辺,未,未,1
+1119,2015,G2096,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2096000.html,インフラストラクチャ概論,岩井 誠人長岡 直人,秋,京田辺,未,未,1
+1120,2015,G2097-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2097001.html,コンピュータプログラミングⅡ－1,小山 大介,秋,京田辺,未,未,1
+1121,2015,G2097-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2097002.html,コンピュータプログラミングⅡ－2,岩井 誠人,秋,京田辺,未,未,1
+1122,2015,G2100-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2100001.html,応用解析－1,向平 敦史,秋,京田辺,未,未,1
+1123,2015,G2100-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2100002.html,応用解析－2,向平 敦史,秋,京田辺,未,未,1
+1124,2015,G2100-003,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2100003.html,応用解析－3,岩井 敏洋,秋,京田辺,未,未,1
+1125,2015,G2101,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2101000.html,数理統計学Ⅰ,長瀬 昭子,秋,京田辺,未,未,1
+1126,2015,G2102,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2102000.html,数理統計学Ⅱ,長瀬 昭子,秋,京田辺,未,未,1
+1127,2015,G2103,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2103000.html,解析力学,粕谷 俊郎,秋,京田辺,未,未,1
+1128,2015,G2104,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2104000.html,電気・電子計測Ⅱ,松川 真美,秋,京田辺,未,未,1
+1129,2015,G2105,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2105000.html,ディジタル電子回路,佐々木 和可緒,秋,京田辺,未,未,1
+1130,2015,G2106,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2106000.html,電気エネルギー工学Ⅱ,山本 修,秋,京田辺,未,未,1
+1131,2015,G2107,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2107000.html,電気エネルギー工学Ⅲ,馬場 吉弘,秋,京田辺,未,未,1
+1132,2015,G2108,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2108000.html,高電圧工学,加藤 利次,秋,京田辺,未,未,1
+1133,2015,G2109,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2109000.html,プラズマ工学,和田 元,秋,京田辺,未,未,1
+1134,2015,G2110,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2110000.html,制御工学,井上 馨,秋,京田辺,未,未,1
+1135,2015,G2111,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2111000.html,電気機器学Ⅰ,藤原 耕二,秋,京田辺,未,未,1
+1136,2015,G2112,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2112000.html,電気機器学Ⅱ,髙橋 康人,秋,京田辺,未,未,1
+1137,2015,G2113,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2113000.html,電子機械,杉左近 隆,秋,京田辺,未,未,1
+1138,2015,G2114,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2114000.html,電気設備・法規,深井 学本多 敦向井 文悟,秋,京田辺,未,未,1
+1139,2015,G2115,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2115000.html,環境電磁工学,馬場 吉弘,秋,京田辺,未,未,1
+1140,2015,G2116,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2116000.html,ディジタル制御,井上 馨,秋,京田辺,未,未,1
+1141,2015,G2117,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2117000.html,電気機器設計法,野川 修一,秋,京田辺,未,未,1
+1142,2015,G2119,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2119000.html,特別講義Ｂ,大谷 直毅荒井 亨那須 竜太郎釣谷 剛宏山邊 信彦山本 修安田 成留吉田 秀穂,秋,京田辺,未,未,1
+1143,2015,G2120,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2120000.html,学外実習,馬場 吉弘,秋,京田辺,未,未,1
+1144,2015,G2121,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2121000.html,数値解析,岩﨑 雅史,秋,京田辺,未,未,1
+1145,2015,G2122,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2122000.html,応用力学,粕谷 俊郎,秋,京田辺,未,未,1
+1146,2015,G2123-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2123001.html,数理統計学－1,長瀬 昭子,秋,京田辺,未,未,1
+1147,2015,G2123-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2123002.html,数理統計学－2,長瀬 昭子,秋,京田辺,未,未,1
+1148,2015,G2130,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2130000.html,コンピュータ応用解析,加藤 利次,秋,京田辺,未,未,1
+1149,2015,G2131,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2131000.html,量子力学,和田 元,秋,京田辺,未,未,1
+1150,2015,G2151,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2151000.html,電子デバイスⅡ,大谷 直毅,秋,京田辺,未,未,1
+1151,2015,G2152,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2152000.html,電気電子材料,吉門 進三,秋,京田辺,未,未,1
+1152,2015,G2153,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2153000.html,光エレクトロニクス,佐々木 和可緒,秋,京田辺,未,未,1
+1153,2015,G2155,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2155000.html,情報理論,笹岡 秀一,秋,京田辺,未,未,1
+1154,2015,G2156,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2156000.html,ディジタル集積回路,佐藤 祐喜,秋,京田辺,未,未,1
+1155,2015,G2157,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2157000.html,超音波エレクトロニクス,松川 真美,秋,京田辺,未,未,1
+1156,2015,G2158,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2158000.html,固体物性論,吉門 進三,秋,京田辺,未,未,1
+1157,2015,G2159,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2159000.html,光通信工学,大谷 直毅,秋,京田辺,未,未,1
+1158,2015,G2160,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2160000.html,アンテナ工学,出口 博之,秋,京田辺,未,未,1
+1159,2015,G2161,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2161000.html,マイクロ波工学,辻 幹男,秋,京田辺,未,未,1
+1160,2015,G2162,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2162000.html,通信方式,笹岡 秀一,秋,京田辺,未,未,1
+1161,2015,G2163,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2163000.html,超音波エレクトロニクスⅠ,小山 大介,秋,京田辺,未,未,1
+1162,2015,G2164,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2164000.html,超音波エレクトロニクスⅡ,松川 真美,秋,京田辺,未,未,1
+1163,2015,G2200-001,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2200001.html,電子デバイスⅠ－1,大谷 直毅,秋,京田辺,未,未,1
+1164,2015,G2200-002,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2200002.html,電子デバイスⅠ－2,吉門 進三,秋,京田辺,未,未,1
+1165,2015,G2201,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2201000.html,シグナルプロセシング,岩井 誠人,秋,京田辺,未,未,1
+1166,2015,G2210,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2210000.html,伝送線路論,出口 博之,秋,京田辺,未,未,1
+1167,2015,G2211,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2211000.html,電磁波論,辻 幹男,秋,京田辺,未,未,1
+1168,2015,G2301,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2301000.html,幾何学Ⅰ,菅原 邦雄,秋,京田辺,未,未,1
+1169,2015,G2302,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2302000.html,幾何学Ⅱ,菅原 邦雄,秋,京田辺,未,未,1
+1170,2015,G2311,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2311000.html,教科教育法Ａ（工業）,川瀬 勝也,秋,京田辺,未,未,1
+1171,2015,G2312,https://syllabus.doshisha.ac.jp/html/2015/G2/1G2312000.html,教科教育法Ｂ（工業）,川瀬 勝也,秋,京田辺,未,未,1
+1172,2015,G3001-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3001001.html,機械工学概論－1,青山 栄一藤井 透平田 勝哉廣垣 俊樹稲岡 恭二宮本 博之千田 二郎辻内 伸好伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+1173,2015,G3001-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3001002.html,機械工学概論－2,平山 朋子松岡 敬水島 二郎大窪 和也千田 衞高岡 正憲田中 達也多久和 英樹山口 博司藤原 弘,秋,京田辺,未,未,1
+1174,2015,G3002-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3002001.html,解析学Ⅰ－1,藤井 慎一,秋,京田辺,未,未,1
+1175,2015,G3002-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3002002.html,解析学Ⅰ－2,押目 頼昌,秋,京田辺,未,未,1
+1176,2015,G3002-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3002003.html,解析学Ⅰ－3,藤井 慎一,秋,京田辺,未,未,1
+1177,2015,G3002-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3002004.html,解析学Ⅰ－4,押目 頼昌,秋,京田辺,未,未,1
+1178,2015,G3003-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3003001.html,解析学Ⅱ－1,河野 明押目 頼昌,秋,京田辺,未,未,1
+1179,2015,G3003-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3003002.html,解析学Ⅱ－2,藤井 慎一,秋,京田辺,未,未,1
+1180,2015,G3003-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3003003.html,解析学Ⅱ－3,河野 明押目 頼昌,秋,京田辺,未,未,1
+1181,2015,G3003-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3003004.html,解析学Ⅱ－4,藤井 慎一,秋,京田辺,未,未,1
+1182,2015,G3004-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3004001.html,線形代数学Ⅰ－1,多久和 英樹,秋,京田辺,未,未,1
+1183,2015,G3004-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3004002.html,線形代数学Ⅰ－2,松田 真実,秋,京田辺,未,未,1
+1184,2015,G3004-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3004003.html,線形代数学Ⅰ－3,多久和 英樹,秋,京田辺,未,未,1
+1185,2015,G3004-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3004004.html,線形代数学Ⅰ－4,松田 真実,秋,京田辺,未,未,1
+1186,2015,G3005-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3005001.html,線形代数学Ⅱ－1,松田 真実,秋,京田辺,未,未,1
+1187,2015,G3005-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3005002.html,線形代数学Ⅱ－2,多久和 英樹,秋,京田辺,未,未,1
+1188,2015,G3005-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3005003.html,線形代数学Ⅱ－3,松田 真実,秋,京田辺,未,未,1
+1189,2015,G3005-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3005004.html,線形代数学Ⅱ－4,多久和 英樹,秋,京田辺,未,未,1
+1190,2015,G3006-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3006001.html,力学Ⅰ－1,水野 吉規,秋,京田辺,未,未,1
+1191,2015,G3006-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3006002.html,力学Ⅰ－2,吉永 隆夫,秋,京田辺,未,未,1
+1192,2015,G3006-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3006003.html,力学Ⅰ－3,水野 吉規,秋,京田辺,未,未,1
+1193,2015,G3006-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3006004.html,力学Ⅰ－4,吉永 隆夫,秋,京田辺,未,未,1
+1194,2015,G3007-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3007001.html,物理学Ⅰ－1,高岡 正憲,秋,京田辺,未,未,1
+1195,2015,G3007-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3007002.html,物理学Ⅰ－2,水野 吉規,秋,京田辺,未,未,1
+1196,2015,G3007-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3007003.html,物理学Ⅰ－3,高岡 正憲,秋,京田辺,未,未,1
+1197,2015,G3007-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3007004.html,物理学Ⅰ－4,水野 吉規,秋,京田辺,未,未,1
+1198,2015,G3008-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3008001.html,工業材料Ⅰ－1,宮本 博之,秋,京田辺,未,未,1
+1199,2015,G3008-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3008002.html,工業材料Ⅰ－2,藤原 弘,秋,京田辺,未,未,1
+1200,2015,G3009-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3009001.html,製図学－1,稲岡 恭二萩原 四郎菱田 典明越智 昭夫大見 康生関野 恭平高巣 周平清川 豊,秋,京田辺,未,未,1
+1201,2015,G3009-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3009002.html,製図学－2,稲岡 恭二萩原 四郎菱田 典明越智 昭夫大見 康生関野 恭平高巣 周平清川 豊,秋,京田辺,未,未,1
+1202,2015,G3009-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3009003.html,製図学－3,平山 朋子萩原 四郎菱田 典明岸 泰生鍋倉 正和副島 宗矩清川 豊,秋,京田辺,未,未,1
+1203,2015,G3009-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3009004.html,製図学－4,平山 朋子萩原 四郎菱田 典明岸 泰生鍋倉 正和副島 宗矩清川 豊,秋,京田辺,未,未,1
+1204,2015,G3010-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3010001.html,機械製作法－1,青山 栄一,秋,京田辺,未,未,1
+1205,2015,G3010-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3010002.html,機械製作法－2,宮本 博之,秋,京田辺,未,未,1
+1206,2015,G3011-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3011001.html,確率・統計Ⅰ－1,田村 英男,秋,京田辺,未,未,1
+1207,2015,G3011-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3011002.html,確率・統計Ⅰ－2,水島 二郎,秋,京田辺,未,未,1
+1208,2015,G3020-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3020001.html,材料力学Ⅰ－1,藤井 透,秋,京田辺,未,未,1
+1209,2015,G3020-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3020002.html,材料力学Ⅰ－2,大窪 和也,秋,京田辺,未,未,1
+1210,2015,G3020-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3020003.html,材料力学Ⅰ－3,田中 達也,秋,京田辺,未,未,1
+1211,2015,G3021-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3021001.html,熱力学Ⅰ・同演習－1,松村 恵理子,秋,京田辺,未,未,1
+1212,2015,G3021-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3021002.html,熱力学Ⅰ・同演習－2,千田 衞,秋,京田辺,未,未,1
+1213,2015,G3021-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3021003.html,熱力学Ⅰ・同演習－3,稲岡 恭二,秋,京田辺,未,未,1
+1214,2015,G3022-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3022001.html,流れ学Ⅰ・同演習－1,平田 勝哉,秋,京田辺,未,未,1
+1215,2015,G3022-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3022002.html,流れ学Ⅰ・同演習－2,山口 博司,秋,京田辺,未,未,1
+1216,2015,G3022-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3022003.html,流れ学Ⅰ・同演習－3,水島 二郎,秋,京田辺,未,未,1
+1217,2015,G3023-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3023001.html,機械設計法Ⅰ－1,松岡 敬,秋,京田辺,未,未,1
+1218,2015,G3023-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3023002.html,機械設計法Ⅰ－2,平山 朋子,秋,京田辺,未,未,1
+1219,2015,G3024-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3024001.html,機械物理実験－1,山口 博司藤原 弘城戸 隆一大島 裕子戸倉 毅吉川 克之,秋,京田辺,未,未,1
+1220,2015,G3024-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3024002.html,機械物理実験－2,山口 博司藤原 弘城戸 隆一大島 裕子戸倉 毅吉川 克之,秋,京田辺,未,未,1
+1221,2015,G3024-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3024003.html,機械物理実験－3,大窪 和也松村 恵理子川上 洋司木村 照夫戸倉 毅吉川 克之,秋,京田辺,未,未,1
+1222,2015,G3024-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3024004.html,機械物理実験－4,大窪 和也松村 恵理子川上 洋司木村 照夫戸倉 毅吉川 克之,秋,京田辺,未,未,1
+1223,2015,G3025-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3025001.html,機械製図学－1,稲岡 恭二萩原 四郎菱田 典明越智 昭夫岡村 貴句男大見 康生関野 恭平,秋,京田辺,未,未,1
+1224,2015,G3025-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3025002.html,機械製図学－2,松岡 敬萩原 四郎菱田 典明越智 昭夫岡村 貴句男大見 康生関野 恭平,秋,京田辺,未,未,1
+1225,2015,G3025-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3025003.html,機械製図学－3,田中 達也萩原 四郎菱田 典明鍋倉 正和越智 昭夫,秋,京田辺,未,未,1
+1226,2015,G3025-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3025004.html,機械製図学－4,田中 達也萩原 四郎菱田 典明鍋倉 正和越智 昭夫,秋,京田辺,未,未,1
+1227,2015,G3026-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3026001.html,材料加工Ⅰ－1,廣垣 俊樹,秋,京田辺,未,未,1
+1228,2015,G3026-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3026002.html,材料加工Ⅰ－2,青山 栄一,秋,京田辺,未,未,1
+1229,2015,G3040-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3040001.html,制御工学Ⅰ・同演習－1,伊藤 彰人,秋,京田辺,未,未,1
+1230,2015,G3040-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3040002.html,制御工学Ⅰ・同演習－2,平山 朋子,秋,京田辺,未,未,1
+1231,2015,G3040-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3040003.html,制御工学Ⅰ・同演習－3,辻内 伸好,秋,京田辺,未,未,1
+1232,2015,G3041-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3041001.html,機械力学Ⅰ・同演習－1,伊藤 彰人,秋,京田辺,未,未,1
+1233,2015,G3041-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3041002.html,機械力学Ⅰ・同演習－2,青山 栄一,秋,京田辺,未,未,1
+1234,2015,G3041-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3041003.html,機械力学Ⅰ・同演習－3,辻内 伸好,秋,京田辺,未,未,1
+1235,2015,G3042-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3042001.html,機械設計製図－1,岸 泰生宮 純史村山 弘岡村 貴句男瀧本 恭三,秋,京田辺,未,未,1
+1236,2015,G3042-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3042002.html,機械設計製図－2,岸 泰生宮 純史村山 弘岡村 貴句男瀧本 恭三,秋,京田辺,未,未,1
+1237,2015,G3042-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3042003.html,機械設計製図－3,岩渕 正幸岸 泰生副島 宗矩瀧本 恭三岡村 貴句男,秋,京田辺,未,未,1
+1238,2015,G3042-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3042004.html,機械設計製図－4,岩渕 正幸岸 泰生副島 宗矩瀧本 恭三岡村 貴句男,秋,京田辺,未,未,1
+1239,2015,G3043-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3043001.html,機械工学実験－1,藤井 透平田 勝哉廣垣 俊樹宮本 博之千田 衞伊藤 彰人,秋,京田辺,未,未,1
+1240,2015,G3043-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3043002.html,機械工学実験－2,藤井 透平田 勝哉廣垣 俊樹宮本 博之千田 衞伊藤 彰人,秋,京田辺,未,未,1
+1241,2015,G3043-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3043003.html,機械工学実験－3,青山 栄一松岡 敬千田 二郎辻内 伸好舟木 治郎吉川 克之,秋,京田辺,未,未,1
+1242,2015,G3043-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3043004.html,機械工学実験－4,青山 栄一松岡 敬千田 二郎辻内 伸好舟木 治郎吉川 克之,秋,京田辺,未,未,1
+1243,2015,G3044-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044001.html,機械設計製作－1,稲岡 恭二千田 二郎大島 裕子,秋,京田辺,未,未,1
+1244,2015,G3044-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044002.html,機械設計製作－2,稲岡 恭二千田 二郎大島 裕子,秋,京田辺,未,未,1
+1245,2015,G3044-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044003.html,機械設計製作－3,青山 栄一藤原 弘,秋,京田辺,未,未,1
+1246,2015,G3044-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044004.html,機械設計製作－4,青山 栄一藤原 弘,秋,京田辺,未,未,1
+1247,2015,G3044-005,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044005.html,機械設計製作－5,宮本 博之松村 恵理子岩本 悠宏,秋,京田辺,未,未,1
+1248,2015,G3044-006,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044006.html,機械設計製作－6,宮本 博之松村 恵理子,秋,京田辺,未,未,1
+1249,2015,G3044-007,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044007.html,機械設計製作－7,田中 達也山口 博司,秋,京田辺,未,未,1
+1250,2015,G3044-008,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3044008.html,機械設計製作－8,山口 博司松村 恵理子,秋,京田辺,未,未,1
+1251,2015,G3050,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3050000.html,英書講読,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+1252,2015,G3051,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051000.html,卒業論文Ⅰ,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+1253,2015,G3051-033,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051033.html,千田衞・稲岡恭二研究室－33,千田 衞,秋,京田辺,未,未,1
+1254,2015,G3051-034,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051034.html,藤井透・大窪和也研究室－34,藤井 透,秋,京田辺,未,未,1
+1255,2015,G3051-040,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051040.html,青山栄一・廣垣俊樹研究室－40,青山 栄一,秋,京田辺,未,未,1
+1256,2015,G3051-041,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051041.html,山口博司・平田勝哉研究室－41,山口 博司,秋,京田辺,未,未,1
+1257,2015,G3051-042,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051042.html,千田二郎・松村恵理子研究室－42,千田 二郎,秋,京田辺,未,未,1
+1258,2015,G3051-045,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051045.html,水島二郎・多久和英樹研究室－45,水島 二郎,秋,京田辺,未,未,1
+1259,2015,G3051-048,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051048.html,松岡敬・平山朋子研究室－48,松岡 敬,秋,京田辺,未,未,1
+1260,2015,G3051-049,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051049.html,山口博司・平田勝哉研究室－49,平田 勝哉,秋,京田辺,未,未,1
+1261,2015,G3051-050,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051050.html,辻内伸好・伊藤彰人研究室－50,辻内 伸好,秋,京田辺,未,未,1
+1262,2015,G3051-054,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051054.html,千田衞・稲岡恭二研究室－54,稲岡 恭二,秋,京田辺,未,未,1
+1263,2015,G3051-055,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051055.html,藤井透・大窪和也研究室－55,大窪 和也,秋,京田辺,未,未,1
+1264,2015,G3051-056,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051056.html,宮本博之・藤原弘研究室－56,宮本 博之,秋,京田辺,未,未,1
+1265,2015,G3051-057,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051057.html,高岡正憲・水野吉規研究室－57,高岡 正憲,秋,京田辺,未,未,1
+1266,2015,G3051-059,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051059.html,青山栄一・廣垣俊樹研究室－59,廣垣 俊樹,秋,京田辺,未,未,1
+1267,2015,G3051-063,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051063.html,松岡敬・平山朋子研究室－63,平山 朋子,秋,京田辺,未,未,1
+1268,2015,G3051-064,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051064.html,田中達也研究室－64,田中 達也,秋,京田辺,未,未,1
+1269,2015,G3051-066,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051066.html,水島二郎・多久和英樹研究室－66,多久和 英樹,秋,京田辺,未,未,1
+1270,2015,G3051-073,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051073.html,宮本博之・藤原弘研究室－73,藤原 弘,秋,京田辺,未,未,1
+1271,2015,G3051-074,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051074.html,高岡正憲・水野吉規研究室－74,水野 吉規,秋,京田辺,未,未,1
+1272,2015,G3051-075,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051075.html,千田二郎・松村恵理子研究室－75,松村 恵理子,秋,京田辺,未,未,1
+1273,2015,G3051-076,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051076.html,辻内伸好・伊藤彰人研究室－76,伊藤 彰人,秋,京田辺,未,未,1
+1274,2015,G3051-141,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051141.html,山口博司・平田勝哉研究室－141,山口 博司,秋,京田辺,未,未,1
+1275,2015,G3051-149,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3051149.html,山口博司・平田勝哉研究室－149,平田 勝哉,秋,京田辺,未,未,1
+1276,2015,G3052,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052000.html,卒業論文Ⅱ,青山 栄一藤井 透平田 勝哉平山 朋子廣垣 俊樹稲岡 恭二松岡 敬宮本 博之水島 二郎大窪 和也千田 二郎千田 衞高岡 正憲多久和 英樹田中 達也辻内 伸好山口 博司藤原 弘伊藤 彰人松村 恵理子水野 吉規,秋,京田辺,未,未,1
+1277,2015,G3052-033,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052033.html,千田衞・稲岡恭二研究室－33,千田 衞,秋,京田辺,未,未,1
+1278,2015,G3052-034,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052034.html,藤井透・大窪和也研究室－34,藤井 透,秋,京田辺,未,未,1
+1279,2015,G3052-040,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052040.html,青山栄一・廣垣俊樹研究室－40,青山 栄一,秋,京田辺,未,未,1
+1280,2015,G3052-041,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052041.html,山口博司・平田勝哉研究室－41,山口 博司,秋,京田辺,未,未,1
+1281,2015,G3052-042,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052042.html,千田二郎・松村恵理子研究室－42,千田 二郎,秋,京田辺,未,未,1
+1282,2015,G3052-045,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052045.html,水島二郎・多久和英樹研究室－45,水島 二郎,秋,京田辺,未,未,1
+1283,2015,G3052-048,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052048.html,松岡敬・平山朋子研究室－48,松岡 敬,秋,京田辺,未,未,1
+1284,2015,G3052-049,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052049.html,山口博司・平田勝哉研究室－49,平田 勝哉,秋,京田辺,未,未,1
+1285,2015,G3052-050,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052050.html,辻内伸好・伊藤彰人研究室－50,辻内 伸好,秋,京田辺,未,未,1
+1286,2015,G3052-054,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052054.html,千田衞・稲岡恭二研究室－54,稲岡 恭二,秋,京田辺,未,未,1
+1287,2015,G3052-055,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052055.html,藤井透・大窪和也研究室－55,大窪 和也,秋,京田辺,未,未,1
+1288,2015,G3052-056,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052056.html,宮本博之・藤原弘研究室－56,宮本 博之,秋,京田辺,未,未,1
+1289,2015,G3052-057,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052057.html,高岡正憲・水野吉規研究室－57,高岡 正憲,秋,京田辺,未,未,1
+1290,2015,G3052-059,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052059.html,青山栄一・廣垣俊樹研究室－59,廣垣 俊樹,秋,京田辺,未,未,1
+1291,2015,G3052-063,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052063.html,松岡敬・平山朋子研究室－63,平山 朋子,秋,京田辺,未,未,1
+1292,2015,G3052-064,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052064.html,田中達也研究室－64,田中 達也,秋,京田辺,未,未,1
+1293,2015,G3052-066,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052066.html,水島二郎・多久和英樹研究室－66,多久和 英樹,秋,京田辺,未,未,1
+1294,2015,G3052-073,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052073.html,宮本博之・藤原弘研究室－73,藤原 弘,秋,京田辺,未,未,1
+1295,2015,G3052-074,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052074.html,高岡正憲・水野吉規研究室－74,水野 吉規,秋,京田辺,未,未,1
+1296,2015,G3052-075,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052075.html,千田二郎・松村恵理子研究室－75,松村 恵理子,秋,京田辺,未,未,1
+1297,2015,G3052-076,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3052076.html,辻内伸好・伊藤彰人研究室－76,伊藤 彰人,秋,京田辺,未,未,1
+1298,2015,G3060-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3060001.html,材料力学Ⅱ－1,藤井 透,秋,京田辺,未,未,1
+1299,2015,G3060-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3060002.html,材料力学Ⅱ－2,田中 達也,秋,京田辺,未,未,1
+1300,2015,G3061-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3061001.html,応用数学Ⅰ－1,押目 頼昌,秋,京田辺,未,未,1
+1301,2015,G3061-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3061002.html,応用数学Ⅰ－2,竹内 二郎,秋,京田辺,未,未,1
+1302,2015,G3062-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3062001.html,力学Ⅱ－1,木田 重雄,秋,京田辺,未,未,1
+1303,2015,G3062-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3062002.html,力学Ⅱ－2,水野 吉規,秋,京田辺,未,未,1
+1304,2015,G3062-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3062003.html,力学Ⅱ－3,木田 重雄,秋,京田辺,未,未,1
+1305,2015,G3062-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3062004.html,力学Ⅱ－4,水野 吉規,秋,京田辺,未,未,1
+1306,2015,G3063-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3063001.html,コンピュータプログラミング－1,平田 勝哉岩本 悠宏,秋,京田辺,未,未,1
+1307,2015,G3063-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3063002.html,コンピュータプログラミング－2,大久保 雅章髙間 道秋,秋,京田辺,未,未,1
+1308,2015,G3063-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3063003.html,コンピュータプログラミング－3,水島 二郎岩本 悠宏,秋,京田辺,未,未,1
+1309,2015,G3063-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3063004.html,コンピュータプログラミング－4,藤田 成隆髙間 道秋,秋,京田辺,未,未,1
+1310,2015,G3070-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3070001.html,制御工学Ⅱ・同演習－1,辻内 伸好,秋,京田辺,未,未,1
+1311,2015,G3070-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3070002.html,制御工学Ⅱ・同演習－2,伊藤 彰人,秋,京田辺,未,未,1
+1312,2015,G3071-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3071001.html,機械力学Ⅱ・同演習－1,辻内 伸好,秋,京田辺,未,未,1
+1313,2015,G3071-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3071002.html,機械力学Ⅱ・同演習－2,伊藤 彰人,秋,京田辺,未,未,1
+1314,2015,G3072-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3072001.html,熱力学Ⅱ・同演習－1,千田 二郎,秋,京田辺,未,未,1
+1315,2015,G3072-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3072002.html,熱力学Ⅱ・同演習－2,千田 衞,秋,京田辺,未,未,1
+1316,2015,G3073-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3073001.html,流れ学Ⅱ・同演習－1,平田 勝哉,秋,京田辺,未,未,1
+1317,2015,G3073-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3073002.html,流れ学Ⅱ・同演習－2,舟木 治郎,秋,京田辺,未,未,1
+1318,2015,G3074-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3074001.html,機械設計法Ⅱ－1,松岡 敬,秋,京田辺,未,未,1
+1319,2015,G3074-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3074002.html,機械設計法Ⅱ－2,平山 朋子,秋,京田辺,未,未,1
+1320,2015,G3080-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3080001.html,数学基礎１－1,竹内 二郎,秋,京田辺,未,未,1
+1321,2015,G3080-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3080002.html,数学基礎１－2,竹内 二郎,秋,京田辺,未,未,1
+1322,2015,G3080-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3080003.html,数学基礎１－3,宮下 鋭也,秋,京田辺,未,未,1
+1323,2015,G3080-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3080004.html,数学基礎１－4,宮下 鋭也,秋,京田辺,未,未,1
+1324,2015,G3081-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3081001.html,数学基礎２－1,多久和 英樹,秋,京田辺,未,未,1
+1325,2015,G3081-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3081002.html,数学基礎２－2,多久和 英樹,秋,京田辺,未,未,1
+1326,2015,G3081-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3081003.html,数学基礎２－3,長瀬 昭子,秋,京田辺,未,未,1
+1327,2015,G3081-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3081004.html,数学基礎２－4,長瀬 昭子,秋,京田辺,未,未,1
+1328,2015,G3082-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3082001.html,物理基礎１－1,吉永 隆夫,秋,京田辺,未,未,1
+1329,2015,G3082-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3082002.html,物理基礎１－2,浅野 大雅,秋,京田辺,未,未,1
+1330,2015,G3082-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3082003.html,物理基礎１－3,吉永 隆夫,秋,京田辺,未,未,1
+1331,2015,G3082-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3082004.html,物理基礎１－4,浅野 大雅,秋,京田辺,未,未,1
+1332,2015,G3083-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3083001.html,物理基礎２－1,浅野 大雅,秋,京田辺,未,未,1
+1333,2015,G3083-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3083002.html,物理基礎２－2,吉永 隆夫,秋,京田辺,未,未,1
+1334,2015,G3083-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3083003.html,物理基礎２－3,浅野 大雅,秋,京田辺,未,未,1
+1335,2015,G3083-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3083004.html,物理基礎２－4,吉永 隆夫,秋,京田辺,未,未,1
+1336,2015,G3084-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3084001.html,電気回路基礎－1,髙萩 和男,秋,京田辺,未,未,1
+1337,2015,G3084-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3084002.html,電気回路基礎－2,髙萩 和男,秋,京田辺,未,未,1
+1338,2015,G3085-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3085001.html,電子回路基礎－1,髙萩 和男,秋,京田辺,未,未,1
+1339,2015,G3085-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3085002.html,電子回路基礎－2,髙萩 和男,秋,京田辺,未,未,1
+1340,2015,G3090-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3090001.html,数値計算・同演習－1,髙間 道秋,秋,京田辺,未,未,1
+1341,2015,G3090-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3090002.html,数値計算・同演習－2,水島 二郎,秋,京田辺,未,未,1
+1342,2015,G3091,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3091000.html,管理工学,廣垣 俊樹,秋,京田辺,未,未,1
+1343,2015,G3092-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3092001.html,機械設計法演習－1,松岡 敬,秋,京田辺,未,未,1
+1344,2015,G3092-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3092002.html,機械設計法演習－2,平山 朋子,秋,京田辺,未,未,1
+1345,2015,G3093,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3093000.html,計測工学,廣垣 俊樹,秋,京田辺,未,未,1
+1346,2015,G3094,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3094000.html,数値シミュレーション,谷口 慶祐,秋,京田辺,未,未,1
+1347,2015,G3095,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3095000.html,学外実習,青山 栄一,秋,京田辺,未,未,1
+1348,2015,G3096,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3096000.html,特別機械工学実験,廣垣 俊樹,秋,京田辺,未,未,1
+1349,2015,G3100-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3100001.html,コンピュータ支援設計－1,水島 二郎清川 豊,秋,京田辺,未,未,1
+1350,2015,G3100-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3100002.html,コンピュータ支援設計－2,大窪 和也清川 豊,秋,京田辺,未,未,1
+1351,2015,G3100-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3100003.html,コンピュータ支援設計－3,大窪 和也清川 豊,秋,京田辺,未,未,1
+1352,2015,G3110-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3110001.html,応用数学Ⅱ－1,押目 頼昌,秋,京田辺,未,未,1
+1353,2015,G3110-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3110002.html,応用数学Ⅱ－2,竹内 二郎,秋,京田辺,未,未,1
+1354,2015,G3111-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3111001.html,物理学Ⅱ－1,水野 吉規,秋,京田辺,未,未,1
+1355,2015,G3111-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3111002.html,物理学Ⅱ－2,高岡 正憲,秋,京田辺,未,未,1
+1356,2015,G3111-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3111003.html,物理学Ⅱ－3,水野 吉規,秋,京田辺,未,未,1
+1357,2015,G3111-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3111004.html,物理学Ⅱ－4,高岡 正憲,秋,京田辺,未,未,1
+1358,2015,G3112-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3112001.html,確率・統計Ⅱ－1,大島 裕子,秋,京田辺,未,未,1
+1359,2015,G3112-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3112002.html,確率・統計Ⅱ－2,大島 裕子,秋,京田辺,未,未,1
+1360,2015,G3113,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3113000.html,ディジタル制御・同演習,廣垣 俊樹,秋,京田辺,未,未,1
+1361,2015,G3114-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3114001.html,材料力学Ⅰ演習－1,藤井 透,秋,京田辺,未,未,1
+1362,2015,G3114-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3114002.html,材料力学Ⅰ演習－2,大窪 和也,秋,京田辺,未,未,1
+1363,2015,G3114-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3114003.html,材料力学Ⅰ演習－3,田中 達也,秋,京田辺,未,未,1
+1364,2015,G3115-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3115001.html,材料力学Ⅱ演習－1,藤井 透,秋,京田辺,未,未,1
+1365,2015,G3115-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3115002.html,材料力学Ⅱ演習－2,田中 達也,秋,京田辺,未,未,1
+1366,2015,G3120-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3120001.html,フーリエ・ラプラス解析－1,水島 二郎,秋,京田辺,未,未,1
+1367,2015,G3120-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3120002.html,フーリエ・ラプラス解析－2,水島 二郎,秋,京田辺,未,未,1
+1368,2015,G3121-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3121001.html,解析力学－1,高岡 正憲,秋,京田辺,未,未,1
+1369,2015,G3121-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3121002.html,解析力学－2,高岡 正憲,秋,京田辺,未,未,1
+1370,2015,G3122-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3122001.html,統計力学－1,高岡 正憲,秋,京田辺,未,未,1
+1371,2015,G3122-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3122002.html,統計力学－2,高岡 正憲,秋,京田辺,未,未,1
+1372,2015,G3123-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3123001.html,連続体力学－1,田中 達也,秋,京田辺,未,未,1
+1373,2015,G3123-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3123002.html,連続体力学－2,平田 勝哉,秋,京田辺,未,未,1
+1374,2015,G3124-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3124001.html,工業材料Ⅱ－1,宮本 博之,秋,京田辺,未,未,1
+1375,2015,G3124-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3124002.html,工業材料Ⅱ－2,吉川 克之,秋,京田辺,未,未,1
+1376,2015,G3125-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3125001.html,材料加工Ⅱ－1,田中 達也,秋,京田辺,未,未,1
+1377,2015,G3125-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3125002.html,材料加工Ⅱ－2,藤原 弘,秋,京田辺,未,未,1
+1378,2015,G3126,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3126000.html,材料力学Ⅲ,大窪 和也,秋,京田辺,未,未,1
+1379,2015,G3127,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3127000.html,流れ学Ⅲ,山口 博司,秋,京田辺,未,未,1
+1380,2015,G3128,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3128000.html,熱力学Ⅲ,千田 衞,秋,京田辺,未,未,1
+1381,2015,G3130,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3130000.html,複素解析,森谷 駿二,秋,京田辺,未,未,1
+1382,2015,G3131,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3131000.html,機械力学Ⅲ,辻内 伸好,秋,京田辺,未,未,1
+1383,2015,G3132,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3132000.html,制御工学Ⅲ,伊藤 彰人,秋,京田辺,未,未,1
+1384,2015,G3133,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3133000.html,伝熱工学,稲岡 恭二,秋,京田辺,未,未,1
+1385,2015,G3134,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3134000.html,流体工学,舟木 治郎,秋,京田辺,未,未,1
+1386,2015,G3140,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3140000.html,弾性力学,大窪 和也,秋,京田辺,未,未,1
+1387,2015,G3141,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3141000.html,塑性力学,田中 達也,秋,京田辺,未,未,1
+1388,2015,G3142,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3142000.html,破壊力学,大窪 和也,秋,京田辺,未,未,1
+1389,2015,G3143,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3143000.html,燃焼工学,千田 二郎,秋,京田辺,未,未,1
+1390,2015,G3144,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3144000.html,流体力学Ⅰ,山口 博司,秋,京田辺,未,未,1
+1391,2015,G3145,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3145000.html,流体力学Ⅱ,水島 二郎,秋,京田辺,未,未,1
+1392,2015,G3146,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3146000.html,エネルギー変換工学,千田 二郎,秋,京田辺,未,未,1
+1393,2015,G3147,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3147000.html,移動現象論,千田 衞,秋,京田辺,未,未,1
+1394,2015,G3201,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3201000.html,地学概論Ⅰ,桑原 希世子,秋,京田辺,未,未,1
+1395,2015,G3211,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3211000.html,代    数    学,浦部 治一郎,秋,京田辺,未,未,1
+1396,2015,G3212,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3212000.html,数理統計学Ⅰ,長瀬 昭子,秋,京田辺,未,未,1
+1397,2015,G3214,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3214000.html,応用代数学,長瀬 昭子,秋,京田辺,未,未,1
+1398,2015,G3301,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3301000.html,地学実験,増田 富士雄福間 浩司山根 省三横尾 頼子三上 禎次玉井 雅人,秋,京田辺,未,未,1
+1399,2015,G3302,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3302000.html,地学概論Ⅱ,桑原 希世子,秋,京田辺,未,未,1
+1400,2015,G3311-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3311001.html,教科教育法Ａ１（数学）－1,竹内 二郎,秋,京田辺,未,未,1
+1401,2015,G3311-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3311002.html,教科教育法Ａ１（数学）－2,長瀬 昭子,秋,京田辺,未,未,1
+1402,2015,G3311-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3311003.html,教科教育法Ａ１（数学）－3,溝畑 潔,秋,京田辺,未,未,1
+1403,2015,G3311-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3311004.html,教科教育法Ａ１（数学）－4,竹内 二郎,秋,京田辺,未,未,1
+1404,2015,G3312,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3312000.html,教科教育法Ａ２（数学）,宮下 鋭也,秋,京田辺,未,未,1
+1405,2015,G3321-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3321003.html,教科教育法Ｂ（数学）－3,竹内 二郎,秋,京田辺,未,未,1
+1406,2015,G3321-004,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3321004.html,教科教育法Ｂ（数学）－4,竹内 二郎,秋,京田辺,未,未,1
+1407,2015,G3322-001,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3322001.html,教科教育法Ｃ（数学）－1,大西 俊弘,秋,京田辺,未,未,1
+1408,2015,G3322-002,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3322002.html,教科教育法Ｃ（数学）－2,吉田 信也,秋,京田辺,未,未,1
+1409,2015,G3322-003,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3322003.html,教科教育法Ｃ（数学）－3,今井 仁司,秋,京田辺,未,未,1
+1410,2015,G3323,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3323000.html,コンピュータと数学,水島 二郎,秋,京田辺,未,未,1
+1411,2015,G3324,https://syllabus.doshisha.ac.jp/html/2015/G3/1G3324000.html,化学実験,小寺 政人土井 貴之北岸 宏亮保坂 晴美髙橋 謙一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1412,2015,G4001-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4001001.html,工学倫理－1,廣田 健髙橋 謙二,秋,京田辺,未,未,1
+1413,2015,G4001-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4001002.html,工学倫理－2,廣田 健伊藤 博,秋,京田辺,未,未,1
+1414,2015,G4002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4002000.html,解析学Ⅰ,溝畑 潔,秋,京田辺,未,未,1
+1415,2015,G4003,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4003000.html,解析学Ⅱ,溝畑 潔,秋,京田辺,未,未,1
+1416,2015,G4004,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4004000.html,線形代数学Ⅰ,溝畑 潔,秋,京田辺,未,未,1
+1417,2015,G4005,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4005000.html,線形代数学Ⅱ,溝畑 潔,秋,京田辺,未,未,1
+1418,2015,G4006,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4006000.html,物理学Ⅰ,廣田 健,秋,京田辺,未,未,1
+1419,2015,G4007,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4007000.html,物理学Ⅱ,廣田 健,秋,京田辺,未,未,1
+1420,2015,G4008,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4008000.html,物理化学Ⅰ,上野 正勝,秋,京田辺,未,未,1
+1421,2015,G4009,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4009000.html,無機化学Ⅰ,稲葉 稔橋之口 道宏,秋,京田辺,未,未,1
+1422,2015,G4010,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4010000.html,分析化学Ⅰ,土井 貴之,秋,京田辺,未,未,1
+1423,2015,G4011,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4011000.html,分析化学Ⅱ,土井 貴之,秋,京田辺,未,未,1
+1424,2015,G4012,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4012000.html,有機化学Ⅰ,水谷 義,秋,京田辺,未,未,1
+1425,2015,G4013,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4013000.html,有機化学Ⅱ,水谷 義,秋,京田辺,未,未,1
+1426,2015,G4014,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4014000.html,物理実験,廣田 健水谷 義濵口 洋保坂 晴美伊藤 博髙橋 謙一松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+1427,2015,G4015,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4015000.html,物理化学Ⅰ,八坂 能郎,秋,京田辺,未,未,1
+1428,2015,G4016,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4016000.html,物理化学Ⅱ,上野 正勝,秋,京田辺,未,未,1
+1429,2015,G4020,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4020000.html,物理化学Ⅱ,上野 正勝,秋,京田辺,未,未,1
+1430,2015,G4021,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4021000.html,物理化学Ⅲ,木村 佳文,秋,京田辺,未,未,1
+1431,2015,G4022,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4022000.html,有機化学Ⅲ,人見 穣,秋,京田辺,未,未,1
+1432,2015,G4023,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4023000.html,有機化学Ⅳ,人見 穣,秋,京田辺,未,未,1
+1433,2015,G4024-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4024001.html,無機化学Ⅱ－1,稲葉 稔,秋,京田辺,未,未,1
+1434,2015,G4024-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4024002.html,無機化学Ⅱ－2,吉村 一良,秋,京田辺,未,未,1
+1435,2015,G4025,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4025000.html,生命化学Ⅰ,東 信行,秋,京田辺,未,未,1
+1436,2015,G4026,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4026000.html,生命化学Ⅱ,古賀 智之,秋,京田辺,未,未,1
+1437,2015,G4027,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4027000.html,基礎化学実験Ⅰ,小寺 政人土井 貴之北岸 宏亮保坂 晴美髙橋 謙一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1438,2015,G4028,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4028000.html,基礎化学実験Ⅱ,人見 穣木村 佳文古賀 智之保坂 晴美松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1439,2015,G4029,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4029000.html,物理化学Ⅲ,上野 正勝,秋,京田辺,未,未,1
+1440,2015,G4030,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4030000.html,物理化学Ⅳ,木村 佳文,秋,京田辺,未,未,1
+1441,2015,G4040,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4040000.html,物理化学Ⅳ,木村 佳文,秋,京田辺,未,未,1
+1442,2015,G4041,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4041000.html,化学実験Ⅰ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+1443,2015,G4042,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4042000.html,化学実験Ⅱ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎松本 孝広大西 慶一郎,秋,京田辺,未,未,1
+1444,2015,G4043,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4043000.html,化学演習,稲葉 稔,秋,京田辺,未,未,1
+1445,2015,G4044,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4044000.html,物理化学Ｖ,木村 佳文,秋,京田辺,未,未,1
+1446,2015,G4051,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051000.html,卒業論文Ⅰ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎,秋,京田辺,未,未,1
+1447,2015,G4051-051,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051051.html,高分子化学研究室－51,東 信行古賀 智之,秋,京田辺,未,未,1
+1448,2015,G4051-052,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051052.html,無機合成化学研究室－52,廣田 健,秋,京田辺,未,未,1
+1449,2015,G4051-058,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051058.html,分子生命化学研究室－58,小寺 政人人見 穣,秋,京田辺,未,未,1
+1450,2015,G4051-065,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051065.html,生体機能化学研究室－65,水谷 義,秋,京田辺,未,未,1
+1451,2015,G4051-066,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051066.html,物理化学研究室－66,木村 佳文八坂 能郎,秋,京田辺,未,未,1
+1452,2015,G4051-067,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051067.html,電気化学研究室－67,稲葉 稔土井 貴之,秋,京田辺,未,未,1
+1453,2015,G4051-069,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4051069.html,機能有機化学研究室－69,北岸 宏亮,秋,京田辺,未,未,1
+1454,2015,G4052,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052000.html,卒業論文Ⅱ,東 信行廣田 健人見 穣稲葉 稔木村 佳文小寺 政人古賀 智之水谷 義土井 貴之北岸 宏亮八坂 能郎,秋,京田辺,未,未,1
+1455,2015,G4052-051,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052051.html,高分子化学研究室－51,東 信行古賀 智之,秋,京田辺,未,未,1
+1456,2015,G4052-052,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052052.html,無機合成化学研究室－52,廣田 健,秋,京田辺,未,未,1
+1457,2015,G4052-058,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052058.html,分子生命化学研究室－58,小寺 政人人見 穣,秋,京田辺,未,未,1
+1458,2015,G4052-065,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052065.html,生体機能化学研究室－65,水谷 義,秋,京田辺,未,未,1
+1459,2015,G4052-066,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052066.html,物理化学研究室－66,木村 佳文八坂 能郎,秋,京田辺,未,未,1
+1460,2015,G4052-067,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052067.html,電気化学研究室－67,稲葉 稔土井 貴之,秋,京田辺,未,未,1
+1461,2015,G4052-069,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4052069.html,機能有機化学研究室－69,北岸 宏亮,秋,京田辺,未,未,1
+1462,2015,G4060,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4060000.html,無機構造論,吉村 一良,秋,京田辺,未,未,1
+1463,2015,G4071,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4071000.html,有機量子化学,水谷 義,秋,京田辺,未,未,1
+1464,2015,G4072,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4072000.html,統計力学,木村 佳文,秋,京田辺,未,未,1
+1465,2015,G4073,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4073000.html,機能分子計測学,稲葉 稔,秋,京田辺,未,未,1
+1466,2015,G4074,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4074000.html,無機機能物質化学Ⅰ,土井 貴之,秋,京田辺,未,未,1
+1467,2015,G4075-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4075001.html,無機応用化学Ⅰ－1,吉村 一良,秋,京田辺,未,未,1
+1468,2015,G4075-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4075002.html,無機応用化学Ⅰ－2,稲葉 稔,秋,京田辺,未,未,1
+1469,2015,G4076,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4076000.html,無機応用化学Ⅱ,稲葉 稔,秋,京田辺,未,未,1
+1470,2015,G4077,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4077000.html,有機反応論Ⅰ,北岸 宏亮,秋,京田辺,未,未,1
+1471,2015,G4078,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4078000.html,有機反応論Ⅱ,北岸 宏亮,秋,京田辺,未,未,1
+1472,2015,G4079,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4079000.html,有機応用化学,人見 穣,秋,京田辺,未,未,1
+1473,2015,G4080,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4080000.html,環境科学,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+1474,2015,G4081,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4081000.html,有機機能物質化学Ⅰ,水谷 義,秋,京田辺,未,未,1
+1475,2015,G4082,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4082000.html,高分子反応論,古賀 智之,秋,京田辺,未,未,1
+1476,2015,G4083,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4083000.html,生体機能高分子,古賀 智之,秋,京田辺,未,未,1
+1477,2015,G4084,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4084000.html,生物有機化学,東 信行,秋,京田辺,未,未,1
+1478,2015,G4085,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4085000.html,生物無機化学,小寺 政人,秋,京田辺,未,未,1
+1479,2015,G4086,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4086000.html,無機反応論,廣田 健,秋,京田辺,未,未,1
+1480,2015,G4087,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4087000.html,錯体化学,小寺 政人,秋,京田辺,未,未,1
+1481,2015,G4089,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4089000.html,遺伝子工学,北岸 宏亮,秋,京田辺,未,未,1
+1482,2015,G4090,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4090000.html,高分子化学Ⅲ,古賀 智之,秋,京田辺,未,未,1
+1483,2015,G4091,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4091000.html,高分子化学Ⅳ,古賀 智之,秋,京田辺,未,未,1
+1484,2015,G4092,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4092000.html,無機機能物質化学,土井 貴之,秋,京田辺,未,未,1
+1485,2015,G4093,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4093000.html,有機機能物質化学,水谷 義,秋,京田辺,未,未,1
+1486,2015,G4094,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4094000.html,タンパク質化学,東 信行,秋,京田辺,未,未,1
+1487,2015,G4101,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4101000.html,生体分子分光学,人見 穣,秋,京田辺,未,未,1
+1488,2015,G4120,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4120000.html,計算機演習,木村 佳文,秋,京田辺,未,未,1
+1489,2015,G4121,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4121000.html,プログラミング演習,木村 佳文八坂 能郎熊﨑 茂一,秋,京田辺,未,未,1
+1490,2015,G4130,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4130000.html,化学工学Ⅰ,森 康維,秋,京田辺,未,未,1
+1491,2015,G4131,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4131000.html,化学工学Ⅱ,松本 道明,秋,京田辺,未,未,1
+1492,2015,G4140,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4140000.html,一般化学,八坂 能郎,秋,京田辺,未,未,1
+1493,2015,G4150,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4150000.html,物理化学演習Ⅰ,上野 正勝,秋,京田辺,未,未,1
+1494,2015,G4151,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4151000.html,有機化学演習Ⅰ,水谷 義,秋,京田辺,未,未,1
+1495,2015,G4152,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4152000.html,有機化学演習Ⅱ,人見 穣水谷 義,秋,京田辺,未,未,1
+1496,2015,G4153,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4153000.html,物理学演習,廣田 健,秋,京田辺,未,未,1
+1497,2015,G4154,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4154000.html,応用数学Ⅰ,服部 純典,秋,京田辺,未,未,1
+1498,2015,G4155,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4155000.html,外国書講読（英）,中村 久男,秋,京田辺,未,未,1
+1499,2015,G4156,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4156000.html,外国書講読（独）,三ツ木 道夫,秋,京田辺,未,未,1
+1500,2015,G4157,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4157000.html,分子分光学Ⅰ,小寺 政人,秋,京田辺,未,未,1
+1501,2015,G4158,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4158000.html,分子分光学Ⅱ,小寺 政人,秋,京田辺,未,未,1
+1502,2015,G4159,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4159000.html,高分子化学Ⅰ,東 信行,秋,京田辺,未,未,1
+1503,2015,G4160,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4160000.html,高分子化学Ⅱ,東 信行,秋,京田辺,未,未,1
+1504,2015,G4170,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4170000.html,物理化学演習Ⅱ,木村 佳文,秋,京田辺,未,未,1
+1505,2015,G4171,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4171000.html,特別講義Ⅰ,東城 哲朗,秋,京田辺,未,未,1
+1506,2015,G4172,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4172000.html,特別講義Ⅱ,小原 仁実麻生 祐司,秋,京田辺,未,未,1
+1507,2015,G4173,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4173000.html,応用数学Ⅱ,服部 純典,秋,京田辺,未,未,1
+1508,2015,G4174,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4174000.html,特別講義Ⅲ,廣田 健鴻池 健弘野村 登武信 弘一山崎 博樹,秋,京田辺,未,未,1
+1509,2015,G4176,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4176000.html,学外実習,廣田 健,秋,京田辺,未,未,1
+1510,2015,G4178,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4178000.html,知的財産権,小澤 壯夫,秋,京田辺,未,未,1
+1511,2015,G4190,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4190000.html,生物学実験,武田 博清光田 重幸石井 弘明松井 正文西田 律夫酒井 成子,秋,京田辺,未,未,1
+1512,2015,G4191,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4191000.html,生物学概論Ⅰ,光田 重幸,秋,京田辺,未,未,1
+1513,2015,G4192,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4192000.html,生物学概論Ⅱ,光田 重幸,秋,京田辺,未,未,1
+1514,2015,G4193,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4193000.html,基礎物理,野村 登,秋,京田辺,未,未,1
+1515,2015,G4200,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4200000.html,教科教育法Ａ１（理科）,二股 一郎川崎 将義坂下 淳一上田 眞一郎,秋,京田辺,未,未,1
+1516,2015,G4201,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4201000.html,教科教育法Ａ２（理科）,二股 一郎川崎 将義坂下 淳一上田 眞一郎,秋,京田辺,未,未,1
+1517,2015,G4210,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4210000.html,育実習Ａ,渡邊 芳英,秋,京田辺,未,未,1
+1518,2015,G4221-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4221001.html,教科教育法Ｂ（理科）－1,田邊 則彦,秋,京田辺,未,未,1
+1519,2015,G4221-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4221002.html,教科教育法Ｂ（理科）－2,内村 浩,秋,京田辺,未,未,1
+1520,2015,G4222,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4222000.html,教科教育法Ｃ（理科）,古本 大,秋,京田辺,未,未,1
+1521,2015,G4230-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4230001.html,育実習Ｂ－1,渡邊 芳英,秋,京田辺,未,未,1
+1522,2015,G4230-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4230002.html,育実習Ｂ－2,齋藤 誠慈,秋,京田辺,未,未,1
+1523,2015,G4230-003,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4230003.html,育実習Ｂ－3,田邊 則彦,秋,京田辺,未,未,1
+1524,2015,G4231-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4231001.html,育実習Ｃ－1,渡邊 芳英,秋,京田辺,未,未,1
+1525,2015,G4231-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4231002.html,育実習Ｃ－2,齋藤 誠慈,秋,京田辺,未,未,1
+1526,2015,G4231-003,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4231003.html,育実習Ｃ－3,田邊 則彦,秋,京田辺,未,未,1
+1527,2015,G4232-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4232001.html,育実習の研究－1,渡邊 芳英,秋,京田辺,未,未,1
+1528,2015,G4232-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4232002.html,育実習の研究－2,齋藤 誠慈,秋,京田辺,未,未,1
+1529,2015,G4232-003,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4232003.html,育実習の研究－3,田邊 則彦,秋,京田辺,未,未,1
+1530,2015,G4235-001,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4235001.html,教職実践演習（中・高）－1,井上 智義片桐 滋川﨑 廣吉齋藤 誠慈武田 博清内山 伊知郎渡邊 芳英,秋,京田辺,未,未,1
+1531,2015,G4235-002,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4235002.html,教職実践演習（中・高）－2,井上 智義片桐 滋川﨑 廣吉齋藤 誠慈武田 博清内山 伊知郎渡邊 芳英,秋,京田辺,未,未,1
+1532,2015,G4235-003,https://syllabus.doshisha.ac.jp/html/2015/G4/1G4235003.html,教職実践演習（中・高）－3,井上 智義剣持 貴弘齋藤 誠慈武田 博清内山 伊知郎渡邊 芳英,秋,京田辺,未,未,1
+1533,2015,G5001-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5001001.html,解析学Ⅰ－1,宮下 鋭也,秋,京田辺,未,未,1
+1534,2015,G5001-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5001002.html,解析学Ⅰ－2,津田 博史,秋,京田辺,未,未,1
+1535,2015,G5002-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5002001.html,解析学Ⅱ－1,宮下 鋭也,秋,京田辺,未,未,1
+1536,2015,G5002-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5002002.html,解析学Ⅱ－2,津田 博史,秋,京田辺,未,未,1
+1537,2015,G5003-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5003001.html,線形代数学Ⅰ－1,津田 博史,秋,京田辺,未,未,1
+1538,2015,G5003-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5003002.html,線形代数学Ⅰ－2,竹山 理,秋,京田辺,未,未,1
+1539,2015,G5004-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5004001.html,線形代数学Ⅱ－1,津田 博史,秋,京田辺,未,未,1
+1540,2015,G5004-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5004002.html,線形代数学Ⅱ－2,竹山 理,秋,京田辺,未,未,1
+1541,2015,G5005,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5005000.html,物理学Ⅰ,白川 善幸,秋,京田辺,未,未,1
+1542,2015,G5006,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5006000.html,物理学Ⅱ,白川 善幸,秋,京田辺,未,未,1
+1543,2015,G5007,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5007000.html,無機化学Ⅰ,塚越 一彦,秋,京田辺,未,未,1
+1544,2015,G5008,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5008000.html,無機化学Ⅱ,塚越 一彦,秋,京田辺,未,未,1
+1545,2015,G5009-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5009001.html,物理化学Ⅰ－1,森 康維,秋,京田辺,未,未,1
+1546,2015,G5009-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5009002.html,物理化学Ⅰ－2,森 康維,秋,京田辺,未,未,1
+1547,2015,G5010-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5010001.html,物理化学Ⅱ－1,近藤 和生,秋,京田辺,未,未,1
+1548,2015,G5010-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5010002.html,物理化学Ⅱ－2,近藤 和生,秋,京田辺,未,未,1
+1549,2015,G5011,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5011000.html,分析化学Ⅰ,橋本 雅彦,秋,京田辺,未,未,1
+1550,2015,G5012,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5012000.html,分析化学Ⅱ,塚越 一彦,秋,京田辺,未,未,1
+1551,2015,G5013,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5013000.html,有機化学Ⅰ,太田 哲男,秋,京田辺,未,未,1
+1552,2015,G5014,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5014000.html,有機化学Ⅱ,太田 哲男,秋,京田辺,未,未,1
+1553,2015,G5015,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5015000.html,化学システム創成工学概論,近藤 和生松本 道明森 康維塩井 章久土屋 活美塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+1554,2015,G5016,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5016000.html,化学工学量論演習Ⅰ,松本 道明,秋,京田辺,未,未,1
+1555,2015,G5020,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5020000.html,プログラミング法Ⅰおよび演習,森 康維白川 善幸片岡 勲小菅 真吾大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1556,2015,G5021,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5021000.html,量子化学Ⅰ,白川 善幸,秋,京田辺,未,未,1
+1557,2015,G5022,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5022000.html,移動現象論Ⅰ,土屋 活美,秋,京田辺,未,未,1
+1558,2015,G5023,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5023000.html,化学工学熱力学,塩井 章久,秋,京田辺,未,未,1
+1559,2015,G5024,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5024000.html,基礎化学実験Ⅰ,塚越 一彦橋本 雅彦保坂 晴美髙野 頌上田 修史松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1560,2015,G5025,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5025000.html,基礎化学実験Ⅱ,松本 道明塩井 章久保坂 晴美小寺 宣一松本 孝広大西 慶一郎下坂 厚子田村 隆,秋,京田辺,未,未,1
+1561,2015,G5026,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5026000.html,化学工学量論演習Ⅱ,松本 道明,秋,京田辺,未,未,1
+1562,2015,G5027-001,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5027001.html,反応工学Ⅰ－1,近藤 和生,秋,京田辺,未,未,1
+1563,2015,G5027-002,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5027002.html,反応工学Ⅰ－2,近藤 和生,秋,京田辺,未,未,1
+1564,2015,G5028,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5028000.html,拡散分離工学Ⅰ,土屋 活美,秋,京田辺,未,未,1
+1565,2015,G5040,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5040000.html,化学システム工学実験Ⅰ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾下坂 厚子田村 隆,秋,京田辺,未,未,1
+1566,2015,G5041,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5041000.html,化学システム工学実験Ⅱ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾下坂 厚子田村 隆,秋,京田辺,未,未,1
+1567,2015,G5051,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051000.html,卒業論文Ⅰ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾,秋,京田辺,未,未,1
+1568,2015,G5051-036,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051036.html,生物化学工学研究室－36,近藤 和生松本 道明,秋,京田辺,未,未,1
+1569,2015,G5051-048,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051048.html,移動現象研究室－48,森 康維土屋 活美,秋,京田辺,未,未,1
+1570,2015,G5051-060,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051060.html,計測分離工学研究室－60,塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+1571,2015,G5051-062,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051062.html,分子化学工学研究室－62,塩井 章久山本 大吾,秋,京田辺,未,未,1
+1572,2015,G5051-069,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5051069.html,粉体工学研究室－69,白川 善幸,秋,京田辺,未,未,1
+1573,2015,G5052,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052000.html,卒業論文Ⅱ,近藤 和生松本 道明森 康維塩井 章久白川 善幸土屋 活美塚越 一彦橋本 雅彦山本 大吾,秋,京田辺,未,未,1
+1574,2015,G5052-036,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052036.html,生物化学工学研究室－36,近藤 和生松本 道明,秋,京田辺,未,未,1
+1575,2015,G5052-048,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052048.html,移動現象研究室－48,森 康維土屋 活美,秋,京田辺,未,未,1
+1576,2015,G5052-060,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052060.html,計測分離工学研究室－60,塚越 一彦橋本 雅彦,秋,京田辺,未,未,1
+1577,2015,G5052-062,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052062.html,分子化学工学研究室－62,塩井 章久山本 大吾,秋,京田辺,未,未,1
+1578,2015,G5052-069,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5052069.html,粉体工学研究室－69,白川 善幸,秋,京田辺,未,未,1
+1579,2015,G5060,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5060000.html,応用解析学,竹山 理,秋,京田辺,未,未,1
+1580,2015,G5061,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5061000.html,応用数学,芦野 隆一,秋,京田辺,未,未,1
+1581,2015,G5062,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5062000.html,プログラミング法Ⅱ,松本 道明塚越 一彦,秋,京田辺,未,未,1
+1582,2015,G5063,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5063000.html,生物化学Ⅰ,吉村 徹,秋,京田辺,未,未,1
+1583,2015,G5064,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5064000.html,高分子化学,古賀 智之,秋,京田辺,未,未,1
+1584,2015,G5065,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5065000.html,流体力学,土屋 活美,秋,京田辺,未,未,1
+1585,2015,G5066,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5066000.html,界面工学,森 康維,秋,京田辺,未,未,1
+1586,2015,G5068,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5068000.html,工業数学演習,山本 大吾,秋,京田辺,未,未,1
+1587,2015,G5069,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5069000.html,拡散分離工学Ⅱ,塩井 章久,秋,京田辺,未,未,1
+1588,2015,G5070,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5070000.html,材料力学,塩井 章久,秋,京田辺,未,未,1
+1589,2015,G5080,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5080000.html,移動現象論Ⅱ,土屋 活美,秋,京田辺,未,未,1
+1590,2015,G5081,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5081000.html,量子化学Ⅱ,白川 善幸,秋,京田辺,未,未,1
+1591,2015,G5082,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5082000.html,統計力学,塩井 章久,秋,京田辺,未,未,1
+1592,2015,G5083,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5083000.html,固体プロセス工学Ⅰ,森 康維,秋,京田辺,未,未,1
+1593,2015,G5084,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5084000.html,固体プロセス工学Ⅱ,白川 善幸,秋,京田辺,未,未,1
+1594,2015,G5085,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5085000.html,反応工学Ⅱ,近藤 和生,秋,京田辺,未,未,1
+1595,2015,G5086,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5086000.html,生物反応工学,松本 道明,秋,京田辺,未,未,1
+1596,2015,G5087,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5087000.html,環境計測工学,橋本 雅彦,秋,京田辺,未,未,1
+1597,2015,G5088,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5088000.html,化学計測,塚越 一彦,秋,京田辺,未,未,1
+1598,2015,G5089,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5089000.html,プロセス制御,藤原 幸一,秋,京田辺,未,未,1
+1599,2015,G5090,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5090000.html,材料システム工学,森 康維,秋,京田辺,未,未,1
+1600,2015,G5091,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5091000.html,プロセス設計,斉藤 昇,秋,京田辺,未,未,1
+1601,2015,G5092,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5092000.html,生体材料工学,松本 道明,秋,京田辺,未,未,1
+1602,2015,G5094,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5094000.html,生物分離工学,橋本 雅彦,秋,京田辺,未,未,1
+1603,2015,G5095,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5095000.html,工学倫理,中村 正文,秋,京田辺,未,未,1
+1604,2015,G5100,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5100000.html,製図学,菱田 典明越智 昭夫岡村 貴句男谷車 竜司清川 豊,秋,京田辺,未,未,1
+1605,2015,G5101,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5101000.html,物理実験,土屋 活美山本 大吾保坂 晴美野村 登下坂 厚子田村 隆,秋,京田辺,未,未,1
+1606,2015,G5110,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5110000.html,数理統計学,竹山 理,秋,京田辺,未,未,1
+1607,2015,G5111,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5111000.html,生物化学Ⅱ,吉村 徹,秋,京田辺,未,未,1
+1608,2015,G5112,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5112000.html,電子工学概論,中川 洋,秋,京田辺,未,未,1
+1609,2015,G5120,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5120000.html,固体物性論,白川 善幸,秋,京田辺,未,未,1
+1610,2015,G5121,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5121000.html,溶液物性論,塩井 章久,秋,京田辺,未,未,1
+1611,2015,G5123,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5123000.html,科学英語Ⅱ,橋本 雅彦,秋,京田辺,未,未,1
+1612,2015,G5125,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5125000.html,特別講義Ⅱ,岸本 通雅,秋,京田辺,未,未,1
+1613,2015,G5126,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5126000.html,学外実習,松本 道明,秋,京田辺,未,未,1
+1614,2015,G5131,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5131000.html,電気工学実験,馬場 吉弘井上 馨加藤 利次髙橋 康人春名 洋海北橋 幸和田中 正明田中 裕治寺田 元治牛田 和彦山本 惠俊,秋,京田辺,未,未,1
+1615,2015,G5141,https://syllabus.doshisha.ac.jp/html/2015/G5/1G5141000.html,職業指導,川瀬 勝也,秋,京田辺,未,未,1
+1616,2015,G6001,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6001000.html,解析学Ⅰ,大竹 博巳,秋,京田辺,未,未,1
+1617,2015,G6002,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6002000.html,解析学Ⅱ,大竹 博巳,秋,京田辺,未,未,1
+1618,2015,G6003,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6003000.html,線形代数学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+1619,2015,G6004,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6004000.html,線形代数学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+1620,2015,G6005,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6005000.html,物理学Ⅰ,岩﨑 一成,秋,京田辺,未,未,1
+1621,2015,G6006,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6006000.html,無機化学,盛満 正嗣,秋,京田辺,未,未,1
+1622,2015,G6007,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6007000.html,有機化学Ⅰ,赤尾 聡史,秋,京田辺,未,未,1
+1623,2015,G6008,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6008000.html,生物学Ⅰ,光田 重幸,秋,京田辺,未,未,1
+1624,2015,G6009,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6009000.html,地球科学Ⅰ,横尾 頼子,秋,京田辺,未,未,1
+1625,2015,G6010,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6010000.html,地球科学Ⅱ,福間 浩司,秋,京田辺,未,未,1
+1626,2015,G6011,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6011000.html,環境システム学概論,林田 明,秋,京田辺,未,未,1
+1627,2015,G6012,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6012000.html,環境システム基礎実験Ａ,武田 博清光田 重幸石井 弘明松井 正文西田 律夫酒井 成子,秋,京田辺,未,未,1
+1628,2015,G6020,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6020000.html,物理学Ⅱ,岩﨑 一成,秋,京田辺,未,未,1
+1629,2015,G6021,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6021000.html,生物学Ⅱ,武田 博清,秋,京田辺,未,未,1
+1630,2015,G6022,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6022000.html,環境システム基礎実験Ｂ,林田 明増田 富士雄福間 浩司山根 省三岩﨑 一成横尾 頼子,秋,京田辺,未,未,1
+1631,2015,G6023,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6023000.html,環境システム基礎実験Ｃ,後藤 也盛満 正嗣赤尾 聡史津田 哲哉,秋,京田辺,未,未,1
+1632,2015,G6040,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6040000.html,科学技術論,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+1633,2015,G6041,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6041000.html,環境システム応用実験Ａ,後藤 也盛満 正嗣武田 博清赤尾 聡史光田 重幸川口 健次松井 正文,秋,京田辺,未,未,1
+1634,2015,G6042,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6042000.html,環境システム応用実験Ｂ,林田 明増田 富士雄福間 浩司山根 省三岩﨑 一成横尾 頼子,秋,京田辺,未,未,1
+1635,2015,G6051,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051000.html,卒業論文Ⅰ,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+1636,2015,G6051-001,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051001.html,地球システム科学研究室－1,林田 明福間 浩司,秋,京田辺,未,未,1
+1637,2015,G6051-006,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051006.html,環境保全・防災技術研究室－6,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+1638,2015,G6051-007,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051007.html,環境システム工学研究室－7,盛満 正嗣,秋,京田辺,未,未,1
+1639,2015,G6051-008,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051008.html,地域環境研究室－8,山根 省三,秋,京田辺,未,未,1
+1640,2015,G6051-011,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051011.html,生命環境保全研究室－11,武田 博清光田 重幸,秋,京田辺,未,未,1
+1641,2015,G6051-012,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051012.html,新エネルギーシステム研究室－12,後藤 也,秋,京田辺,未,未,1
+1642,2015,G6051-013,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6051013.html,人間環境研究室－13,赤尾 聡史,秋,京田辺,未,未,1
+1643,2015,G6052,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052000.html,卒業論文Ⅱ,後藤 也林田 明増田 富士雄盛満 正嗣武田 博清赤尾 聡史福間 浩司光田 重幸山根 省三横尾 頼子,秋,京田辺,未,未,1
+1644,2015,G6052-001,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052001.html,地球システム科学研究室－1,林田 明福間 浩司,秋,京田辺,未,未,1
+1645,2015,G6052-006,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052006.html,環境保全・防災技術研究室－6,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+1646,2015,G6052-007,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052007.html,環境システム工学研究室－7,盛満 正嗣,秋,京田辺,未,未,1
+1647,2015,G6052-008,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052008.html,地域環境研究室－8,山根 省三,秋,京田辺,未,未,1
+1648,2015,G6052-011,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052011.html,生命環境保全研究室－11,武田 博清光田 重幸,秋,京田辺,未,未,1
+1649,2015,G6052-012,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052012.html,新エネルギーシステム研究室－12,後藤 也,秋,京田辺,未,未,1
+1650,2015,G6052-013,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6052013.html,人間環境研究室－13,赤尾 聡史,秋,京田辺,未,未,1
+1651,2015,G6060,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6060000.html,環境物質科学Ⅰ,盛満 正嗣,秋,京田辺,未,未,1
+1652,2015,G6061,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6061000.html,環境物質科学Ⅱ,盛満 正嗣,秋,京田辺,未,未,1
+1653,2015,G6062,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6062000.html,地球環境科学Ⅰ,山根 省三,秋,京田辺,未,未,1
+1654,2015,G6063,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6063000.html,地球環境科学Ⅱ,増田 富士雄,秋,京田辺,未,未,1
+1655,2015,G6064,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6064000.html,環境地球化学,横尾 頼子,秋,京田辺,未,未,1
+1656,2015,G6065,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6065000.html,地球物質科学,林田 明,秋,京田辺,未,未,1
+1657,2015,G6066,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6066000.html,生命環境科学,光田 重幸,秋,京田辺,未,未,1
+1658,2015,G6067,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6067000.html,生態学,武田 博清,秋,京田辺,未,未,1
+1659,2015,G6068,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6068000.html,資源・エネルギー学Ⅰ,後藤 也,秋,京田辺,未,未,1
+1660,2015,G6069,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6069000.html,資源・エネルギー学Ⅱ,後藤 也,秋,京田辺,未,未,1
+1661,2015,G6080,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6080000.html,物理学基礎,岩﨑 一成,秋,京田辺,未,未,1
+1662,2015,G6081,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6081000.html,生物学基礎,光田 重幸,秋,京田辺,未,未,1
+1663,2015,G6090,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6090000.html,応用数学Ⅰ,森谷 駿二,秋,京田辺,未,未,1
+1664,2015,G6091,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6091000.html,応用数学Ⅱ,森谷 駿二,秋,京田辺,未,未,1
+1665,2015,G6092,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6092000.html,プログラミングⅠ,岩﨑 一成,秋,京田辺,未,未,1
+1666,2015,G6093,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6093000.html,プログラミングⅡ,岩﨑 一成,秋,京田辺,未,未,1
+1667,2015,G6094,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6094000.html,有機化学Ⅱ,赤尾 聡史,秋,京田辺,未,未,1
+1668,2015,G6100,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6100000.html,数理統計学Ⅰ,辻 幹雄,秋,京田辺,未,未,1
+1669,2015,G6101,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6101000.html,数理統計学Ⅱ,辻 幹雄,秋,京田辺,未,未,1
+1670,2015,G6102,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6102000.html,数値計算,福間 浩司,秋,京田辺,未,未,1
+1671,2015,G6103,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6103000.html,環境シミュレーション,福間 浩司,秋,京田辺,未,未,1
+1672,2015,G6104,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6104000.html,環境経済学,郡嶌 孝,秋,京田辺,未,未,1
+1673,2015,G6105,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6105000.html,地球システム科学,福間 浩司,秋,京田辺,未,未,1
+1674,2015,G6106,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6106000.html,地球環境変動論,林田 明増田 富士雄山根 省三,秋,京田辺,未,未,1
+1675,2015,G6107,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6107000.html,地球ダイナミクス,林田 明,秋,京田辺,未,未,1
+1676,2015,G6108,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6108000.html,地圏環境科学,増田 富士雄横尾 頼子,秋,京田辺,未,未,1
+1677,2015,G6109,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6109000.html,地球観測技術,松波 孝治,秋,京田辺,未,未,1
+1678,2015,G6110,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6110000.html,環境影響評価,横尾 頼子,秋,京田辺,未,未,1
+1679,2015,G6111,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6111000.html,自然災害論,増田 富士雄,秋,京田辺,未,未,1
+1680,2015,G6112,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6112000.html,防災科学,増田 富士雄,秋,京田辺,未,未,1
+1681,2015,G6113,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6113000.html,保全生態学,光田 重幸,秋,京田辺,未,未,1
+1682,2015,G6114,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6114000.html,動物行動学,山﨑 理正,秋,京田辺,未,未,1
+1683,2015,G6115,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6115000.html,生物資源学,武田 博清,秋,京田辺,未,未,1
+1684,2015,G6116,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6116000.html,地域環境学,増田 富士雄山根 省三,秋,京田辺,未,未,1
+1685,2015,G6117,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6117000.html,都市環境学,山根 省三,秋,京田辺,未,未,1
+1686,2015,G6118,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6118000.html,人間環境科学,赤尾 聡史,秋,京田辺,未,未,1
+1687,2015,G6119,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6119000.html,化学熱力学,後藤 也,秋,京田辺,未,未,1
+1688,2015,G6120,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6120000.html,電気化学,後藤 也,秋,京田辺,未,未,1
+1689,2015,G6121,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6121000.html,エネルギー環境学,盛満 正嗣,秋,京田辺,未,未,1
+1690,2015,G6122,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6122000.html,エネルギー反応論,盛満 正嗣,秋,京田辺,未,未,1
+1691,2015,G6201,https://syllabus.doshisha.ac.jp/html/2015/G6/1G6201000.html,物理実験,土屋 活美山本 大吾保坂 晴美野村 登下坂 厚子田村 隆,秋,京田辺,未,未,1
+1692,2015,G7001,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7001000.html,解析学Ⅰ,溝畑 潔,秋,京田辺,未,未,1
+1693,2015,G7002,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7002000.html,解析学Ⅱ,押目 頼昌,秋,京田辺,未,未,1
+1694,2015,G7003,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7003000.html,線形代数学Ⅰ,河野 明押目 頼昌,秋,京田辺,未,未,1
+1695,2015,G7004,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7004000.html,線形代数学Ⅱ,河野 明溝畑 潔,秋,京田辺,未,未,1
+1696,2015,G7005,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7005000.html,数学演習Ⅰ,溝畑 潔森谷 駿二,秋,京田辺,未,未,1
+1697,2015,G7006,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7006000.html,数学演習Ⅱ,押目 頼昌森谷 駿二,秋,京田辺,未,未,1
+1698,2015,G7007,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7007000.html,確率・統計入門,津田 博史,秋,京田辺,未,未,1
+1699,2015,G7008,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7008000.html,数理システム演習Ⅰ,川口 周,秋,京田辺,未,未,1
+1700,2015,G7009,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7009000.html,数理システム演習Ⅱ,溝畑 潔,秋,京田辺,未,未,1
+1701,2015,G7010,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7010000.html,コンピュータ入門,今井 仁司,秋,京田辺,未,未,1
+1702,2015,G7011,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7011000.html,情報処理入門,溝畑 潔,秋,京田辺,未,未,1
+1703,2015,G7012,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7012000.html,確率・統計基礎,津田 博史,秋,京田辺,未,未,1
+1704,2015,G7020,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7020000.html,数理システム演習Ⅲ,大田 靖,秋,京田辺,未,未,1
+1705,2015,G7021,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7021000.html,数理システム演習Ⅳ,渡邊 芳英向平 敦史,秋,京田辺,未,未,1
+1706,2015,G7022,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7022000.html,コンピュータプログラミングⅠ,溝畑 潔,秋,京田辺,未,未,1
+1707,2015,G7023,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7023000.html,コンピュータプログラミングⅡ,溝畑 潔,秋,京田辺,未,未,1
+1708,2015,G7040,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7040000.html,数理ゼミナールⅠ,河野 明溝畑 潔押目 頼昌齋藤 誠慈,秋,京田辺,未,未,1
+1709,2015,G7041,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7041000.html,数理ゼミナールⅡ,川口 周津田 博史今井 仁司渡邊 芳英,秋,京田辺,未,未,1
+1710,2015,G7051,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051000.html,卒業論文Ⅰ,今井 仁司川口 周河野 明溝畑 潔押目 頼昌齋藤 誠慈津田 博史渡邊 芳英,秋,京田辺,未,未,1
+1711,2015,G7051-002,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051002.html,幾何学研究室－2,河野 明,秋,京田辺,未,未,1
+1712,2015,G7051-003,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051003.html,解析学研究室－3,押目 頼昌,秋,京田辺,未,未,1
+1713,2015,G7051-004,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051004.html,関数方程式研究室－4,溝畑 潔,秋,京田辺,未,未,1
+1714,2015,G7051-005,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051005.html,統計ファイナンス研究室－5,津田 博史,秋,京田辺,未,未,1
+1715,2015,G7051-007,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051007.html,情報解析研究室－7,齋藤 誠慈,秋,京田辺,未,未,1
+1716,2015,G7051-008,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051008.html,離散数理研究室－8,渡邊 芳英,秋,京田辺,未,未,1
+1717,2015,G7051-009,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051009.html,計算数理－9,今井 仁司,秋,京田辺,未,未,1
+1718,2015,G7051-010,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7051010.html,代数学－10,川口 周,秋,京田辺,未,未,1
+1719,2015,G7052,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052000.html,卒業論文Ⅱ,今井 仁司川口 周河野 明溝畑 潔押目 頼昌齋藤 誠慈津田 博史渡邊 芳英,秋,京田辺,未,未,1
+1720,2015,G7052-002,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052002.html,幾何学研究室－2,河野 明,秋,京田辺,未,未,1
+1721,2015,G7052-003,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052003.html,解析学研究室－3,押目 頼昌,秋,京田辺,未,未,1
+1722,2015,G7052-004,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052004.html,関数方程式研究室－4,溝畑 潔,秋,京田辺,未,未,1
+1723,2015,G7052-005,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052005.html,統計ファイナンス研究室－5,津田 博史,秋,京田辺,未,未,1
+1724,2015,G7052-007,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052007.html,情報解析研究室－7,齋藤 誠慈,秋,京田辺,未,未,1
+1725,2015,G7052-008,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052008.html,離散数理研究室－8,渡邊 芳英,秋,京田辺,未,未,1
+1726,2015,G7052-009,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052009.html,計算数理－9,今井 仁司,秋,京田辺,未,未,1
+1727,2015,G7052-010,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7052010.html,代数学－10,川口 周,秋,京田辺,未,未,1
+1728,2015,G7060,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7060000.html,物理学Ⅰ,伊東 恵一,秋,京田辺,未,未,1
+1729,2015,G7061,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7061000.html,物理学Ⅱ,伊東 恵一,秋,京田辺,未,未,1
+1730,2015,G7070,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7070000.html,複素解析,今井 仁司,秋,京田辺,未,未,1
+1731,2015,G7071,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7071000.html,フーリエ・ラプラス解析,齋藤 誠慈,秋,京田辺,未,未,1
+1732,2015,G7072,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7072000.html,集合と位相,押目 頼昌,秋,京田辺,未,未,1
+1733,2015,G7073,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7073000.html,微分方程式,今井 仁司,秋,京田辺,未,未,1
+1734,2015,G7074,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7074000.html,ベクトル解析,松田 真実,秋,京田辺,未,未,1
+1735,2015,G7075,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7075000.html,代数学Ⅰ,川口 周,秋,京田辺,未,未,1
+1736,2015,G7076,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7076000.html,代数学Ⅱ,川口 周,秋,京田辺,未,未,1
+1737,2015,G7077,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7077000.html,幾何学Ⅰ,河野 明松本 堯生,秋,京田辺,未,未,1
+1738,2015,G7078,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7078000.html,幾何学Ⅱ,河野 明松本 堯生,秋,京田辺,未,未,1
+1739,2015,G7079,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7079000.html,数学演習Ⅲ,川口 周藤田 健人,秋,京田辺,未,未,1
+1740,2015,G7080,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7080000.html,数学演習Ⅳ,川口 周藤田 健人,秋,京田辺,未,未,1
+1741,2015,G7081,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7081000.html,数理モデル,川﨑 廣吉,秋,京田辺,未,未,1
+1742,2015,G7082,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7082000.html,離散数理,渡邊 芳英,秋,京田辺,未,未,1
+1743,2015,G7083,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7083000.html,確率・統計Ⅰ,津田 博史,秋,京田辺,未,未,1
+1744,2015,G7084,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7084000.html,確率・統計Ⅱ,津田 博史,秋,京田辺,未,未,1
+1745,2015,G7090,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7090000.html,応用微分方程式,溝畑 潔,秋,京田辺,未,未,1
+1746,2015,G7091,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7091000.html,積分論,押目 頼昌,秋,京田辺,未,未,1
+1747,2015,G7092,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7092000.html,応用解析学,押目 頼昌,秋,京田辺,未,未,1
+1748,2015,G7093,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7093000.html,整数論,川口 周,秋,京田辺,未,未,1
+1749,2015,G7094,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7094000.html,応用代数学,川口 周,秋,京田辺,未,未,1
+1750,2015,G7095,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7095000.html,応用幾何学,河野 明森谷 駿二,秋,京田辺,未,未,1
+1751,2015,G7097,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7097000.html,数値解析Ⅰ,今井 仁司,秋,京田辺,未,未,1
+1752,2015,G7098,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7098000.html,数値解析Ⅱ,今井 仁司,秋,京田辺,未,未,1
+1753,2015,G7099,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7099000.html,数理統計Ⅰ,津田 博史,秋,京田辺,未,未,1
+1754,2015,G7100,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7100000.html,数理統計Ⅱ,津田 博史,秋,京田辺,未,未,1
+1755,2015,G7101,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7101000.html,金融・投資の統計科学,津田 博史,秋,京田辺,未,未,1
+1756,2015,G7102,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7102000.html,数理計画法,齋藤 誠慈,秋,京田辺,未,未,1
+1757,2015,G7103,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7103000.html,計算代数,渡邊 芳英,秋,京田辺,未,未,1
+1758,2015,G7104,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7104000.html,応用数学Ⅰ,渡邊 芳英,秋,京田辺,未,未,1
+1759,2015,G7105,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7105000.html,応用数学Ⅱ,齋藤 誠慈,秋,京田辺,未,未,1
+1760,2015,G7106,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7106000.html,数理システム特別講義Ⅰ,溝畑 潔中村 久美子園田 毅芳沢 光雄,秋,今出川,未,未,1
+1761,2015,G7107,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7107000.html,数理システム特別講義Ⅱ,津田 博史大庫 直樹平 智之,秋,京田辺,未,未,1
+1762,2015,G7108,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7108000.html,数理統計,津田 博史,秋,京田辺,未,未,1
+1763,2015,G7109,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7109000.html,計算代数Ⅰ,渡邊 芳英,秋,京田辺,未,未,1
+1764,2015,G7110,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7110000.html,計算代数Ⅱ,渡邊 芳英,秋,京田辺,未,未,1
+1765,2015,G7111,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7111000.html,環境物質科学Ⅰ,盛満 正嗣,秋,京田辺,未,未,1
+1766,2015,G7200,https://syllabus.doshisha.ac.jp/html/2015/G7/1G7200000.html,代  数  構  造,浦部 治一郎,秋,京田辺,未,未,1

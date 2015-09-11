@@ -11,8 +11,17 @@
   <% if @lessons.any? %>
     <% @lessons.each do |lesson|  %>
     <tr>
-      <td><%= link_to lesson.title, lesson_path(lesson.id) %></td>
-      <td><%= lesson.teacher %></td>
+        <% if lesson.title.length < 10 %>
+	 <td><%= link_to lesson.title, lesson_path(lesson.id) %></td>
+	<% else %>
+	 <td><%= link_to lesson.title[0,10], lesson_path(lesson.id) %>..</td>
+	<% end %>
+      </td>
+        <% if lesson.teacher.length < 10 %>
+	 <td><%= lesson.teacher %></td>
+	<% else %>
+	 <td><%= lesson.teacher[0,10] %>..</td>
+	<% end %>
       <td><%= lesson.season  %></td>
       <td><%= lesson.place  %></td>
       <td><%= lesson.time  %></td>
