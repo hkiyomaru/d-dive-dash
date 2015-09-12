@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 class LessonsController < ApplicationController
+  layout 'application'
 
   def index
     @search = Lesson.search(params[:q])
@@ -24,10 +25,9 @@ class LessonsController < ApplicationController
   end
 
   def bubble
+    render :layout => 'welcome'
   end
 
-  # GET /lessons
-  # GET /lessons.json
   def welcome
     @search = Lesson.search(params[:q])
   end

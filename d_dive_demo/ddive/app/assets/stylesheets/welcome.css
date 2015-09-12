@@ -8,45 +8,39 @@
  * You're free to add application-wide styles to this file and they'll appear at the top of the
  * compiled file, but it's generally better to create a new file per style scope.
  *
- *= require_self
- *= require_tree .
  */
 
-.wrapper{
-	margin:0 20px;
+body{
+	background-color:#00A2E8;
 }
-.header{
-	display:block;
+.title{
+	margin:40px 0;
+	text-align:center;
 }
-.header h1{
-	margin:20px 0;
-	height:60px;
-	background-color: #66CDAA;
-	text-align: center;
+.title img{
+	height: 150px;
+}
+.copy {
+	margin-bottom:50px;
+}
+.copy h3{
 	color:#FFFFFF;
-	border:5px ridge #48D1CC;
+	text-align: center;
+	font-size: 20px;
 }
-.form-group select{
-	color:#A0A0A0;
-	background-color:#FFFFFF;
-	border-color:#A0A0A0;
-}
-.form-group2 button{
+
+.col-sm-12 .button{
 	display: block;
 	margin: 0 auto;
-	width:100px;
-	height:40px;
-	background-color:#66CDAA;
-	color:#FFFFFF;
+	width:200px;
+	height: 50px;
+	border: 2px solid rgba(255, 255, 255, 1);/*a:透明度*/
+	border-radius: 5px;
+	background-color: transparent;
+	font-size: 25px;
+	color: rgba(255, 255, 255, 1);
 }
 
-.glyphicon.glyphicon-search{
-	margin-right:5px;
-}
-.form-group2 a{
-	color:#FFFFFF;
-}
-
-.main{
-	margin:40px 0;
+.col-sm-12 .button:hover{
+	color:#00A2E8;
 }

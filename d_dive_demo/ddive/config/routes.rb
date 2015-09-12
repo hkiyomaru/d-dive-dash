@@ -4,7 +4,7 @@ Ddive::Application.routes.draw do
     resources :notes, only: [:create, :destroy]
   end
 
-  root 'lessons#welcome2'
+  root 'lessons#bubble'
 
   get '/welcome2' => 'lessons#welcome2'
   
