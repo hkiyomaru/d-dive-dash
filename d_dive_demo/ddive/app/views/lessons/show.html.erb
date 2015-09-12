@@ -1,65 +1,45 @@
-<!DOCTYPE html>
-<html lang="ja">
-  <head>
-
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>D-Dive</title>
-    <link rel="stylesheet" href="./DDiveStyle.css">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-    
-
-  </head>
-
-
-  <body>
-   <div class="wrapper">
-   <div class="main">
-      <h1>D-Dive</h1>
-      <table class="table">
-        <thread>
+<div class="wrapper">
+  <div class="main">
+    <h1>D-Dive</h1>
+    <table class="table">
+      <thread>
         <tr>
-         <th>講義名</th><th>教授</th><th>春/秋</th><th>校地</th><th>時間</th><th>教室</th>
+          <th>講義名</th>
+          <th>教授</th>
+          <th>春/秋</th>
+          <th>校地</th>
+          <th>時間</th>
+          <th>教室</th>
         </tr>
-        </thread>
-        <tbody>
-            <tr>
-	      <th><%= link_to @lesson.title, @lesson.url %></th>
-	      <th><%= @lesson.teacher %></th>
-	      <th><%= @lesson.season  %></th>
-	      <th><%= @lesson.place  %></th>
-	      <th><%= @lesson.time  %></th>
-	      <th><%= @lesson.room %></th>
-            </tr>
-          </tbody>
-      </table>
-      <p >
-	<%= link_to "時間・教室の編集", edit_lesson_path(@lesson.id) %>
-      </p>
-
-      <ul>
-	<% if @lesson.notes.any? %>
-  <%= @lesson.notes.each do |note|  %>
-  <li><%= note.filename %></li>
+      </thread>
+      <tbody>
+        <tr>
+          <th><%= link_to @lesson.title, @lesson.url %></th>
+          <th><%= @lesson.teacher %></th>
+          <th><%= @lesson.season  %></th>
+          <th><%= @lesson.place  %></th>
+          <th><%= @lesson.time  %></th>
+          <th><%= @lesson.room %></th>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <%= link_to "時間・教室の編集", edit_lesson_path(@lesson.id) %>
+    </p>
+    <ul>
+      <% if @lesson.notes.any? %>
+        <%= @lesson.notes.each do |note|  %>
+          <li><%= note.filename %></li>
+        <% end %> 
+      <% else %>
+        <p>講義ノートはアップロードされていません</p>
       <% end %>
-    <% else %>
-  <p>講義ノートはアップロードされていません</p>
-    <% end %>
-  <li>
-	<%= form_for [@lesson, @lesson.notes.build] do |f| %>
-    <%= f.file_field :file %>
-      <%= f.submit %>
-      <% end %>
+      <li>
+        <%= form_for [@lesson, @lesson.notes.build] do |f| %>
+          <%= f.file_field :file %>
+          <%= f.submit %>
+        <% end %>
       </li>
-      </ul>
-
-
-   </div> 
-
-  </div>
-
-  </body>
-</html>
+    </ul>
+  </div> 
+</div>
